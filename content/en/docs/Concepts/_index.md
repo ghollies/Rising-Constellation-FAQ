@@ -1,18 +1,46 @@
 ---
 title: "Concepts"
 linkTitle: "Concepts"
-weight: 4
+weight: 1
 description: >
   What does your user need to understand about your project in order to use it - or potentially contribute to it? 
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+### Victory
+#### How does one team win? 
+There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals reached. The goal of the game is to hit the 12 stars mark first as a team.
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+### Mobility
+#### What does each point do?
+it increases credits by .1 per system population . When received from a building in a system, it increases the mobility in that system only. When received from a Lex, the full value applies to all of your systems.
+#### Other impacts
+Mobility is a scaling factor for two late-game buildings: reflect district and business arch. They are generally considered some of the best late game credit generation buildings.
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+
+### Stability 
+When received from a building in a system, it increases the stability in that system only. When received from a Lex, the full value applies to all of your systems.
+
+Factor’s into growth speed, as you approach 0 stability, or negative values, growth will be hindered.
+
+When below 0, penalties to the system production will occur
+View the 3rd tab on the system to view specific values:
+
+### What exactly does SLSD do?
+SLSD is like radar? It shows enemy fleet movement in range. Higher SLSD means the radius is larger.
 
 
-Mobility!
+### Resources
+#### How fast do resources accumulate?
+The number at the bottom of your screen next to each resource show the amount that will be gained every 3 minutes (In Legacy mode). Common practice is to think of at x20 for the amount per hour you will have.
+
+#### Resource Tax on player trades
+How long does it take for tax to drop from 60 to 5
+not sure anymore..
+but like 2% per hour? 
+
+#### Is there a resource cap?
+No 
+Per Novae: of course
+
+
+TODO: images

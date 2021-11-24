@@ -2,47 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Rising-Constellation-FAQ/docs/overview/</loc>
+    <loc>/Rising-Constellation-FAQ/docs/concepts/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/beds/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/agents/navarch/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/getting-started/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/systems/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/examples/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/agents/siderian/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tutorials/multi-bear/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/agents/erased/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/porridge/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/concepts/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/task/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tutorials/tutorial2/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tutorials/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/reference/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/agents/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/contribution-guidelines/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
@@ -50,61 +29,33 @@
     <loc>/Rising-Constellation-FAQ/docs/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/news/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/systems/dominions/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/releases/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <loc>/Rising-Constellation-FAQ/docs/systems/buildings/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/categories/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/tags/docs/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/getting-started/example-page/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/categories/examples/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/reference/parameter-reference/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/tags/sample/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/tags/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/tags/test/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/tasks/ponycopters/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/about/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/blog/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/community/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/</loc>
-    <lastmod>2021-11-24T11:14:05-05:00</lastmod>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/categories/placeholders/</loc>
+  </url><url>
+    <loc>/Rising-Constellation-FAQ/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/search/</loc>

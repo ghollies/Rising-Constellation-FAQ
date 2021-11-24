@@ -1,17 +1,21 @@
 
 ---
-title: "Examples"
-linkTitle: "Examples"
+title: "Ships"
+linkTitle: "Ships"
 weight: 3
 date: 2017-01-05
 description: >
   See your project in action!
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+### How does experience enhance fleets? How much experience per level?
++0.5% of main stats per lvl
+(att, def etc..)
+and more moral, so less likely to flee when other squads are killed. XP is not flat by lvl but exponential, like agent xp
 
-Do you have any example **applications** or **code** for your users in your repo or elsewhere? Link to your examples here.
+### Is there a place I can find out what the ship stats do? like what is maneuverability, and the difference between energy and explosive attack, etc?
+Battle simulator in the game is the best source of information
+energy attack is reduced by shield, and explosive can be blocked by flock
 
-
+### Can we donate ships?
+No, only resources

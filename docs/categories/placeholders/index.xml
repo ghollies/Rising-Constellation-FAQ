@@ -14,39 +14,31 @@
     
     
     <item>
-      <title>Docs: Getting Started</title>
-      <link>/Rising-Constellation-FAQ/docs/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Docs: Systems</title>
+      <link>/Rising-Constellation-FAQ/docs/systems/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Rising-Constellation-FAQ/docs/getting-started/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/systems/</guid>
       <description>
         
         
-        
-
-&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Information in this section helps your user try your project themselves.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.&lt;/p&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-&lt;p&gt;Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?&lt;/p&gt;
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
-&lt;p&gt;Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?&lt;/p&gt;
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-&lt;p&gt;Is there any initial setup users need to do after installation to try your project?&lt;/p&gt;
-&lt;h2 id=&#34;try-it-out&#34;&gt;Try it out!&lt;/h2&gt;
-&lt;p&gt;Can your users test their installation, for example by running a command or deploying a Hello World example?&lt;/p&gt;
+        &lt;h3 id=&#34;prodction&#34;&gt;Prodction&lt;/h3&gt;
+&lt;h4 id=&#34;most-of-my-time-so-far-is-spent-waiting-for-science-and-ideology-points-my-production-is-not-working-should-i-be-using-it-for-something&#34;&gt;Most of my time so far is spent waiting for science and ideology points. My production is not working, should I be using it for something?&lt;/h4&gt;
+&lt;p&gt;it&amp;rsquo;s completely normal that the first 2 days you are not capping your production and are waiting on techno and ideo, don&amp;rsquo;t worry.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-the-difference-between-mobilized-and-populations&#34;&gt;What is the difference between mobilized and populations?&lt;/h3&gt;
+&lt;p&gt;If there are more number of jobs available than population, there is a penalty
+Each building will say how many mobilized workers it requires. For example requires 2 workers to function optimally, the tooltip on the population icon shows how many your buildings require, vs the total number of people in your system, if the mobilized value is greater than the total you will see penalties in your resource production
+TODO images&lt;/p&gt;
+&lt;h3 id=&#34;system-population&#34;&gt;System Population&lt;/h3&gt;
+&lt;p&gt;How do populations within a system balance between planets?
+does it every time you have a new pop it tries to even it between all the planets&lt;/p&gt;
+&lt;h3 id=&#34;colonizing&#34;&gt;Colonizing&lt;/h3&gt;
+&lt;h4 id=&#34;if-i-am-going-to-colonize-does-it-matter-how-far-it-is-from-my-home-world&#34;&gt;If I am going to colonize, does it matter how far it is from my home world?&lt;/h4&gt;
+&lt;p&gt;where to colonize : in early game, to get your second system, it is advised to get one near you to start building on it faster. But after that, it always depends on the systems available, the faction strategy,etc&lt;/p&gt;
+&lt;h4 id=&#34;can-i-reserve-a-system&#34;&gt;Can I reserve a system?&lt;/h4&gt;
+&lt;p&gt;Each faction usually has a chat room dedicated to system reservation to avoid multiple people sending colony ships to the same system and wasting time. Pick a system that looks good to you, and put the NAME XXX:YYY coordinates in the room (these can be found by clicking on the system,&lt;/p&gt;
+&lt;h4 id=&#34;what-sectors-can-i-colonize-a-system-in&#34;&gt;What sectors can I colonize a system in?&lt;/h4&gt;
+&lt;p&gt;You can only take control of systems in sectors adjacent to one your faction already owns, or in a sector your faction owns.&lt;/p&gt;
 
       </description>
     </item>
