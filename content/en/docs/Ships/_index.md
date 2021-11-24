@@ -5,7 +5,7 @@ linkTitle: "Ships"
 weight: 3
 date: 2017-01-05
 description: >
-  See your project in action!
+  Fleets and ships
 ---
 
 ### How does experience enhance fleets? How much experience per level?
