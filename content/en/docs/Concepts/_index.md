@@ -40,7 +40,7 @@ but like 2% per hour?
 
 #### Is there a resource cap?
 No 
-Per Novae: of course
+<!-- Per Novae: of course
 
 
-TODO: images
+TODO: images -->
