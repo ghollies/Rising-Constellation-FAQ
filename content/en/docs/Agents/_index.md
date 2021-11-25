@@ -19,6 +19,8 @@ One skill point, for descriptions of each skill see:
 [Navarch](https://asylamba.com/public/media/files/sources/navarch-tetrarchy.png)
 [Erased](https://asylamba.com/public/media/files/sources/erased-cardan.png)
 
+ Each agent has a preferred skill and a second preferred. It has 47% chance to get a point in his first skill, 29% in the second skill and 6% in each other skills.
+
 ### How much do skills like knowledge wisdom and finance increase resource generation in the system?
 5% multiplier for each rank
 
