@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unofficial Rising Constellation FAQ – Agents</title>
-    <link>/docs/agents/</link>
+    <link>/Rising-Constellation-FAQ/docs/agents/</link>
     <description>Recent content in Agents on Unofficial Rising Constellation FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/docs/agents/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/Rising-Constellation-FAQ/docs/agents/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Navarch</title>
-      <link>/docs/agents/navarch/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/navarch/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/navarch/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/navarch/</guid>
       <description>
         
         
@@ -45,10 +45,10 @@
     
     <item>
       <title>Docs: Siderian</title>
-      <link>/docs/agents/siderian/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/siderian/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/siderian/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/siderian/</guid>
       <description>
         
         
@@ -59,10 +59,10 @@
     
     <item>
       <title>Docs: Erased</title>
-      <link>/docs/agents/erased/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/erased/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/erased/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/erased/</guid>
       <description>
         
         

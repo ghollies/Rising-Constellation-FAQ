@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unofficial Rising Constellation FAQ – Unofficial FAQ</title>
-    <link>/docs/</link>
+    <link>/Rising-Constellation-FAQ/docs/</link>
     <description>Recent content in Unofficial FAQ on Unofficial Rising Constellation FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/Rising-Constellation-FAQ/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Navarch</title>
-      <link>/docs/agents/navarch/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/navarch/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/navarch/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/navarch/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@
     
     <item>
       <title>Docs: Siderian</title>
-      <link>/docs/agents/siderian/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/siderian/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/siderian/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/siderian/</guid>
       <description>
         
         
@@ -58,10 +58,10 @@
     
     <item>
       <title>Docs: Erased</title>
-      <link>/docs/agents/erased/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/erased/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/erased/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/erased/</guid>
       <description>
         
         
@@ -336,10 +336,10 @@ This is the final element on the page and there should be no margin below this.
     
     <item>
       <title>Docs: Dominions and Autonomous Systems</title>
-      <link>/docs/systems/dominions/</link>
+      <link>/Rising-Constellation-FAQ/docs/systems/dominions/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/systems/dominions/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/systems/dominions/</guid>
       <description>
         
         
@@ -358,7 +358,7 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
 &lt;p&gt;You can only take control of systems in sectors adjacent to one your faction already owns, or in a sector your faction owns.&lt;/p&gt;
 &lt;h3 id=&#34;autonomous-systems&#34;&gt;Autonomous systems&lt;/h3&gt;
 &lt;h4 id=&#34;are-they-farmable&#34;&gt;Are they farmable?&lt;/h4&gt;
-&lt;p&gt;yes, Pillaging them is a good way to both level up your agents, and gain resources, repairing buildings is not too hard if someone takes it over. see &lt;a href=&#34;/docs/agents/navarch/#pillaging&#34;&gt;Pillaging&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;yes, Pillaging them is a good way to both level up your agents, and gain resources, repairing buildings is not too hard if someone takes it over. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#pillaging&#34;&gt;Pillaging&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;dominions&#34;&gt;Dominions&lt;/h3&gt;
 &lt;h4 id=&#34;if-i-queue-a-bunch-of-upgrades-in-a-system-and-then-flip-it-to-domain-does-it-continue-on-its-happy-path&#34;&gt;If I queue a bunch of upgrades in a system and then flip it to domain, does it continue on its happy path?&lt;/h4&gt;
 &lt;p&gt;yes&lt;/p&gt;
@@ -371,10 +371,10 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
     
     <item>
       <title>Docs: Buildings</title>
-      <link>/docs/systems/buildings/</link>
+      <link>/Rising-Constellation-FAQ/docs/systems/buildings/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/systems/buildings/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/systems/buildings/</guid>
       <description>
         
         
