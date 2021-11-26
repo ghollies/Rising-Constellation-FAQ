@@ -45,7 +45,6 @@ $1\|$2
 &lt;th&gt;Repair&lt;/th&gt;
 &lt;th&gt;Invasion&lt;/th&gt;
 &lt;th&gt;Bombing&lt;/th&gt;
-&lt;th&gt;weight&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -65,7 +64,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Scouts&lt;/td&gt;
@@ -83,7 +81,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Scouts&lt;/td&gt;
@@ -101,7 +98,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16 Scouts&lt;/td&gt;
@@ -119,7 +115,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Light Fighters&lt;/td&gt;
@@ -137,7 +132,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Light Fighters&lt;/td&gt;
@@ -155,7 +149,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Light Fighters&lt;/td&gt;
@@ -173,7 +166,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16 Light Fighters&lt;/td&gt;
@@ -191,7 +183,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Figheter-Bombers&lt;/td&gt;
@@ -209,7 +200,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Figheter-Bombers&lt;/td&gt;
@@ -227,7 +217,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Figheter-Bombers&lt;/td&gt;
@@ -245,7 +234,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16 Figheter-Bombers&lt;/td&gt;
@@ -263,7 +251,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Interceptors&lt;/td&gt;
@@ -281,7 +268,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Interceptors&lt;/td&gt;
@@ -299,7 +285,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Interceptors&lt;/td&gt;
@@ -317,7 +302,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16 Interceptors&lt;/td&gt;
@@ -335,7 +319,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;24&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Light Corvettes&lt;/td&gt;
@@ -353,7 +336,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Light Corvettes&lt;/td&gt;
@@ -371,7 +353,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Light Corvettes&lt;/td&gt;
@@ -389,7 +370,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Heavy Corvettes&lt;/td&gt;
@@ -407,7 +387,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Heavy Corvettes&lt;/td&gt;
@@ -425,7 +404,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Heavy Corvettes&lt;/td&gt;
@@ -443,7 +421,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Multi-Turret Corvettes&lt;/td&gt;
@@ -461,7 +438,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Multi-Turret Corvettes&lt;/td&gt;
@@ -479,7 +455,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8 Multi-Turret Corvettes&lt;/td&gt;
@@ -497,7 +472,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Colonisation Ship&lt;/td&gt;
@@ -515,7 +489,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Carrier&lt;/td&gt;
@@ -533,7 +506,6 @@ $1\|$2
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;25&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Assault Frigates&lt;/td&gt;
@@ -551,7 +523,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Assault Frigates&lt;/td&gt;
@@ -569,7 +540,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;24&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Gunners&lt;/td&gt;
@@ -587,7 +557,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;14&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Gunners&lt;/td&gt;
@@ -605,7 +574,6 @@ $1\|$2
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;28&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Drone Carriers&lt;/td&gt;
@@ -623,7 +591,6 @@ $1\|$2
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;14&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Drone Carriers&lt;/td&gt;
@@ -641,7 +608,6 @@ $1\|$2
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;28&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2 Repair Platforms&lt;/td&gt;
@@ -659,7 +625,6 @@ $1\|$2
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;14&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Repair Platforms&lt;/td&gt;
@@ -677,7 +642,6 @@ $1\|$2
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;28&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Destroyer&lt;/td&gt;
@@ -695,7 +659,6 @@ $1\|$2
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Cruiser&lt;/td&gt;
@@ -712,7 +675,6 @@ $1\|$2
 &lt;td&gt;[330]&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -731,7 +693,6 @@ $1\|$2
 &lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;35&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
