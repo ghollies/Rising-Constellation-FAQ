@@ -1,12 +1,14 @@
 ---
 title: "Strategies"
 linkTitle: "Strategies"
-weight: 1
+weight: 9
 description: >-
      Strategies for optimal playing
 ---
 
 ### Legacy
+
+There are many possible stragegies, especially when coordinating with other members in your faction. The one below is a solid recommendation which could be tweaked, but should provide you with a general idea of where to start.
 
 #### Opening
 

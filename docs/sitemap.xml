@@ -2,64 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Rising-Constellation-FAQ/docs/concepts/</loc>
+    <loc>/docs/concepts/</loc>
+    <lastmod>2021-11-25T09:18:20-05:00</lastmod>
+  </url><url>
+    <loc>/docs/agents/navarch/</loc>
     <lastmod>2021-11-24T16:36:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/agents/navarch/</loc>
-    <lastmod>2021-11-24T16:36:05-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/systems/</loc>
+    <loc>/docs/systems/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/ships/</loc>
+    <loc>/docs/ships/</loc>
     <lastmod>2021-11-24T16:36:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/agents/siderian/</loc>
+    <loc>/docs/agents/siderian/</loc>
     <lastmod>2021-11-24T16:36:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/agents/erased/</loc>
+    <loc>/docs/agents/erased/</loc>
     <lastmod>2021-11-24T16:36:05-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/agents/</loc>
+    <loc>/docs/agents/</loc>
     <lastmod>2021-11-25T09:10:19-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/contribution-guidelines/</loc>
+    <loc>/docs/strategies/</loc>
+    <lastmod>2021-11-25T18:55:47-08:00</lastmod>
+  </url><url>
+    <loc>/docs/contribution-guidelines/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/systems/dominions/</loc>
+    <loc>/docs/systems/dominions/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/systems/buildings/</loc>
+    <loc>/docs/systems/buildings/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/tags/docs/</loc>
+    <loc>/tags/docs/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/categories/examples/</loc>
+    <loc>/categories/examples/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/tags/sample/</loc>
+    <loc>/tags/sample/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/tags/test/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/categories/placeholders/</loc>
+    <loc>/categories/placeholders/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/</loc>
+    <loc>/</loc>
     <lastmod>2021-11-24T16:29:08-05:00</lastmod>
   </url><url>
-    <loc>/Rising-Constellation-FAQ/search/</loc>
+    <loc>/search/</loc>
     <lastmod>2021-11-24T11:14:05-05:00</lastmod>
   </url>
 </urlset>
