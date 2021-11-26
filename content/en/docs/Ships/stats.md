@@ -9,8 +9,14 @@ description: >
 <!-- (".*\d+)\|(\d+.*") 
 $1\|$2
 -->
+### What do the stats mean?
+#### Shield
+Absorbs a percent of incoming energy attacks
+#### Flack
+Chance to fully avoid the incoming explosive attack
+
 ### What are the base stats of all of the ships?
-|Name|Class|Credit Cost|Tech Cost|Production|Maintenance|Hull|Manuverability|Shield|Flack|Energy Attack|Explosive Attack|Repair|Invasion|Bombing|
+|Name|Class|Credit Cost|Tech Cost|Production|Maintenance|Hull|Maneuverability|Shield|Flack|Energy Attack|Explosive Attack|Repair|Invasion|Bombing|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |2 Scouts|fighter|900|0|120|1|12|90|0|0|[4]|[]|0|0|0|
 |4 Scouts|fighter|1800|0|232|2|12|90|0|0|[4]|[]|0|0|0|

@@ -26,6 +26,11 @@
         &lt;!-- (&#34;.*\d+)\|(\d+.*&#34;) 
 $1\|$2
 --&gt;
+&lt;h3 id=&#34;what-do-the-stats-mean&#34;&gt;What do the stats mean?&lt;/h3&gt;
+&lt;h4 id=&#34;shield&#34;&gt;Shield&lt;/h4&gt;
+&lt;p&gt;Absorbs a percent of incoming energy attacks&lt;/p&gt;
+&lt;h4 id=&#34;flack&#34;&gt;Flack&lt;/h4&gt;
+&lt;p&gt;Chance to fully avoid the incoming explosive attack&lt;/p&gt;
 &lt;h3 id=&#34;what-are-the-base-stats-of-all-of-the-ships&#34;&gt;What are the base stats of all of the ships?&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -37,7 +42,7 @@ $1\|$2
 &lt;th&gt;Production&lt;/th&gt;
 &lt;th&gt;Maintenance&lt;/th&gt;
 &lt;th&gt;Hull&lt;/th&gt;
-&lt;th&gt;Manuverability&lt;/th&gt;
+&lt;th&gt;Maneuverability&lt;/th&gt;
 &lt;th&gt;Shield&lt;/th&gt;
 &lt;th&gt;Flack&lt;/th&gt;
 &lt;th&gt;Energy Attack&lt;/th&gt;
