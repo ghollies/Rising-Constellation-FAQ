@@ -13,5 +13,148 @@
       
     
     
+    <item>
+      <title>Docs: Winning the Game</title>
+      <link>/Rising-Constellation-FAQ/docs/concepts/victory/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/concepts/victory/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;victory&#34;&gt;Victory&lt;/h3&gt;
+&lt;h4 id=&#34;how-does-one-team-win&#34;&gt;How does one team win?&lt;/h4&gt;
+&lt;p&gt;There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals reached. The goal of the game is to hit the 12 stars mark first as a team.&lt;/p&gt;
+&lt;h4 id=&#34;path-of-conquest&#34;&gt;Path of Conquest&lt;/h4&gt;
+&lt;p&gt;Stars are earned by a faction controlling a sector. Each sector is worth a certain number of Sector Points, and there are thresholds for how many sector points are needed for each of the star levels. You can hover over a sector to see the number of points it is worth (in the middle diamond).
+Example progression from a legacy game with 2 factions: &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Stars&lt;/th&gt;
+&lt;th&gt;Sector Points&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;These numbers will be different depending on the map layout and number of factions involved.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;path-of-influence&#34;&gt;Path of Influence&lt;/h4&gt;
+&lt;p&gt;Stars are earned by have large populations in star systems. Each system is worth a certain number of Star System Points which is dependant on the population of the system.&lt;/p&gt;
+&lt;h5 id=&#34;star-system-points-per-population&#34;&gt;Star System Points per population&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Population&lt;/th&gt;
+&lt;th&gt;Star System Points&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;40&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;60&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;70&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;80&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;90&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;120&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;180&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Example from a Legacy game with 2 factions, and 49 players on one of the factions:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Stars&lt;/th&gt;
+&lt;th&gt;Sector Points&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2042&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;4083&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;These numbers will depend on the number of players in the faction.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;path-of-shadows&#34;&gt;Path of Shadows&lt;/h4&gt;
+&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels.
+Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
+&lt;p&gt;Example from a Legacy game with 2 factions mid way into the game:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Stars&lt;/th&gt;
+&lt;th&gt;Visibility Points&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;415&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;669&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;752&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

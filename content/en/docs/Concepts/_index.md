@@ -6,10 +6,6 @@ description: >
   High level questions, general mechanics of the game
 ---
 
-### Victory
-#### How does one team win? 
-There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals reached. The goal of the game is to hit the 12 stars mark first as a team.
-
 ### Mobility
 #### What does each point do?
 it increases credits by .1 per system population . When received from a building in a system, it increases the mobility in that system only. When received from a Lex, the full value applies to all of your systems.
