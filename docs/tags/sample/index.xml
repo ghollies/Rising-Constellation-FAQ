@@ -53,20 +53,5 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
       </description>
     </item>
     
-    <item>
-      <title>Docs: Buildings</title>
-      <link>/Rising-Constellation-FAQ/docs/systems/buildings/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/Rising-Constellation-FAQ/docs/systems/buildings/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;monolith---does-it-scale-based-on-planet-or-system-population&#34;&gt;Monolith - Does it scale based on planet or system population?&lt;/h3&gt;
-&lt;p&gt;It uses the entire system population, you can tell the icon it uses: TODO&lt;/p&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

@@ -11,6 +11,7 @@ There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals
 
 #### Path of Conquest
 Stars are earned by a faction controlling a sector. Each sector is worth a certain number of Sector Points, and there are thresholds for how many sector points are needed for each of the star levels. You can hover over a sector to see the number of points it is worth (in the middle diamond).
+
 Example progression from a legacy game with 2 factions: 
 | Stars | Sector Points|
 | --- | --- |
