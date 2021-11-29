@@ -100,7 +100,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.3b4f6e061c1133ab30ee6c068da9166c.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.b8c5d4cdec94f96344763a467b3945f5.json"
   data-offline-search-base-href="/"
   data-offline-search-max-results="10"
 >
@@ -356,32 +356,35 @@ Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/
     
 	<h1 id="pg-fcf6186c3c17ed7f2e8577136109a520">1 - Concepts</h1>
     <div class="lead">High level questions, general mechanics of the game</div>
-	<h3 id="mobility">Mobility</h3>
+	<h3 id="mobility-mobilityimagesmobilitypng">Mobility <img src="/images/mobility.PNG" alt="Mobility"></h3>
 <h4 id="what-does-each-point-do">What does each point do?</h4>
 <p>it increases credits by .1 per system population . When received from a building in a system, it increases the mobility in that system only. When received from a Lex, the full value applies to all of your systems.</p>
 <h4 id="other-impacts">Other impacts</h4>
 <p>Mobility is a scaling factor for two late-game buildings: reflect district and business arch. They are generally considered some of the best late game credit generation buildings.</p>
-<h3 id="stability">Stability</h3>
+<h3 id="stability-stabilityimagesstabilitypng">Stability <img src="/images/stability.PNG" alt="Stability"></h3>
 <p>When received from a building in a system, it increases the stability in that system only. When received from a Lex, the full value applies to all of your systems.</p>
 <p>Factor’s into growth speed, as you approach 0 stability, or negative values, growth will be hindered.</p>
 <p>When below 0, penalties to the system production will occur
 View the 3rd tab on the system to view specific values:</p>
-<h3 id="what-exactly-does-slsd-do">What exactly does SLSD do?</h3>
+<h3 id="what-exactly-does-slsd-do-slsdimagesslsdpng">What exactly does SLSD do? <img src="/images/SLSD.PNG" alt="SLSD"></h3>
 <p>SLSD is like radar? It shows enemy fleet movement in range. Higher SLSD means the radius is larger.</p>
+<h3 id="what-exactly-does-intelligence-do-intelligenceimagesintelligencepng">What exactly does Intelligence do? <img src="/images/intelligence.PNG" alt="intelligence"></h3>
+<p>It makes actions performed by Erased and other agents more difficult</p>
+<h3 id="what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng">What exactly does Cybersecurity do? <img src="/images/cybersecurity.PNG" alt="cybersecurity"></h3>
+<p>Inspects and removes enemy malware in the system, reducing enemy visibility. See <a href="/docs/agents/erased/#infiltration">Infiltration</a></p>
 <h3 id="resources">Resources</h3>
 <h4 id="how-fast-do-resources-accumulate">How fast do resources accumulate?</h4>
-<p>The number at the bottom of your screen next to each resource show the amount that will be gained every 3 minutes (In Legacy mode). Common practice is to think of at x20 for the amount per hour you will have.</p>
+<p>The number at the bottom of your screen next to each resource show the amount that will be gained every 3 minutes (In Legacy mode). Common practice is to think of at x20 for the amount per hour you will have.
+<br/>Example where the player is earning 3441 credits, 205 tech and 363 ideology per 3 minutes <br/>
+<img src="/images/resource_bar.PNG" alt="resource bar"></p>
 <h4 id="resource-tax-on-player-trades">Resource Tax on player trades</h4>
 <p>How long does it take for tax to drop from 60 to 5
 not sure anymore..
 but like 2% per hour?</p>
 <h4 id="is-there-a-resource-cap">Is there a resource cap?</h4>
 <p>No</p>
-<!-- Per Novae: of course
-
-
-TODO: images --><blockquote>
-</blockquote>
+<p>Per <em>Novae</em>: of course <br/></p>
+<p><img src="/images/resource_cap.PNG" alt="resource bar"></p>
 
 </div>
 
@@ -512,7 +515,7 @@ TODO: images --><blockquote>
 </tbody>
 </table>
 <h4 id="path-of-shadows">Path of Shadows</h4>
-<p>Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the <a href="/docs/agents/erased/#infiltration">Infiltration</a> action. There are thresholds for how many Visibility Points are needed for each of the star levels.
+<p>Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the <a href="/docs/agents/erased/#infiltration">Infiltration</a> action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
 Unlike the other two paths, this value is hidden from the enemy.</p>
 <p>Example from a Legacy game with 2 factions mid way into the game:</p>
 <table>
@@ -558,14 +561,15 @@ Unlike the other two paths, this value is hidden from the enemy.</p>
     
 	<h1 id="pg-035969f72fc3e99f64387612ff51a90c">2 - Systems</h1>
     <div class="lead">Systems, Dominions, Autonomous Systems, Buildings</div>
-	<h3 id="prodction">Prodction</h3>
+	<h3 id="production">Production</h3>
 <h4 id="most-of-my-time-so-far-is-spent-waiting-for-science-and-ideology-points-my-production-is-not-working-should-i-be-using-it-for-something">Most of my time so far is spent waiting for science and ideology points. My production is not working, should I be using it for something?</h4>
 <p>it&rsquo;s completely normal that the first 2 days you are not capping your production and are waiting on techno and ideo, don&rsquo;t worry.</p>
 <h3 id="what-is-the-difference-between-mobilized-and-populations">What is the difference between mobilized and populations?</h3>
 <p>If there are more number of jobs available than population, there is a penalty
-Each building will say how many mobilized workers it requires. For example requires 2 workers to function optimally, the tooltip on the population icon shows how many your buildings require, vs the total number of people in your system, if the mobilized value is greater than the total you will see penalties in your resource production
-TODO images</p>
-<h3 id="system-population">System Population</h3>
+Each building will say how many mobilized workers it requires. For example requires 2 workers to function optimally, the tooltip on the population icon shows how many your buildings require, vs the total number of people in your system, if the mobilized value is greater than the total you will see penalties in your resource production<br/>
+Example below where the mobilized value is less than the total:<br/>
+<img src="/images/mobilized_population.PNG" alt="Mobilized Population"></p>
+<h3 id="system-population-system-populationimagessystem_populationpng">System Population <img src="/images/system_population.png" alt="System Population"></h3>
 <p>How do populations within a system balance between planets?
 does it every time you have a new pop it tries to even it between all the planets</p>
 <h3 id="colonizing">Colonizing</h3>
@@ -644,7 +648,7 @@ Both of these will require an open slot (either as dominion, or system slot)</p>
 	<h1 id="pg-e6b08d71068b949ccb514c786001dba0">2.2 - Buildings</h1>
     <div class="lead">Buildings</div>
 	<h3 id="monolith---does-it-scale-based-on-planet-or-system-population">Monolith - Does it scale based on planet or system population?</h3>
-<p>It uses the entire system population, you can tell the icon it uses: TODO</p>
+<p>It uses the entire system population, you can tell by the icon it uses: <img src="/images/system_population.png" alt="System Population"> rather than <img src="/images/planet_population.PNG" alt="Planet Population"></p>
 <h3 id="buildings-costs">Buildings Costs</h3>
 <table>
 <thead>
@@ -1781,6 +1785,9 @@ Governor</p>
     <div class="lead">Agents which can Infiltrate, Remove or Sabotage</div>
 	<h2 id="abilities">Abilities</h2>
 <h3 id="infiltration">Infiltration</h3>
+<p>Infiltration takes somewhere between 2-3 hours and compares the erased agent&rsquo;s infiltration skill against the system&rsquo;s <a href="/docs/concepts/_index.md#intelligence">intelligence</a> and if successful installs 1-2 (TODO confirm?) malware in the system, increasing visibility on the system, and contributing to the <a href="docs/concepts/victory/#path-of-shadows#">Path of Shadow</a> victory</p>
+<h4 id="how-can-i-remove-malware-in-a-system">How can I remove malware in a system?</h4>
+<p>By increasing your <a href="docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng">cybersecurity</a> in the system</p>
 <h4 id="can-i-have-more-than-4-malware-in-a-system">Can I have more than 4 malware in a system?</h4>
 <p>Yes, won&rsquo;t give shadow paths points but it will allow to keep the 5 visibility longer if cybersecurity kicks in</p>
 <h4 id="can-i-perform-infiltration-without-any-skill-points-on-my-erased">Can I perform infiltration without any skill points on my erased?</h4>

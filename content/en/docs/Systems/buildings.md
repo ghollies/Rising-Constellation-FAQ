@@ -6,7 +6,7 @@ description: >
   Buildings
 ---
 ### Monolith - Does it scale based on planet or system population?
-It uses the entire system population, you can tell the icon it uses: TODO
+It uses the entire system population, you can tell by the icon it uses: ![System Population](/images/system_population.png) rather than ![Planet Population](/images/planet_population.PNG)
 
 ### Buildings Costs
 

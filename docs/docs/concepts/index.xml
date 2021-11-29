@@ -127,7 +127,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h4 id=&#34;path-of-shadows&#34;&gt;Path of Shadows&lt;/h4&gt;
-&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels.
+&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
 Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;p&gt;Example from a Legacy game with 2 factions mid way into the game:&lt;/p&gt;
 &lt;table&gt;

@@ -847,7 +847,7 @@ $1\|$2
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h4 id=&#34;path-of-shadows&#34;&gt;Path of Shadows&lt;/h4&gt;
-&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels.
+&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
 Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;p&gt;Example from a Legacy game with 2 factions mid way into the game:&lt;/p&gt;
 &lt;table&gt;
@@ -907,6 +907,9 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
         
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
 &lt;h3 id=&#34;infiltration&#34;&gt;Infiltration&lt;/h3&gt;
+&lt;p&gt;Infiltration takes somewhere between 2-3 hours and compares the erased agent&amp;rsquo;s infiltration skill against the system&amp;rsquo;s &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; and if successful installs 1-2 (TODO confirm?) malware in the system, increasing visibility on the system, and contributing to the &lt;a href=&#34;docs/concepts/victory/#path-of-shadows#&#34;&gt;Path of Shadow&lt;/a&gt; victory&lt;/p&gt;
+&lt;h4 id=&#34;how-can-i-remove-malware-in-a-system&#34;&gt;How can I remove malware in a system?&lt;/h4&gt;
+&lt;p&gt;By increasing your &lt;a href=&#34;docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersecurity&lt;/a&gt; in the system&lt;/p&gt;
 &lt;h4 id=&#34;can-i-have-more-than-4-malware-in-a-system&#34;&gt;Can I have more than 4 malware in a system?&lt;/h4&gt;
 &lt;p&gt;Yes, won&amp;rsquo;t give shadow paths points but it will allow to keep the 5 visibility longer if cybersecurity kicks in&lt;/p&gt;
 &lt;h4 id=&#34;can-i-perform-infiltration-without-any-skill-points-on-my-erased&#34;&gt;Can I perform infiltration without any skill points on my erased?&lt;/h4&gt;
@@ -1225,7 +1228,7 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
         
         
         &lt;h3 id=&#34;monolith---does-it-scale-based-on-planet-or-system-population&#34;&gt;Monolith - Does it scale based on planet or system population?&lt;/h3&gt;
-&lt;p&gt;It uses the entire system population, you can tell the icon it uses: TODO&lt;/p&gt;
+&lt;p&gt;It uses the entire system population, you can tell by the icon it uses: &lt;img src=&#34;/Rising-Constellation-FAQ/images/system_population.png&#34; alt=&#34;System Population&#34;&gt; rather than &lt;img src=&#34;/Rising-Constellation-FAQ/images/planet_population.PNG&#34; alt=&#34;Planet Population&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;buildings-costs&#34;&gt;Buildings Costs&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;

@@ -1,6 +1,6 @@
 ---
-categories: ["Examples"]
-tags: ["test", "sample", "docs"]
+# categories: ["Examples"]
+# tags: ["test", "sample", "docs"]
 title: "Dominions and Autonomous Systems"
 linkTitle: "AI Controlled System"
 date: 2017-01-05

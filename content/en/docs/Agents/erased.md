@@ -8,6 +8,11 @@ description: >
 
 ## Abilities
 ### Infiltration
+Infiltration takes somewhere between 2-3 hours and compares the erased agent's infiltration skill against the system's [intelligence](/docs/concepts/_index.md#intelligence) and if successful installs 1-2 (TODO confirm?) malware in the system, increasing visibility on the system, and contributing to the [Path of Shadow](docs/concepts/victory/#path-of-shadows#) victory
+
+#### How can I remove malware in a system?
+By increasing your [cybersecurity](docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng) in the system
+
 #### Can I have more than 4 malware in a system?
 Yes, won't give shadow paths points but it will allow to keep the 5 visibility longer if cybersecurity kicks in
 

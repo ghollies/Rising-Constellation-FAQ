@@ -43,7 +43,7 @@ Example from a Legacy game with 2 factions, and 49 players on one of the faction
 These numbers will depend on the number of players in the faction.
 
 #### Path of Shadows
-Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the [Infiltration](/docs/agents/erased/#infiltration) action. There are thresholds for how many Visibility Points are needed for each of the star levels.
+Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the [Infiltration](/docs/agents/erased/#infiltration) action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
 Unlike the other two paths, this value is hidden from the enemy.
 
 Example from a Legacy game with 2 factions mid way into the game:

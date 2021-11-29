@@ -62,7 +62,7 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
         
         
         &lt;h3 id=&#34;monolith---does-it-scale-based-on-planet-or-system-population&#34;&gt;Monolith - Does it scale based on planet or system population?&lt;/h3&gt;
-&lt;p&gt;It uses the entire system population, you can tell the icon it uses: TODO&lt;/p&gt;
+&lt;p&gt;It uses the entire system population, you can tell by the icon it uses: &lt;img src=&#34;/Rising-Constellation-FAQ/images/system_population.png&#34; alt=&#34;System Population&#34;&gt; rather than &lt;img src=&#34;/Rising-Constellation-FAQ/images/planet_population.PNG&#34; alt=&#34;Planet Population&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;buildings-costs&#34;&gt;Buildings Costs&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
