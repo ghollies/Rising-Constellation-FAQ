@@ -15,7 +15,7 @@ and more moral, so less likely to flee when other squads are killed. XP is not f
 
 ### Is there a place I can find out what the ship stats do? like what is maneuverability, and the difference between energy and explosive attack, etc?
 [Battle simulator](https://rising-constellation.com/portal/fight-simulator) in the game under the Koshak Academy the best source of information 
-energy attack is reduced by [shield](/docs/ships/stats/#shield), and explosive can be blocked by [flack](docs/ships/stats/#flack)
+energy attack is reduced by [shield](/docs/ships/stats/#shield), and explosive can be blocked by [flack](/docs/ships/stats/#flack)
 
 ### Can we donate ships?
 No, only resources
