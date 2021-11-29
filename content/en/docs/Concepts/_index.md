@@ -31,6 +31,20 @@ It makes actions performed by Erased and other agents more difficult
 Inspects and removes enemy malware in the system, reducing enemy visibility. Each 100 points in cybersecurity removes malware at the rate of 1 per 12 hours. See [Infiltration](/docs/agents/erased/#infiltration) 
 
 
+### Leaderboard
+#### How are points calculated?
+```
+gain_credit +
+10 * gain_technology +
+10 * gain_ideology +
+8 * sum_governors_levels +
+15 * sum_agents_levels +
+1.1 * sum_fleet_maintenance +
+stock_credit / 100_000 +
+stock_technology / 10_000 +
+stock_ideology / 10_000
+```
+
 ### Resources
 #### How fast do resources accumulate?
 The number at the bottom of your screen next to each resource show the amount that will be gained every 3 minutes (In Legacy mode). Common practice is to think of at x20 for the amount per hour you will have.

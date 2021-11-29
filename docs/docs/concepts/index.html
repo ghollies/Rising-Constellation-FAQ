@@ -97,7 +97,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.fcb3e472a9b4ffb5138e49b704323110.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.af2011add8539cc4e3238029aed42f14.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -119,7 +119,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.fcb3e472a9b4ffb5138e49b704323110.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.af2011add8539cc4e3238029aed42f14.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -202,6 +202,7 @@ if (!doNotTrack) {
         <li><a href="#what-exactly-does-slsd-do-slsdimagesslsdpng">What exactly does SLSD do? <img src="/Rising-Constellation-FAQ/images/SLSD.PNG" alt="SLSD"></a></li>
         <li><a href="#what-exactly-does-intelligence-do-intelligenceimagesintelligencepng">What exactly does Intelligence do? <img src="/Rising-Constellation-FAQ/images/intelligence.PNG" alt="intelligence"></a></li>
         <li><a href="#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng">What exactly does Cybersecurity do? <img src="/Rising-Constellation-FAQ/images/cybersecurity.PNG" alt="cybersecurity"></a></li>
+        <li><a href="#leaderboard">Leaderboard</a></li>
         <li><a href="#resources">Resources</a></li>
       </ul>
     </li>
@@ -214,9 +215,6 @@ if (!doNotTrack) {
 
 	
 		
-			
-		
-		
 
 
 
@@ -224,9 +222,6 @@ if (!doNotTrack) {
   
 
 	
-		
-			
-		
 		
 
 
@@ -300,7 +295,18 @@ View the 3rd tab on the system to view specific values:</p>
 <p>It makes actions performed by Erased and other agents more difficult</p>
 <h3 id="what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng">What exactly does Cybersecurity do? <img src="/Rising-Constellation-FAQ/images/cybersecurity.PNG" alt="cybersecurity"></h3>
 <p>Inspects and removes enemy malware in the system, reducing enemy visibility. Each 100 points in cybersecurity removes malware at the rate of 1 per 12 hours. See <a href="/Rising-Constellation-FAQ/docs/agents/erased/#infiltration">Infiltration</a></p>
-<h3 id="resources">Resources</h3>
+<h3 id="leaderboard">Leaderboard</h3>
+<h4 id="how-are-points-calculated">How are points calculated?</h4>
+<pre tabindex="0"><code>gain_credit +
+10 * gain_technology +
+10 * gain_ideology +
+8 * sum_governors_levels +
+15 * sum_agents_levels +
+1.1 * sum_fleet_maintenance +
+stock_credit / 100_000 +
+stock_technology / 10_000 +
+stock_ideology / 10_000
+</code></pre><h3 id="resources">Resources</h3>
 <h4 id="how-fast-do-resources-accumulate">How fast do resources accumulate?</h4>
 <p>The number at the bottom of your screen next to each resource show the amount that will be gained every 3 minutes (In Legacy mode). Common practice is to think of at x20 for the amount per hour you will have.
 <br/>Example where the player is earning 3441 credits, 205 tech and 363 ideology per 3 minutes <br/>
