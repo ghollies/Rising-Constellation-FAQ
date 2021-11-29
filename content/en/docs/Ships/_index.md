@@ -14,7 +14,7 @@ description: >
 and more moral, so less likely to flee when other squads are killed. XP is not flat by lvl but exponential, like agent xp
 
 ### Is there a place I can find out what the ship stats do? like what is maneuverability, and the difference between energy and explosive attack, etc?
-Battle simulator in the game is the best source of information
+[Battle simulator](https://rising-constellation.com/portal/fight-simulator) in the game under the Koshak Academy the best source of information 
 energy attack is reduced by shield, and explosive can be blocked by flock
 
 ### Can we donate ships?
@@ -26,13 +26,13 @@ To build a fleet, you must first build the necessary buildings on a moon or aste
 ### Types of ships
 There are 4 types of ships in Rising Constellation.
 
-#### The figters
+#### The fighters
 The fighters can be in squadrons of 2 to 16 fighters of the same type. They are the smallest combat ships, have the lowest maintenance costs and are the most numerous per squadron. To build fighters, it is necessary to have built an S-01 assembly line on a moon or an asteroid.
 
 * Scouts
-The first type of ship avalible to players, these are cheap and can help fill in your fleets
+The first type of ship available to players, these are cheap and can help fill in your fleets
 * Fighter-bomber
-The first type of ship availible to players with a bombing rating, providing bonuses to [Pillaging]({{< ref "/docs/agents/navarch.md#pillaging" >}}), or allowing an unskilled navarch to perform the action
+The first type of ship available to players with a bombing rating, providing bonuses to [Pillaging]({{< ref "/docs/agents/navarch.md#pillaging" >}}), or allowing an unskilled navarch to perform the action
 * Light fighter
 * Interceptors
 

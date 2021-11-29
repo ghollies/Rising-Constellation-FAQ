@@ -28,7 +28,7 @@ SLSD is like radar? It shows enemy fleet movement in range. Higher SLSD means th
 It makes actions performed by Erased and other agents more difficult
 
 ### What exactly does Cybersecurity do? ![cybersecurity](/images/cybersecurity.PNG)
-Inspects and removes enemy malware in the system, reducing enemy visibility. See [Infiltration](/docs/agents/erased/#infiltration)
+Inspects and removes enemy malware in the system, reducing enemy visibility. Each 100 points in cybersecurity removes malware at the rate of 1 per 12 hours. See [Infiltration](/docs/agents/erased/#infiltration) 
 
 
 ### Resources
