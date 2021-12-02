@@ -14,6 +14,39 @@
     
     
     <item>
+      <title>Docs: Fleet Combat</title>
+      <link>/Rising-Constellation-FAQ/docs/concepts/combat/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/concepts/combat/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;how-is-combat-initiated&#34;&gt;How is combat initiated?&lt;/h3&gt;
+&lt;p&gt;When two &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; agents are in the same system combat can begin in one of three ways:
+#1 A player clicks on the the enemy Navarch while selecting their, and chooses to fight.
+#2 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Aggressive or Fury stance&lt;/a&gt; will immediately attack enemy fleets in their system.
+#3 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Defender stance&lt;/a&gt; will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization)&lt;/p&gt;
+&lt;h3 id=&#34;how-does-combat-get-resolved&#34;&gt;How does Combat get resolved?&lt;/h3&gt;
+&lt;p&gt;Combat occurs in rounds during each round the following phases take place:&lt;/p&gt;
+&lt;h4 id=&#34;1-deployment&#34;&gt;1. Deployment&lt;/h4&gt;
+&lt;p&gt;The units in the row corresponding to the round number are added to the battlefield.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: On the first round of combat, the units in the L1 column would be deployed, (Drone Carriers in this case)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Fleet Example 1&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-roll-for-initiative&#34;&gt;2. Roll for initiative&lt;/h4&gt;
+&lt;p&gt;The two sides compare their morale scores and the units are ordered according to their morale (the highest morale starts)&lt;/p&gt;
+&lt;h4 id=&#34;3-attack&#34;&gt;3. Attack&lt;/h4&gt;
+&lt;p&gt;Each unit takes turns making all of its attacks against a random enemy unit on the battlefield.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
+&lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters&lt;/p&gt;
+&lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
+&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
+Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Navarch</title>
       <link>/Rising-Constellation-FAQ/docs/agents/navarch/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
@@ -38,8 +71,17 @@
 &lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
-&lt;h3 id=&#34;what-is-the-difference-between-aggressive-and-fury-for-navarchs&#34;&gt;What is the difference between &amp;ldquo;Aggressive&amp;rdquo; and &amp;ldquo;Fury&amp;rdquo; for Navarchs?&lt;/h3&gt;
-&lt;p&gt;same currently&lt;/p&gt;
+&lt;h3 id=&#34;defender&#34;&gt;Defender&lt;/h3&gt;
+&lt;p&gt;Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system&lt;/p&gt;
+&lt;h3 id=&#34;deserter&#34;&gt;Deserter&lt;/h3&gt;
+&lt;p&gt;Attempts to flee combat as soon as possible&lt;/p&gt;
+&lt;h3 id=&#34;prudent&#34;&gt;Prudent&lt;/h3&gt;
+&lt;p&gt;Will only fight if directly attacked&lt;/p&gt;
+&lt;h3 id=&#34;aggressive&#34;&gt;Aggressive&lt;/h3&gt;
+&lt;p&gt;Will automatically engage any enemy in the same system&lt;/p&gt;
+&lt;h3 id=&#34;fury&#34;&gt;Fury&lt;/h3&gt;
+&lt;p&gt;Will automatically engage any enemy in the same system
+In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
 &lt;h2 id=&#34;what-happens-if-you-recall-a-navarch-with-a-fleet&#34;&gt;What happens if you recall a Navarch with a fleet?&lt;/h2&gt;
 &lt;p&gt;recalling them will destroy the fleet&lt;/p&gt;
 
@@ -892,6 +934,8 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
 &lt;h3 id=&#34;propaganda-propagandaimagespropagandapng&#34;&gt;Propaganda &lt;img src=&#34;/Rising-Constellation-FAQ/images/propaganda.PNG&#34; alt=&#34;Propaganda&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability is used to take control over an AI controlled system. It takes the agent&amp;rsquo;s propaganda skill and compares it to the current stability of the system. The attempt takes a long amount of time (~8 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
+&lt;h4 id=&#34;how-do-i-defend-against-it-other-than-high-stability&#34;&gt;How do I defend against it other than high stability?&lt;/h4&gt;
+&lt;p&gt;If you notice the Siderian in your dominion and suspect a propaganda attempt, you can flip your dominion into a system, canceling the agent&amp;rsquo;s action.&lt;/p&gt;
 &lt;h3 id=&#34;destabilize-destabilizeimagesdestabilizationpng&#34;&gt;Destabilize &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 &lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;

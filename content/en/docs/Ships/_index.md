@@ -48,7 +48,7 @@ Frigates can be in units of 2 to 4 frigates of the same type. The modular fusela
 
 * Assault frigates
 * Gunners
-* Drone Carrers
+* Drone Carriers
 * Repair platforms
 * Carriers
 

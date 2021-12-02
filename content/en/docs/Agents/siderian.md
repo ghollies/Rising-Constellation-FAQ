@@ -10,6 +10,9 @@ description: >
 ### Propaganda ![Propaganda](/images/propaganda.PNG)
 This ability is used to take control over an AI controlled system. It takes the agent's propaganda skill and compares it to the current stability of the system. The attempt takes a long amount of time (~8 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.
 
+#### How do I defend against it other than high stability?
+If you notice the Siderian in your dominion and suspect a propaganda attempt, you can flip your dominion into a system, canceling the agent's action.
+
 ### Destabilize ![Destabilize](/images/destabilization.PNG)
 This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.
 

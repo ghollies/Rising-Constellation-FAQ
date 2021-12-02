@@ -39,8 +39,17 @@
 &lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
-&lt;h3 id=&#34;what-is-the-difference-between-aggressive-and-fury-for-navarchs&#34;&gt;What is the difference between &amp;ldquo;Aggressive&amp;rdquo; and &amp;ldquo;Fury&amp;rdquo; for Navarchs?&lt;/h3&gt;
-&lt;p&gt;same currently&lt;/p&gt;
+&lt;h3 id=&#34;defender&#34;&gt;Defender&lt;/h3&gt;
+&lt;p&gt;Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system&lt;/p&gt;
+&lt;h3 id=&#34;deserter&#34;&gt;Deserter&lt;/h3&gt;
+&lt;p&gt;Attempts to flee combat as soon as possible&lt;/p&gt;
+&lt;h3 id=&#34;prudent&#34;&gt;Prudent&lt;/h3&gt;
+&lt;p&gt;Will only fight if directly attacked&lt;/p&gt;
+&lt;h3 id=&#34;aggressive&#34;&gt;Aggressive&lt;/h3&gt;
+&lt;p&gt;Will automatically engage any enemy in the same system&lt;/p&gt;
+&lt;h3 id=&#34;fury&#34;&gt;Fury&lt;/h3&gt;
+&lt;p&gt;Will automatically engage any enemy in the same system
+In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
 &lt;h2 id=&#34;what-happens-if-you-recall-a-navarch-with-a-fleet&#34;&gt;What happens if you recall a Navarch with a fleet?&lt;/h2&gt;
 &lt;p&gt;recalling them will destroy the fleet&lt;/p&gt;
 
@@ -59,6 +68,8 @@
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
 &lt;h3 id=&#34;propaganda-propagandaimagespropagandapng&#34;&gt;Propaganda &lt;img src=&#34;/Rising-Constellation-FAQ/images/propaganda.PNG&#34; alt=&#34;Propaganda&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability is used to take control over an AI controlled system. It takes the agent&amp;rsquo;s propaganda skill and compares it to the current stability of the system. The attempt takes a long amount of time (~8 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
+&lt;h4 id=&#34;how-do-i-defend-against-it-other-than-high-stability&#34;&gt;How do I defend against it other than high stability?&lt;/h4&gt;
+&lt;p&gt;If you notice the Siderian in your dominion and suspect a propaganda attempt, you can flip your dominion into a system, canceling the agent&amp;rsquo;s action.&lt;/p&gt;
 &lt;h3 id=&#34;destabilize-destabilizeimagesdestabilizationpng&#34;&gt;Destabilize &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 &lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;

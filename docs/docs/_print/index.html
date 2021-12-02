@@ -100,7 +100,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.af2011add8539cc4e3238029aed42f14.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.46566511059def2e533abb1e56c05669.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -161,7 +161,15 @@ This is the multi-page printable view of this section.
     
     
 	
-<li>1.1: <a href="#pg-b98d1985015d95d06b85b325908430ef">Winning the Game</a></li>
+<li>1.1: <a href="#pg-0ab07d3bbe50c7241b8f29f7935de05a">Fleet Combat</a></li>
+
+
+    
+  
+    
+    
+	
+<li>1.2: <a href="#pg-b98d1985015d95d06b85b325908430ef">Winning the Game</a></li>
 
 
     
@@ -419,7 +427,44 @@ but like 2% per hour?</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-b98d1985015d95d06b85b325908430ef">1.1 - Winning the Game</h1>
+	<h1 id="pg-0ab07d3bbe50c7241b8f29f7935de05a">1.1 - Fleet Combat</h1>
+    <div class="lead">How does combat between two fleets get resolved?</div>
+	<h3 id="how-is-combat-initiated">How is combat initiated?</h3>
+<p>When two <a href="/Rising-Constellation-FAQ/docs/agents/navarch/">Navarch</a> agents are in the same system combat can begin in one of three ways:
+#1 A player clicks on the the enemy Navarch while selecting their, and chooses to fight.
+#2 A Navarch set to <a href="/Rising-Constellation-FAQ/docs/agents/navarch/#stance">Aggressive or Fury stance</a> will immediately attack enemy fleets in their system.
+#3 A Navarch set to <a href="/Rising-Constellation-FAQ/docs/agents/navarch/#defender">Defender stance</a> will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization)</p>
+<h3 id="how-does-combat-get-resolved">How does Combat get resolved?</h3>
+<p>Combat occurs in rounds during each round the following phases take place:</p>
+<h4 id="1-deployment">1. Deployment</h4>
+<p>The units in the row corresponding to the round number are added to the battlefield.</p>
+<p><strong>Example</strong>: On the first round of combat, the units in the L1 column would be deployed, (Drone Carriers in this case)</p>
+<p><img src="/Rising-Constellation-FAQ/images/fleet_example_1.PNG" alt="Fleet Example 1"></p>
+<h4 id="2-roll-for-initiative">2. Roll for initiative</h4>
+<p>The two sides compare their morale scores and the units are ordered according to their morale (the highest morale starts)</p>
+<h4 id="3-attack">3. Attack</h4>
+<p>Each unit takes turns making all of its attacks against a random enemy unit on the battlefield.</p>
+<p><strong>Example</strong>: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.</p>
+<p>All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters</p>
+<h3 id="morale">Morale</h3>
+<p>Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
+Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-b98d1985015d95d06b85b325908430ef">1.2 - Winning the Game</h1>
     <div class="lead">Paths to Victory</div>
 	<h3 id="victory">Victory</h3>
 <h4 id="how-does-one-team-win">How does one team win?</h4>
@@ -953,7 +998,7 @@ The first type of ship available to players with a bombing rating, providing bon
 <ul>
 <li>Assault frigates</li>
 <li>Gunners</li>
-<li>Drone Carrers</li>
+<li>Drone Carriers</li>
 <li>Repair platforms</li>
 <li>Carriers</li>
 </ul>
@@ -1753,8 +1798,17 @@ Governor</p>
 <h3 id="repair-repairimagesrepairpng">Repair <img src="/Rising-Constellation-FAQ/images/repair.PNG" alt="Repair"></h3>
 <p>Repairs the fleet under the navarch&rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see <a href="/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships">Ship Stats - Repair</a></p>
 <h2 id="stance">Stance</h2>
-<h3 id="what-is-the-difference-between-aggressive-and-fury-for-navarchs">What is the difference between &ldquo;Aggressive&rdquo; and &ldquo;Fury&rdquo; for Navarchs?</h3>
-<p>same currently</p>
+<h3 id="defender">Defender</h3>
+<p>Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system</p>
+<h3 id="deserter">Deserter</h3>
+<p>Attempts to flee combat as soon as possible</p>
+<h3 id="prudent">Prudent</h3>
+<p>Will only fight if directly attacked</p>
+<h3 id="aggressive">Aggressive</h3>
+<p>Will automatically engage any enemy in the same system</p>
+<h3 id="fury">Fury</h3>
+<p>Will automatically engage any enemy in the same system
+In a future implementation, will also engage non-allied fleets.</p>
 <h2 id="what-happens-if-you-recall-a-navarch-with-a-fleet">What happens if you recall a Navarch with a fleet?</h2>
 <p>recalling them will destroy the fleet</p>
 
@@ -1777,6 +1831,8 @@ Governor</p>
 	<h2 id="abilities">Abilities</h2>
 <h3 id="propaganda-propagandaimagespropagandapng">Propaganda <img src="/Rising-Constellation-FAQ/images/propaganda.PNG" alt="Propaganda"></h3>
 <p>This ability is used to take control over an AI controlled system. It takes the agent&rsquo;s propaganda skill and compares it to the current stability of the system. The attempt takes a long amount of time (~8 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.</p>
+<h4 id="how-do-i-defend-against-it-other-than-high-stability">How do I defend against it other than high stability?</h4>
+<p>If you notice the Siderian in your dominion and suspect a propaganda attempt, you can flip your dominion into a system, canceling the agent&rsquo;s action.</p>
 <h3 id="destabilize-destabilizeimagesdestabilizationpng">Destabilize <img src="/Rising-Constellation-FAQ/images/destabilization.PNG" alt="Destabilize"></h3>
 <p>This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.</p>
 <h3 id="seduce-seduceimagesseductionpng">Seduce <img src="/Rising-Constellation-FAQ/images/seduction.PNG" alt="Seduce"></h3>
@@ -2095,7 +2151,7 @@ This is the final element on the page and there should be no margin below this.
 	<h1 id="pg-396f06168b4a3852efbbf32671fb988b">5 - Strategies</h1>
     <div class="lead">Strategies for optimal playing</div>
 	<h3 id="legacy">Legacy</h3>
-<p>There are many possible stragegies, especially when coordinating with other members in your faction. The one below is a solid recommendation which could be tweaked, but should provide you with a general idea of where to start.</p>
+<p>There are many possible strategies, especially when coordinating with other members in your faction. The one below is a solid recommendation which could be tweaked, but should provide you with a general idea of where to start.</p>
 <h4 id="opening">Opening</h4>
 <p>In most circumstances, you want to colonize 3 systems as soon as possible.</p>
 <p>In the beginning, build <em>Delta Polytech</em> on your first planet, buy tech for <em>Citadel</em> and build the <em>Citadel</em> on the planet as well.</p>

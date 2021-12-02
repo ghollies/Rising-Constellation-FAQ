@@ -25,8 +25,22 @@ Invasion power is compared to system defense
 Repairs the fleet under the navarch's control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see [Ship Stats - Repair](/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships) 
 
 ## Stance
-### What is the difference between "Aggressive" and "Fury" for Navarchs?
-same currently
+### Defender
+Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system
+
+### Deserter
+Attempts to flee combat as soon as possible
+
+### Prudent
+Will only fight if directly attacked
+
+### Aggressive
+Will automatically engage any enemy in the same system
+
+### Fury
+Will automatically engage any enemy in the same system
+In a future implementation, will also engage non-allied fleets.
+
 
 ## What happens if you recall a Navarch with a fleet?
 recalling them will destroy the fleet
