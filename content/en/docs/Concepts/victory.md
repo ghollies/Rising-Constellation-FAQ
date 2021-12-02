@@ -1,7 +1,7 @@
 ---
 title: "Winning the Game"
 date: 2017-01-05
-weight: 2
+weight: 1
 description: >
   Paths to Victory
 ---

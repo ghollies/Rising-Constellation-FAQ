@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/Rising-Constellation-FAQ/docs/concepts/victory/</loc>
+    <lastmod>2021-11-28T20:50:45-05:00</lastmod>
+  </url><url>
     <loc>/Rising-Constellation-FAQ/docs/concepts/</loc>
     <lastmod>2021-11-29T15:49:23-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/concepts/combat/</loc>
+    <lastmod>2021-12-02T13:18:55-05:00</lastmod>
+  </url><url>
+    <loc>/Rising-Constellation-FAQ/docs/strategies/fleets/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/Rising-Constellation-FAQ/docs/strategies/legacy-start/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/agents/navarch/</loc>
-    <lastmod>2021-11-29T13:03:56-05:00</lastmod>
+    <lastmod>2021-12-02T13:18:55-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/ships/stats/</loc>
     <lastmod>2021-11-26T14:54:41-05:00</lastmod>
-  </url><url>
-    <loc>/Rising-Constellation-FAQ/docs/concepts/victory/</loc>
-    <lastmod>2021-11-28T20:50:45-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/systems/</loc>
     <lastmod>2021-11-28T20:50:45-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/ships/</loc>
-    <lastmod>2021-11-29T13:03:56-05:00</lastmod>
+    <lastmod>2021-12-02T13:18:55-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/agents/siderian/</loc>
-    <lastmod>2021-11-29T13:03:56-05:00</lastmod>
+    <lastmod>2021-12-02T13:18:55-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/agents/erased/</loc>
     <lastmod>2021-11-29T13:03:56-05:00</lastmod>
@@ -33,7 +39,7 @@
     <lastmod>2021-11-26T12:38:43-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/strategies/</loc>
-    <lastmod>2021-11-25T22:26:29-05:00</lastmod>
+    <lastmod>2021-12-02T13:18:55-05:00</lastmod>
   </url><url>
     <loc>/Rising-Constellation-FAQ/docs/contribution-guidelines/</loc>
     <lastmod>2021-11-26T13:41:38-05:00</lastmod>

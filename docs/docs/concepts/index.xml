@@ -14,39 +14,6 @@
     
     
     <item>
-      <title>Docs: Fleet Combat</title>
-      <link>/Rising-Constellation-FAQ/docs/concepts/combat/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/Rising-Constellation-FAQ/docs/concepts/combat/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;how-is-combat-initiated&#34;&gt;How is combat initiated?&lt;/h3&gt;
-&lt;p&gt;When two &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; agents are in the same system combat can begin in one of three ways:
-#1 A player clicks on the the enemy Navarch while selecting their, and chooses to fight.
-#2 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Aggressive or Fury stance&lt;/a&gt; will immediately attack enemy fleets in their system.
-#3 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Defender stance&lt;/a&gt; will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization)&lt;/p&gt;
-&lt;h3 id=&#34;how-does-combat-get-resolved&#34;&gt;How does Combat get resolved?&lt;/h3&gt;
-&lt;p&gt;Combat occurs in rounds during each round the following phases take place:&lt;/p&gt;
-&lt;h4 id=&#34;1-deployment&#34;&gt;1. Deployment&lt;/h4&gt;
-&lt;p&gt;The units in the row corresponding to the round number are added to the battlefield.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: On the first round of combat, the units in the L1 column would be deployed, (Drone Carriers in this case)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Fleet Example 1&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;2-roll-for-initiative&#34;&gt;2. Roll for initiative&lt;/h4&gt;
-&lt;p&gt;The two sides compare their morale scores and the units are ordered according to their morale (the highest morale starts)&lt;/p&gt;
-&lt;h4 id=&#34;3-attack&#34;&gt;3. Attack&lt;/h4&gt;
-&lt;p&gt;Each unit takes turns making all of its attacks against a random enemy unit on the battlefield.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
-&lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters&lt;/p&gt;
-&lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
-&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
-Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Winning the Game</title>
       <link>/Rising-Constellation-FAQ/docs/concepts/victory/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
@@ -185,6 +152,40 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Fleet Combat</title>
+      <link>/Rising-Constellation-FAQ/docs/concepts/combat/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/concepts/combat/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;how-is-combat-initiated&#34;&gt;How is combat initiated?&lt;/h3&gt;
+&lt;p&gt;When two &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; agents are in the same system combat can begin in one of three ways:
+#1 A player clicks on the the enemy Navarch while selecting their, and chooses to fight.
+#2 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Aggressive or Fury stance&lt;/a&gt; will immediately attack enemy fleets in their system.
+#3 A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Defender stance&lt;/a&gt; will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization)&lt;/p&gt;
+&lt;h3 id=&#34;how-does-combat-get-resolved&#34;&gt;How does Combat get resolved?&lt;/h3&gt;
+&lt;p&gt;Combat occurs in rounds during each round the following phases take place:&lt;/p&gt;
+&lt;h4 id=&#34;1-deployment&#34;&gt;1. Deployment&lt;/h4&gt;
+&lt;p&gt;The units in the row corresponding to the round number are added to the battlefield.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: On the first round of combat, the units in the L1 column would be deployed, (Drone Carriers in this case)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Fleet Example 1&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-roll-for-initiative&#34;&gt;2. Roll for initiative&lt;/h4&gt;
+&lt;p&gt;The two sides compare their morale scores and the units are ordered according to their morale (the highest morale starts)&lt;/p&gt;
+&lt;h4 id=&#34;3-attack&#34;&gt;3. Attack&lt;/h4&gt;
+&lt;p&gt;Each unit takes turns making all of its attacks against a random enemy unit on the battlefield.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
+&lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Ship Stats&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
+&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
+Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship&lt;/p&gt;
+&lt;p&gt;Morale resets at the end of each combat, so units are always back at full morale value before the next fight.&lt;/p&gt;
 
       </description>
     </item>
