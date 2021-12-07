@@ -11,7 +11,15 @@ menu:
 {{% pageinfo %}}
 This page is not officially supported or maintained by the Rising Constellation team. And is just gathered by the player base.
 {{% /pageinfo %}}
+<!-- <style>
+.make-black:{
+  background: "black"
+}
 
+</style> -->
+<img style="background:black" src="/images/svg/ships/gunner.svg"/>
+shotcode:
+{{< svg "ships/gunner.svg" >}}
 <!-- 
 This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
 

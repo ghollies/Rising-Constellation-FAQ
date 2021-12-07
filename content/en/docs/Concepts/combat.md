@@ -34,7 +34,10 @@ All of the damage from an attack goes to an individual ship, so even if a Gunner
 
 
 ### Morale
-Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
+Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship.
 Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship
-
+During a fight, if a unit's morale hits 0, they will flee the combat. 
 Morale resets at the end of each combat, so units are always back at full morale value before the next fight.
+
+#### What causes ships to no longer respond to orders and flee in combat?
+Running out of morale, which is lost when: other individual ships in the fleet are destroyed, loss of full units, and damage taken.

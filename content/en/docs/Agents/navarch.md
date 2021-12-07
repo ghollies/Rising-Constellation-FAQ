@@ -24,6 +24,15 @@ Invasion power is compared to system defense
 ### Repair ![Repair](/images/repair.PNG)
 Repairs the fleet under the navarch's control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see [Ship Stats - Repair](/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships) 
 
+#### How long do repairs take?
+Repairs will only happen while a fleet is not moving or engaging in an offensive action. Ships will be repaired starting with the ship at lowest % health first. The rate of repair is:
+
+**Repair Score * .5 HP per tick.**
+
+**Example**: A navarch with 2 ranks of repair, and has a drone carrier x2 in their fleet will have 
+(2 ranks * 4) + (4 score from fleet) = 12 repair score. Repairing 6 HP per tick. So in legacy with 3 minute ticks you can estimate it at 120 HP per hour.
+
+
 ## Stance
 ### Defender
 Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system

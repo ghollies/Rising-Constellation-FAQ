@@ -6,14 +6,15 @@ description: >
   High level questions, general mechanics of the game
 ---
 
-### Mobility ![Mobility](/images/mobility.PNG)
-#### What does each point do?
+### Mobility {{< svg "mobility.svg" >}}
+
+#### What does each point of mobility do?
 it increases credits by .1 per system population . When received from a building in a system, it increases the mobility in that system only. When received from a Lex, the full value applies to all of your systems.
 #### Other impacts
 Mobility is a scaling factor for two late-game buildings: reflect district and business arch. They are generally considered some of the best late game credit generation buildings.
 
 
-### Stability ![Stability](/images/stability.PNG)
+### Stability  {{< svg "stability.svg" >}}
 When received from a building in a system, it increases the stability in that system only. When received from a Lex, the full value applies to all of your systems.
 
 Factor’s into growth speed, as you approach 0 stability, or negative values, growth will be hindered.
@@ -21,17 +22,17 @@ Factor’s into growth speed, as you approach 0 stability, or negative values, g
 When below 0, penalties to the system production will occur
 View the 3rd tab on the system to view specific values:
 
-### What exactly does SLSD do? ![SLSD](/images/SLSD.PNG)
+### What exactly does SLSD do?  {{< svg "slsd.svg" >}}
 SLSD is like radar? It shows enemy fleet movement in range. Higher SLSD means the radius is larger.
 
-### What exactly does Intelligence do? ![intelligence](/images/intelligence.PNG)
+### What exactly does Intelligence do?  {{< svg "intelligence.svg" >}}
 It makes actions performed by Erased and other agents more difficult
 
-### What exactly does Cybersecurity do? ![cybersecurity](/images/cybersecurity.PNG)
+### What exactly does Cybersecurity do? {{< svg "cybersecurity.svg" >}}
 Inspects and removes enemy malware in the system, reducing enemy visibility. Each 100 points in cybersecurity removes malware at the rate of 1 per 12 hours. See [Infiltration](/docs/agents/erased/#infiltration) 
 
 
-### Leaderboard
+### Leaderboard  {{< svg "leaderboard.svg" >}}
 #### How are points calculated?
 ```
 gain_credit +

@@ -16,19 +16,19 @@ Credit: **Cookies**
 
 In most circumstances, you want to colonize 3 systems as soon as possible. 
 
-In the beginning, build *Delta Polytech* on your first planet, buy tech for *Citadel* and build the *Citadel* on the planet as well.
+In the beginning, build *Delta Polytech*{{< svg "buildings/university.svg" >}} on your first planet, buy tech for *Citadel* {{< svg "buildings/ideo.svg" >}} and build the *Citadel* on the planet as well.
 
-Buy the first technology in habitable, sterile, and asteroid. Build *Megapolis* on the other habitable and *Central Hub* on the sterile.
+Buy the first technology in habitable, sterile, and asteroid. Build *Megapolis*{{< svg "buildings/main_building.svg" >}} on the other habitable and *Central Hub* {{< svg "buildings/main_building.svg" >}}on the sterile.
 
-Build both *Delta Polytech* and *Citadel* on the second habitable, and build 3 *Residential Districts* on the first habitable for faster population growth.
+Build both *Delta Polytech* and *Citadel* on the second habitable, and build 3 *Residential Districts* {{< svg "buildings/house.svg" >}} on the first habitable for faster population growth.
 
-Build *Impact Research Center* on the sterile planet, and build one *Refining Duct* on each of the 5 industry potential asteroid.
+Build *Impact Research Center* {{< svg "buildings/microscope.svg" >}} on the sterile planet, and build one *Refining Duct* {{< svg "buildings/factory.svg" >}}  on each of the 5 industry potential asteroid.
 
-Wait for *Exobiology* patent, and build experiment stations on every asteroid except the 1 potential one. Buy patent for asteroid level 2, and upgrade asteroid buildings.
+Wait for *Exobiology* patent, and build *Experiment stations* {{< svg "buildings/microscope.svg" >}} on every asteroid except the 1 potential one. Buy patent for asteroid level 2, and upgrade asteroid buildings.
 
 Wait for colony ship technology. Buy navarch and colony ship. Look for systems with many habitable slots and good appeal potential because the second system should focus on credit.
 
-Research *Publicity Terminal* patent and replace the houses on home planet with *Archipelagoes*. Research habitable level 2. When colonization is complete, develop the second colony and recall the navarch.
+Research *Publicity Terminal* patent and replace the houses on home planet with *Archipelagoes* {{< svg "buildings/double_house.svg" >}} . Research habitable level 2. When colonization is complete, develop the second colony and recall the navarch.
 
 Deploy the navarch in home system once the cooldown finishes, and build the next colony ship. You should get enough ideology for the third system when the second colony ship is completed and moves to its destination.
 

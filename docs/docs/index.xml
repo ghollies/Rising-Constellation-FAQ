@@ -183,9 +183,12 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
 &lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Ship Stats&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
-&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
-Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship&lt;/p&gt;
-&lt;p&gt;Morale resets at the end of each combat, so units are always back at full morale value before the next fight.&lt;/p&gt;
+&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship.
+Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship
+During a fight, if a unit&amp;rsquo;s morale hits 0, they will flee the combat. 
+Morale resets at the end of each combat, so units are always back at full morale value before the next fight.&lt;/p&gt;
+&lt;h4 id=&#34;what-causes-ships-to-no-longer-respond-to-orders-and-flee-in-combat&#34;&gt;What causes ships to no longer respond to orders and flee in combat?&lt;/h4&gt;
+&lt;p&gt;Running out of morale, which is lost when: other individual ships in the fleet are destroyed, loss of full units, and damage taken.&lt;/p&gt;
 
       </description>
     </item>
@@ -200,9 +203,21 @@ Ships start at 20 morale, and every level after gets you 0.5% more that also app
         
         
         &lt;h3 id=&#34;what-ships-counter-what&#34;&gt;What ships counter what?&lt;/h3&gt;
-&lt;p&gt;Right now there is a circle of
-drones &amp;gt; interceptors &amp;gt; gunners &amp;gt; drones&lt;/p&gt;
-&lt;p&gt;TODO: where do corvettes fall in this setup?&lt;/p&gt;
+&lt;p&gt;There is still a lot of room to develop new fleet strategies and counters, but some basics about which ships counter other ships can be derived from looking at their stats, and how the fighting mechanics work out:&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/interceptor.svg&#34;/&gt;
+ &lt;strong&gt;Interceptors&lt;/strong&gt;:
+With their high ship count and moderate overall damage, they are a good counter to Gunners, who can only fire once per attack.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/gunner.svg&#34;/&gt;
+ &lt;strong&gt;Gunners&lt;/strong&gt;:
+With their high explosive damage they do well against high shield targets with low Flack, such as Drone Carriers and Assault Frigates
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/drone_carrier.svg&#34;/&gt;
+ &lt;strong&gt;Drone Carriers&lt;/strong&gt;:
+With their high HP and multiple shots, they are good at taking out fighters of all types.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Corvettes lay somewhere in the middle, 2x or 4x corvettes will have a hard time against any frigate class, but the more combat focused types (Light Corvettes and multi turret) will do well when they hit the 8x level, at least until the frigates hit their 4x. They can however be an early counter to fighter fleets.&lt;/p&gt;
+&lt;p&gt;When looking to counter a specific enemy fleet, consider setting up a &lt;a href=&#34;https://rising-constellation.com/portal/fight-simulator&#34;&gt;simulated fight&lt;/a&gt; and playing around with your fleet design in terms of order/layout and composition&lt;/p&gt;
 
       </description>
     </item>
@@ -222,13 +237,22 @@ drones &amp;gt; interceptors &amp;gt; gunners &amp;gt; drones&lt;/p&gt;
 Credit: &lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
 &lt;h4 id=&#34;opening&#34;&gt;Opening&lt;/h4&gt;
 &lt;p&gt;In most circumstances, you want to colonize 3 systems as soon as possible.&lt;/p&gt;
-&lt;p&gt;In the beginning, build &lt;em&gt;Delta Polytech&lt;/em&gt; on your first planet, buy tech for &lt;em&gt;Citadel&lt;/em&gt; and build the &lt;em&gt;Citadel&lt;/em&gt; on the planet as well.&lt;/p&gt;
-&lt;p&gt;Buy the first technology in habitable, sterile, and asteroid. Build &lt;em&gt;Megapolis&lt;/em&gt; on the other habitable and &lt;em&gt;Central Hub&lt;/em&gt; on the sterile.&lt;/p&gt;
-&lt;p&gt;Build both &lt;em&gt;Delta Polytech&lt;/em&gt; and &lt;em&gt;Citadel&lt;/em&gt; on the second habitable, and build 3 &lt;em&gt;Residential Districts&lt;/em&gt; on the first habitable for faster population growth.&lt;/p&gt;
-&lt;p&gt;Build &lt;em&gt;Impact Research Center&lt;/em&gt; on the sterile planet, and build one &lt;em&gt;Refining Duct&lt;/em&gt; on each of the 5 industry potential asteroid.&lt;/p&gt;
-&lt;p&gt;Wait for &lt;em&gt;Exobiology&lt;/em&gt; patent, and build experiment stations on every asteroid except the 1 potential one. Buy patent for asteroid level 2, and upgrade asteroid buildings.&lt;/p&gt;
+&lt;p&gt;In the beginning, build &lt;em&gt;Delta Polytech&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/university.svg&#34;/&gt;
+ on your first planet, buy tech for &lt;em&gt;Citadel&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/ideo.svg&#34;/&gt;
+ and build the &lt;em&gt;Citadel&lt;/em&gt; on the planet as well.&lt;/p&gt;
+&lt;p&gt;Buy the first technology in habitable, sterile, and asteroid. Build &lt;em&gt;Megapolis&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ on the other habitable and &lt;em&gt;Central Hub&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+on the sterile.&lt;/p&gt;
+&lt;p&gt;Build both &lt;em&gt;Delta Polytech&lt;/em&gt; and &lt;em&gt;Citadel&lt;/em&gt; on the second habitable, and build 3 &lt;em&gt;Residential Districts&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/house.svg&#34;/&gt;
+ on the first habitable for faster population growth.&lt;/p&gt;
+&lt;p&gt;Build &lt;em&gt;Impact Research Center&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ on the sterile planet, and build one &lt;em&gt;Refining Duct&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/factory.svg&#34;/&gt;
+  on each of the 5 industry potential asteroid.&lt;/p&gt;
+&lt;p&gt;Wait for &lt;em&gt;Exobiology&lt;/em&gt; patent, and build &lt;em&gt;Experiment stations&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ on every asteroid except the 1 potential one. Buy patent for asteroid level 2, and upgrade asteroid buildings.&lt;/p&gt;
 &lt;p&gt;Wait for colony ship technology. Buy navarch and colony ship. Look for systems with many habitable slots and good appeal potential because the second system should focus on credit.&lt;/p&gt;
-&lt;p&gt;Research &lt;em&gt;Publicity Terminal&lt;/em&gt; patent and replace the houses on home planet with &lt;em&gt;Archipelagoes&lt;/em&gt;. Research habitable level 2. When colonization is complete, develop the second colony and recall the navarch.&lt;/p&gt;
+&lt;p&gt;Research &lt;em&gt;Publicity Terminal&lt;/em&gt; patent and replace the houses on home planet with &lt;em&gt;Archipelagoes&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/double_house.svg&#34;/&gt;
+ . Research habitable level 2. When colonization is complete, develop the second colony and recall the navarch.&lt;/p&gt;
 &lt;p&gt;Deploy the navarch in home system once the cooldown finishes, and build the next colony ship. You should get enough ideology for the third system when the second colony ship is completed and moves to its destination.&lt;/p&gt;
 &lt;p&gt;For Lex, rush &lt;em&gt;Mass Media&lt;/em&gt; and ignore everything else. Buy Lex slots to make sure all lexes are applied. After &lt;em&gt;Mass Media&lt;/em&gt; buy &lt;em&gt;Propaganda&lt;/em&gt; to keep population growing. After that save up for &lt;em&gt;Proto Empire&lt;/em&gt; and after that &lt;em&gt;Extended Administration&lt;/em&gt;.&lt;/p&gt;
 
@@ -259,6 +283,11 @@ Credit: &lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Invasion power is compared to system defense&lt;/p&gt;
 &lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;how-long-do-repairs-take&#34;&gt;How long do repairs take?&lt;/h4&gt;
+&lt;p&gt;Repairs will only happen while a fleet is not moving or engaging in an offensive action. Ships will be repaired starting with the ship at lowest % health first. The rate of repair is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Repair Score * .5 HP per tick.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A navarch with 2 ranks of repair, and has a drone carrier x2 in their fleet will have 
+(2 ranks * 4) + (4 score from fleet) = 12 repair score. Repairing 6 HP per tick. So in legacy with 3 minute ticks you can estimate it at 120 HP per hour.&lt;/p&gt;
 &lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
 &lt;h3 id=&#34;defender&#34;&gt;Defender&lt;/h3&gt;
 &lt;p&gt;Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system&lt;/p&gt;
@@ -1001,7 +1030,7 @@ $1\|$2
         
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
 &lt;h3 id=&#34;infiltration-infiltrationimagesinfiltrationpng&#34;&gt;Infiltration &lt;img src=&#34;/Rising-Constellation-FAQ/images/infiltration.PNG&#34; alt=&#34;Infiltration&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Infiltration takes somewhere between 2-3 hours and compares the erased agent&amp;rsquo;s infiltration skill against the system&amp;rsquo;s &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; and if successful installs 1-2 (TODO confirm?) malware in the system, increasing visibility on the system, and contributing to the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/victory/#path-of-shadows#&#34;&gt;Path of Shadow&lt;/a&gt; victory&lt;/p&gt;
+&lt;p&gt;Infiltration takes somewhere between 2-3 hours and compares the erased agent&amp;rsquo;s infiltration skill against the system&amp;rsquo;s &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; and if successful installs 1 malware, or 2 with a critical success, in the system, increasing visibility on the system, and contributing to the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/victory/#path-of-shadows#&#34;&gt;Path of Shadow&lt;/a&gt; victory&lt;/p&gt;
 &lt;h4 id=&#34;how-can-i-remove-malware-in-a-system&#34;&gt;How can I remove malware in a system?&lt;/h4&gt;
 &lt;p&gt;By increasing your &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersecurity&lt;/a&gt; in the system&lt;/p&gt;
 &lt;h4 id=&#34;can-i-have-more-than-4-malware-in-a-system&#34;&gt;Can I have more than 4 malware in a system?&lt;/h4&gt;

@@ -183,9 +183,12 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a unit of 2 Gunner ships would make 2 explosive attacks, where a unit of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
 &lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the unit of light fighters. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Ship Stats&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
-&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship
-Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship&lt;/p&gt;
-&lt;p&gt;Morale resets at the end of each combat, so units are always back at full morale value before the next fight.&lt;/p&gt;
+&lt;p&gt;Each ship has a morale base, increased by the level of the navarch of the fleet and the level of the ship.
+Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship
+During a fight, if a unit&amp;rsquo;s morale hits 0, they will flee the combat. 
+Morale resets at the end of each combat, so units are always back at full morale value before the next fight.&lt;/p&gt;
+&lt;h4 id=&#34;what-causes-ships-to-no-longer-respond-to-orders-and-flee-in-combat&#34;&gt;What causes ships to no longer respond to orders and flee in combat?&lt;/h4&gt;
+&lt;p&gt;Running out of morale, which is lost when: other individual ships in the fleet are destroyed, loss of full units, and damage taken.&lt;/p&gt;
 
       </description>
     </item>

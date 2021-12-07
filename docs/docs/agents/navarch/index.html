@@ -33,7 +33,7 @@
 <meta itemprop="description" content="Agents which can Conquest, Pillage or Attack
 "><meta itemprop="datePublished" content="2017-01-05T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-12-02T13:18:55-05:00" />
-<meta itemprop="wordCount" content="315">
+<meta itemprop="wordCount" content="414">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Navarch"/>
 <meta name="twitter:description" content="Agents which can Conquest, Pillage or Attack
@@ -100,7 +100,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.cdba18cf1962745403b277c4cc55528f.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.5a8d15ec975949085a6b6f8f4aa1af44.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -122,7 +122,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.cdba18cf1962745403b277c4cc55528f.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.5a8d15ec975949085a6b6f8f4aa1af44.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -323,6 +323,11 @@ if (!doNotTrack) {
 <p>Invasion power is compared to system defense</p>
 <h3 id="repair-repairimagesrepairpng">Repair <img src="/Rising-Constellation-FAQ/images/repair.PNG" alt="Repair"></h3>
 <p>Repairs the fleet under the navarch&rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see <a href="/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships">Ship Stats - Repair</a></p>
+<h4 id="how-long-do-repairs-take">How long do repairs take?</h4>
+<p>Repairs will only happen while a fleet is not moving or engaging in an offensive action. Ships will be repaired starting with the ship at lowest % health first. The rate of repair is:</p>
+<p><strong>Repair Score * .5 HP per tick.</strong></p>
+<p><strong>Example</strong>: A navarch with 2 ranks of repair, and has a drone carrier x2 in their fleet will have 
+(2 ranks * 4) + (4 score from fleet) = 12 repair score. Repairing 6 HP per tick. So in legacy with 3 minute ticks you can estimate it at 120 HP per hour.</p>
 <h2 id="stance">Stance</h2>
 <h3 id="defender">Defender</h3>
 <p>Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system</p>
