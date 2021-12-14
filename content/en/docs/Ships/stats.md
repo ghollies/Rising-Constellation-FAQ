@@ -34,15 +34,15 @@ Chance to fully avoid the incoming explosive attack
 |4 Interceptors|fighter|2700|25|704|16|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
 |8 Interceptors|fighter|4300|50|1408|32|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
 |16 Interceptors|fighter|8600|100|2824|64|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
-|2 Light Corvettes|corvette|4300|80|1176|14|65|40|30|0|[19\|19]|[12]|0|0|2|
-|4 Light Corvettes|corvette|8600|160|2352|28|65|40|30|0|[19\|19]|[12]|0|0|2|
-|8 Light Corvettes|corvette|17300|320|4704|56|65|40|30|0|[19\|19]|[12]|0|0|2|
-|2 Heavy Corvettes|corvette|4300|100|1176|15|100|30|20|15|[]|[18]|0|0|3|
-|4 Heavy Corvettes|corvette|8600|200|2352|30|100|30|20|15|[]|[18]|0|0|3|
-|8 Heavy Corvettes|corvette|17300|400|4704|60|100|30|20|15|[]|[18]|0|0|3|
-|2 Multi-Turret Corvettes|corvette|8600|875|1426|30|330|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
-|4 Multi-Turret Corvettes|corvette|17300|1750|2852|60|330|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
-|8 Multi-Turret Corvettes|corvette|34600|3500|5704|120|330|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|2 Light Corvettes|corvette|4300|80|1176|14|75|40|30|0|[19\|19]|[12]|0|0|2|
+|4 Light Corvettes|corvette|8600|160|2352|28|75|40|30|0|[19\|19]|[12]|0|0|2|
+|8 Light Corvettes|corvette|17300|320|4704|56|75|40|30|0|[19\|19]|[12]|0|0|2|
+|2 Heavy Corvettes|corvette|4300|100|1176|15|110|30|20|15|[]|[18]|0|0|3|
+|4 Heavy Corvettes|corvette|8600|200|2352|30|110|30|20|15|[]|[18]|0|0|3|
+|8 Heavy Corvettes|corvette|17300|400|4704|60|110|30|20|15|[]|[18]|0|0|3|
+|2 Multi-Turret Corvettes|corvette|8600|875|1426|30|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|4 Multi-Turret Corvettes|corvette|17300|1750|2852|60|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|8 Multi-Turret Corvettes|corvette|34600|3500|5704|120|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
 |Colonisation Ship|transport|80000|3000|32000|100|400|0|10|10|[]|[]|0|0|0|
 |Carrier|transport|18000|3000|6720|300|800|30|50|5|[3\|3]|[]|5|25|0|
 |2 Assault Frigates|frigate|9200|200|3920|40|200|20|60|10|[26\|26]|[77]|0|2|0|

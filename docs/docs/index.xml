@@ -624,7 +624,7 @@ $1\|$2
 &lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;1176&lt;/td&gt;
 &lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
@@ -641,7 +641,7 @@ $1\|$2
 &lt;td&gt;160&lt;/td&gt;
 &lt;td&gt;2352&lt;/td&gt;
 &lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
@@ -658,7 +658,7 @@ $1\|$2
 &lt;td&gt;320&lt;/td&gt;
 &lt;td&gt;4704&lt;/td&gt;
 &lt;td&gt;56&lt;/td&gt;
-&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
@@ -675,7 +675,7 @@ $1\|$2
 &lt;td&gt;100&lt;/td&gt;
 &lt;td&gt;1176&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
@@ -692,7 +692,7 @@ $1\|$2
 &lt;td&gt;200&lt;/td&gt;
 &lt;td&gt;2352&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
@@ -709,7 +709,7 @@ $1\|$2
 &lt;td&gt;400&lt;/td&gt;
 &lt;td&gt;4704&lt;/td&gt;
 &lt;td&gt;60&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;110&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
@@ -726,7 +726,7 @@ $1\|$2
 &lt;td&gt;875&lt;/td&gt;
 &lt;td&gt;1426&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;330&lt;/td&gt;
+&lt;td&gt;335&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;7&lt;/td&gt;
@@ -743,7 +743,7 @@ $1\|$2
 &lt;td&gt;1750&lt;/td&gt;
 &lt;td&gt;2852&lt;/td&gt;
 &lt;td&gt;60&lt;/td&gt;
-&lt;td&gt;330&lt;/td&gt;
+&lt;td&gt;335&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;7&lt;/td&gt;
@@ -760,7 +760,7 @@ $1\|$2
 &lt;td&gt;3500&lt;/td&gt;
 &lt;td&gt;5704&lt;/td&gt;
 &lt;td&gt;120&lt;/td&gt;
-&lt;td&gt;330&lt;/td&gt;
+&lt;td&gt;335&lt;/td&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
 &lt;td&gt;7&lt;/td&gt;
