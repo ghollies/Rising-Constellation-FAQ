@@ -12,6 +12,9 @@ description: >
 
 They automatically construct buildings over time, very inefficiently. They stop building and upgrading when all of their build slots are full.
 
+### Will they repair destroyed buildings?
+They will prioritize repairing buildings before building new ones and will continue to repair even if all of their building slots are full
+
 ### How do I gain control of a Dominion or Autonomous System?
 People can flip them to their faction by 2 means:
 use Siderians to destabilize and then propaganda them to flip them into dominions

@@ -8,10 +8,19 @@ description: >
   Fleets and ships
 ---
 
-### How does experience enhance fleets? How much experience per level?
+### How do ships get experience?
+you can increase XP of ships via :
+- military academy (A building that can be built only on Barren Planets)
+- assembly line (Of the appropriate ship type)
+- Having a navarch with training skill as governor in a system that produces the fleet (10 xp per rank in the skill)
+- fighting 
+
+### How does experience enhance fleets? 
 +0.5% of main stats per lvl
-(att, def etc..)
-and more moral, so less likely to flee when other squads are killed. XP is not flat by lvl but exponential, like agent xp
+Hull, Maneuverability, Energy Attack, Explosive Attack, Shields, Flak and Morale
+
+### How much experience is needed per level?
+XP is not flat by lvl but exponential, like agent xp
 
 ### Is there a place I can find out what the ship stats do? like what is maneuverability, and the difference between energy and explosive attack, etc?
 [Battle simulator](https://rising-constellation.com/portal/fight-simulator) in the game under the Koshak Academy the best source of information 

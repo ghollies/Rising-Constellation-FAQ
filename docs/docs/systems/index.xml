@@ -25,6 +25,8 @@
         &lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;
 &lt;h3 id=&#34;do-ai-controlled-systems-build-their-own-buildings&#34;&gt;Do AI controlled systems build their own buildings?&lt;/h3&gt;
 &lt;p&gt;They automatically construct buildings over time, very inefficiently. They stop building and upgrading when all of their build slots are full.&lt;/p&gt;
+&lt;h3 id=&#34;will-they-repair-destroyed-buildings&#34;&gt;Will they repair destroyed buildings?&lt;/h3&gt;
+&lt;p&gt;They will prioritize repairing buildings before building new ones and will continue to repair even if all of their building slots are full&lt;/p&gt;
 &lt;h3 id=&#34;how-do-i-gain-control-of-a-dominion-or-autonomous-system&#34;&gt;How do I gain control of a Dominion or Autonomous System?&lt;/h3&gt;
 &lt;p&gt;People can flip them to their faction by 2 means:
 use Siderians to destabilize and then propaganda them to flip them into dominions
