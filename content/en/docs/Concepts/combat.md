@@ -38,7 +38,7 @@ If there are more than one defending navarchs in the system, the supporting ones
 9. C-L1
 
 #### 2. Roll for initiative
-The two sides compare their morale scores and the squadron are ordered according to their morale (the highest morale starts)
+The navarchs commanding the fleets compare their levels and the higher level one will win more often.
 
 #### 3. Attack
 Each squadron takes turns making all of its attacks against a random enemy squadron on the battlefield.
