@@ -1,4 +1,4 @@
-baseURL = "/Rising-Constellation-FAQ/"
+baseURL = "/"
 title = "Unofficial Rising Constellation FAQ"
 # rm -rf docs/* && env HUGO_ENV="production" hugo && git add .
 

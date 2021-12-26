@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unofficial Rising Constellation FAQ – Concepts</title>
-    <link>/Rising-Constellation-FAQ/docs/concepts/</link>
+    <link>/docs/concepts/</link>
     <description>Recent content in Concepts on Unofficial Rising Constellation FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/Rising-Constellation-FAQ/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Winning the Game</title>
-      <link>/Rising-Constellation-FAQ/docs/concepts/victory/</link>
+      <link>/docs/concepts/victory/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Rising-Constellation-FAQ/docs/concepts/victory/</guid>
+      <guid>/docs/concepts/victory/</guid>
       <description>
         
         
@@ -127,7 +127,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h4 id=&#34;path-of-shadows&#34;&gt;Path of Shadows&lt;/h4&gt;
-&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
+&lt;p&gt;Stars are earned by Visibility Points which are the first 5 points of visibility on enemy systems. This can be done by an Erased agent using the &lt;a href=&#34;/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt; action. There are thresholds for how many Visibility Points are needed for each of the star levels, and scales by the number of enemy systems.
 Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;p&gt;Example from a Legacy game with 2 factions mid way into the game:&lt;/p&gt;
 &lt;table&gt;
@@ -158,27 +158,27 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
     
     <item>
       <title>Docs: Fleet Combat</title>
-      <link>/Rising-Constellation-FAQ/docs/concepts/combat/</link>
+      <link>/docs/concepts/combat/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/Rising-Constellation-FAQ/docs/concepts/combat/</guid>
+      <guid>/docs/concepts/combat/</guid>
       <description>
         
         
         &lt;h3 id=&#34;how-is-combat-initiated&#34;&gt;How is combat initiated?&lt;/h3&gt;
-&lt;p&gt;When two &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; agents are in the same system combat can begin in one of three ways:&lt;/p&gt;
+&lt;p&gt;When two &lt;a href=&#34;/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; agents are in the same system combat can begin in one of three ways:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;A player clicks on the the enemy Navarch while selecting their, and chooses to fight.&lt;/li&gt;
-&lt;li&gt;A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Aggressive or Fury stance&lt;/a&gt; will immediately attack enemy fleets in their system. If more than one fleet in a system is set to aggressive &lt;strong&gt;only one will fight&lt;/strong&gt; and the others will just spectate 
+&lt;li&gt;A Navarch set to &lt;a href=&#34;/docs/agents/navarch/#stance&#34;&gt;Aggressive or Fury stance&lt;/a&gt; will immediately attack enemy fleets in their system. If more than one fleet in a system is set to aggressive &lt;strong&gt;only one will fight&lt;/strong&gt; and the others will just spectate 
 &lt;/br&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: There is currently a bug preventing this from happening if the fleet is entering the system, it will only trigger when another fleet enters the system.&lt;/li&gt;
-&lt;li&gt;A Navarch set to &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Defender stance&lt;/a&gt; will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization). Defender stance will also allow the navarch to join another navarch of the same faction in combat against the enemy.&lt;/li&gt;
+&lt;li&gt;A Navarch set to &lt;a href=&#34;/docs/agents/navarch/#defender&#34;&gt;Defender stance&lt;/a&gt; will begin a fight if the system they are in is under attack (Pillage/Bombard/Colonization). Defender stance will also allow the navarch to join another navarch of the same faction in combat against the enemy.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;how-does-combat-get-resolved&#34;&gt;How does Combat get resolved?&lt;/h3&gt;
 &lt;p&gt;Combat occurs in rounds during each round the following phases take place:&lt;/p&gt;
 &lt;h4 id=&#34;1-deployment&#34;&gt;1. Deployment&lt;/h4&gt;
 &lt;p&gt;The squadron in the row corresponding to the round number are added to the battlefield.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: On the first round of combat, the squadron in the L1 column would be deployed, (Drone Carriers in this case)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Fleet Example 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/fleet_example_1.PNG&#34; alt=&#34;Fleet Example 1&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;multiple-defending-navarch&#34;&gt;Multiple Defending Navarch&lt;/h5&gt;
 &lt;p&gt;If there are more than one defending navarchs in the system, the supporting ones will join in later rounds 3, 6 and 9&amp;hellip;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: 3 navarch are defending a system (A,B,C), and an attacker comes in (X). Per round joining the fight:&lt;/p&gt;
@@ -198,7 +198,7 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;h4 id=&#34;3-attack&#34;&gt;3. Attack&lt;/h4&gt;
 &lt;p&gt;Each squadron takes turns making all of its attacks against a random enemy squadron on the battlefield.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a squadron of 2 Gunner ships would make 2 explosive attacks, where a squadron of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
-&lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the squadron of light fighters. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Ship Stats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All of the damage from an attack goes to an individual ship, so even if a Gunner attacks and hits a light fighter with 25 health, most of the 390 of its attack is wasted, as it only removes a single ship from the squadron of light fighters. &lt;a href=&#34;/docs/ships/stats/&#34;&gt;Ship Stats&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;morale&#34;&gt;Morale&lt;/h3&gt;
 &lt;p&gt;Each ship has a morale base, increased by the level of the ship.
 Ships start at 20 morale, and every level after gets you 0.5% more that also applies to all of the other statistics of the ship
