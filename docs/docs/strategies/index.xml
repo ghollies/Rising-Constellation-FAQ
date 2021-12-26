@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unofficial Rising Constellation FAQ – Strategies</title>
-    <link>/docs/strategies/</link>
+    <link>/Rising-Constellation-FAQ/docs/strategies/</link>
     <description>Recent content in Strategies on Unofficial Rising Constellation FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/strategies/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/Rising-Constellation-FAQ/docs/strategies/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,24 +15,24 @@
     
     <item>
       <title>Docs: Fleet Composition</title>
-      <link>/docs/strategies/fleets/</link>
+      <link>/Rising-Constellation-FAQ/docs/strategies/fleets/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/strategies/fleets/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/strategies/fleets/</guid>
       <description>
         
         
         &lt;h3 id=&#34;what-ships-counter-what&#34;&gt;What ships counter what?&lt;/h3&gt;
 &lt;p&gt;There is still a lot of room to develop new fleet strategies and counters, but some basics about which ships counter other ships can be derived from looking at their stats, and how the fighting mechanics work out:&lt;/p&gt;
-&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/images/svg/ships/interceptor.svg&#34;/&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/interceptor.svg&#34;/&gt;
  &lt;strong&gt;Interceptors&lt;/strong&gt;:
 With their high ship count and moderate overall damage, they are a good counter to Gunners, who can only fire once per attack.
 &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/images/svg/ships/gunner.svg&#34;/&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/gunner.svg&#34;/&gt;
  &lt;strong&gt;Gunners&lt;/strong&gt;:
 With their high explosive damage they do well against high shield targets with low Flack, such as Drone Carriers and Assault Frigates
 &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/images/svg/ships/drone_carrier.svg&#34;/&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/drone_carrier.svg&#34;/&gt;
  &lt;strong&gt;Drone Carriers&lt;/strong&gt;:
 With their high HP and multiple shots, they are good at taking out fighters of all types.
 &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
@@ -44,10 +44,10 @@ With their high HP and multiple shots, they are good at taking out fighters of a
     
     <item>
       <title>Docs: Legacy Openers</title>
-      <link>/docs/strategies/legacy-start/</link>
+      <link>/Rising-Constellation-FAQ/docs/strategies/legacy-start/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/strategies/legacy-start/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/strategies/legacy-start/</guid>
       <description>
         
         
@@ -57,21 +57,21 @@ With their high HP and multiple shots, they are good at taking out fighters of a
 Credit: &lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
 &lt;h4 id=&#34;opening&#34;&gt;Opening&lt;/h4&gt;
 &lt;p&gt;In most circumstances, you want to colonize 3 systems as soon as possible.&lt;/p&gt;
-&lt;p&gt;In the beginning, build &lt;em&gt;Delta Polytech&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/university.svg&#34;/&gt;
- on your first planet, buy tech for &lt;em&gt;Citadel&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/ideo.svg&#34;/&gt;
+&lt;p&gt;In the beginning, build &lt;em&gt;Delta Polytech&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/university.svg&#34;/&gt;
+ on your first planet, buy tech for &lt;em&gt;Citadel&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/ideo.svg&#34;/&gt;
  and build the &lt;em&gt;Citadel&lt;/em&gt; on the planet as well.&lt;/p&gt;
-&lt;p&gt;Buy the first technology in habitable, sterile, and asteroid. Build &lt;em&gt;Megapolis&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/main_building.svg&#34;/&gt;
- on the other habitable and &lt;em&gt;Central Hub&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/main_building.svg&#34;/&gt;
+&lt;p&gt;Buy the first technology in habitable, sterile, and asteroid. Build &lt;em&gt;Megapolis&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ on the other habitable and &lt;em&gt;Central Hub&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
 on the sterile.&lt;/p&gt;
-&lt;p&gt;Build both &lt;em&gt;Delta Polytech&lt;/em&gt; and &lt;em&gt;Citadel&lt;/em&gt; on the second habitable, and build 3 &lt;em&gt;Residential Districts&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/house.svg&#34;/&gt;
+&lt;p&gt;Build both &lt;em&gt;Delta Polytech&lt;/em&gt; and &lt;em&gt;Citadel&lt;/em&gt; on the second habitable, and build 3 &lt;em&gt;Residential Districts&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/house.svg&#34;/&gt;
  on the first habitable for faster population growth.&lt;/p&gt;
-&lt;p&gt;Build &lt;em&gt;Impact Research Center&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/microscope.svg&#34;/&gt;
- on the sterile planet, and build one &lt;em&gt;Refining Duct&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/factory.svg&#34;/&gt;
+&lt;p&gt;Build &lt;em&gt;Impact Research Center&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ on the sterile planet, and build one &lt;em&gt;Refining Duct&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/factory.svg&#34;/&gt;
   on each of the 5 industry potential asteroid.&lt;/p&gt;
-&lt;p&gt;Wait for &lt;em&gt;Exobiology&lt;/em&gt; patent, and build &lt;em&gt;Experiment stations&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/microscope.svg&#34;/&gt;
+&lt;p&gt;Wait for &lt;em&gt;Exobiology&lt;/em&gt; patent, and build &lt;em&gt;Experiment stations&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
  on every asteroid except the 1 potential one. Buy patent for asteroid level 2, and upgrade asteroid buildings.&lt;/p&gt;
 &lt;p&gt;Wait for colony ship technology. Buy navarch and colony ship. Look for systems with many habitable slots and good appeal potential because the second system should focus on credit.&lt;/p&gt;
-&lt;p&gt;Research &lt;em&gt;Publicity Terminal&lt;/em&gt; patent and replace the houses on home planet with &lt;em&gt;Archipelagoes&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/images/svg/buildings/double_house.svg&#34;/&gt;
+&lt;p&gt;Research &lt;em&gt;Publicity Terminal&lt;/em&gt; patent and replace the houses on home planet with &lt;em&gt;Archipelagoes&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/double_house.svg&#34;/&gt;
  . Research habitable level 2. When colonization is complete, develop the second colony and recall the navarch.&lt;/p&gt;
 &lt;p&gt;Deploy the navarch in home system once the cooldown finishes, and build the next colony ship. You should get enough ideology for the third system when the second colony ship is completed and moves to its destination.&lt;/p&gt;
 &lt;p&gt;For Lex, rush &lt;em&gt;Mass Media&lt;/em&gt; and ignore everything else. Buy Lex slots to make sure all lexes are applied. After &lt;em&gt;Mass Media&lt;/em&gt; buy &lt;em&gt;Propaganda&lt;/em&gt; to keep population growing. After that save up for &lt;em&gt;Proto Empire&lt;/em&gt; and after that &lt;em&gt;Extended Administration&lt;/em&gt;.&lt;/p&gt;

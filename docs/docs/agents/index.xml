@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unofficial Rising Constellation FAQ – Agents</title>
-    <link>/docs/agents/</link>
+    <link>/Rising-Constellation-FAQ/docs/agents/</link>
     <description>Recent content in Agents on Unofficial Rising Constellation FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/docs/agents/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/Rising-Constellation-FAQ/docs/agents/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,28 +16,28 @@
     
     <item>
       <title>Docs: Navarch</title>
-      <link>/docs/agents/navarch/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/navarch/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/navarch/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/navarch/</guid>
       <description>
         
         
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
-&lt;h3 id=&#34;pillaging-bombingimagesbombingpng&#34;&gt;Pillaging &lt;img src=&#34;/images/bombing.PNG&#34; alt=&#34;Bombing&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Allows a navarch to raid resources from an enemy controlled system or dominion. Compares the navarch&amp;rsquo;s total bombing power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Bombing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;pillaging-bombingimagesbombingpng&#34;&gt;Pillaging &lt;img src=&#34;/Rising-Constellation-FAQ/images/bombing.PNG&#34; alt=&#34;Bombing&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Allows a navarch to raid resources from an enemy controlled system or dominion. Compares the navarch&amp;rsquo;s total bombing power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Bombing&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;does-the-time-to-pillage-depend-on-bombing-power&#34;&gt;Does the time to pillage depend on bombing power?&lt;/h4&gt;
 &lt;p&gt;yes slightly depends on defense and bombing power. The base time length for a pillage is 1h&lt;/p&gt;
 &lt;h3 id=&#34;how-much-will-i-get-from-pillaging&#34;&gt;How much will I get from pillaging?&lt;/h3&gt;
 &lt;p&gt;One pillage gives 150 ticks of the production of the system for a normal level of success, and 200 ticks for a critical. Each pillage lowers % of resources raided by 45% and it recovers over time by .25% per tick&lt;/p&gt;
-&lt;h3 id=&#34;conquest-invasionimagesinvasionpng&#34;&gt;Conquest &lt;img src=&#34;/images/invasion.PNG&#34; alt=&#34;Invasion&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Allows a navarch to convert an enemy controlled system or dominion into a system directly under your control. Compares the navarch&amp;rsquo;s total invasion power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Invasion&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;conquest-invasionimagesinvasionpng&#34;&gt;Conquest &lt;img src=&#34;/Rising-Constellation-FAQ/images/invasion.PNG&#34; alt=&#34;Invasion&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Allows a navarch to convert an enemy controlled system or dominion into a system directly under your control. Compares the navarch&amp;rsquo;s total invasion power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Invasion&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;does-the-time-to-conquest-depend-on-invasion-power&#34;&gt;Does the time to conquest depend on invasion power?&lt;/h4&gt;
 &lt;p&gt;yes slightly depends on defense and invasion power&lt;/p&gt;
 &lt;h4 id=&#34;how-much-invasion-power-do-i-need&#34;&gt;How much invasion power do I need?&lt;/h4&gt;
 &lt;p&gt;Invasion power is compared to system defense&lt;/p&gt;
-&lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;how-long-do-repairs-take&#34;&gt;How long do repairs take?&lt;/h4&gt;
 &lt;p&gt;Repairs will only happen while a fleet is not moving or engaging in an offensive action. Ships will be repaired starting with the ship at lowest % health first. The rate of repair is:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Repair Score * .5 HP per tick.&lt;/strong&gt;&lt;/p&gt;
@@ -63,48 +63,48 @@ In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
     
     <item>
       <title>Docs: Siderian</title>
-      <link>/docs/agents/siderian/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/siderian/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/siderian/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/siderian/</guid>
       <description>
         
         
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
-&lt;h3 id=&#34;propaganda-propagandaimagespropagandapng&#34;&gt;Propaganda &lt;img src=&#34;/images/propaganda.PNG&#34; alt=&#34;Propaganda&#34;&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;propaganda-propagandaimagespropagandapng&#34;&gt;Propaganda &lt;img src=&#34;/Rising-Constellation-FAQ/images/propaganda.PNG&#34; alt=&#34;Propaganda&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability is used to take control over an AI controlled system. It takes the agent&amp;rsquo;s propaganda skill and compares it to the current stability of the system. The attempt takes a long amount of time (~8 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 &lt;h4 id=&#34;how-do-i-defend-against-it-other-than-high-stability&#34;&gt;How do I defend against it other than high stability?&lt;/h4&gt;
 &lt;p&gt;If you notice the Siderian in your dominion and suspect a propaganda attempt, you can flip your dominion into a system, canceling the agent&amp;rsquo;s action.&lt;/p&gt;
-&lt;h3 id=&#34;destabilize-destabilizeimagesdestabilizationpng&#34;&gt;Destabilize &lt;img src=&#34;/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;destabilize-destabilizeimagesdestabilizationpng&#34;&gt;Destabilize &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
-&lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;This ability can only be used when in the same system as an enemy agent who is visible. This ability compares the siderian agent&amp;rsquo;s seduction skill against the target agent&amp;rsquo;s Determination &lt;img src=&#34;/images/agent_determination.png&#34; alt=&#34;Determination&#34;&gt;. If successful, will convert the agent to your side! Instantaneous. TODO/verify: Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
+&lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;This ability can only be used when in the same system as an enemy agent who is visible. This ability compares the siderian agent&amp;rsquo;s seduction skill against the target agent&amp;rsquo;s Determination &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_determination.png&#34; alt=&#34;Determination&#34;&gt;. If successful, will convert the agent to your side! Instantaneous. TODO/verify: Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Erased</title>
-      <link>/docs/agents/erased/</link>
+      <link>/Rising-Constellation-FAQ/docs/agents/erased/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agents/erased/</guid>
+      <guid>/Rising-Constellation-FAQ/docs/agents/erased/</guid>
       <description>
         
         
         &lt;h2 id=&#34;abilities&#34;&gt;Abilities&lt;/h2&gt;
-&lt;h3 id=&#34;infiltration-infiltrationimagesinfiltrationpng&#34;&gt;Infiltration &lt;img src=&#34;/images/infiltration.PNG&#34; alt=&#34;Infiltration&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Infiltration takes somewhere between 2-3 hours and compares the erased agent&amp;rsquo;s infiltration skill against the system&amp;rsquo;s &lt;a href=&#34;/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; and if successful installs 1 malware, or 2 with a critical success, in the system, increasing visibility on the system, and contributing to the &lt;a href=&#34;/docs/concepts/victory/#path-of-shadows#&#34;&gt;Path of Shadow&lt;/a&gt; victory&lt;/p&gt;
+&lt;h3 id=&#34;infiltration-infiltrationimagesinfiltrationpng&#34;&gt;Infiltration &lt;img src=&#34;/Rising-Constellation-FAQ/images/infiltration.PNG&#34; alt=&#34;Infiltration&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Infiltration takes somewhere between 2-3 hours and compares the erased agent&amp;rsquo;s infiltration skill against the system&amp;rsquo;s &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; and if successful installs 1 malware, or 2 with a critical success, in the system, increasing visibility on the system, and contributing to the &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/victory/#path-of-shadows#&#34;&gt;Path of Shadow&lt;/a&gt; victory&lt;/p&gt;
 &lt;h4 id=&#34;how-can-i-remove-malware-in-a-system&#34;&gt;How can I remove malware in a system?&lt;/h4&gt;
-&lt;p&gt;By increasing your &lt;a href=&#34;/docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersecurity&lt;/a&gt; in the system&lt;/p&gt;
+&lt;p&gt;By increasing your &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersecurity&lt;/a&gt; in the system&lt;/p&gt;
 &lt;h4 id=&#34;can-i-have-more-than-4-malware-in-a-system&#34;&gt;Can I have more than 4 malware in a system?&lt;/h4&gt;
 &lt;p&gt;Yes, won&amp;rsquo;t give shadow paths points but it will allow to keep the 5 visibility longer if cybersecurity kicks in&lt;/p&gt;
 &lt;h4 id=&#34;can-i-perform-infiltration-without-any-skill-points-on-my-erased&#34;&gt;Can I perform infiltration without any skill points on my erased?&lt;/h4&gt;
 &lt;p&gt;Yes, but with a lower likelihood of success&lt;/p&gt;
-&lt;h3 id=&#34;sabotage-sabotageimagessabotagepng&#34;&gt;Sabotage &lt;img src=&#34;/images/sabotage.PNG&#34; alt=&#34;Sabotage&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;This ability allows erased agents to damage fleets. It compares the erased agent&amp;rsquo;s sabotage skill VS the protection &lt;img src=&#34;/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; skill of the navarch controlling the target fleet. Upon success it will damage ships randomly in the fleet. The action is instantaneous.&lt;/p&gt;
-&lt;h3 id=&#34;removal-removalimagesremovalpng&#34;&gt;Removal &lt;img src=&#34;/images/removal.PNG&#34; alt=&#34;Removal&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;This ability allows the erased agent to assassinate an enemy governor or agent in the same system. It compares the erased agent&amp;rsquo;s removal skill against the enemy agent&amp;rsquo;s protection &lt;img src=&#34;/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; skill. Upon success it will remove the agent. The action is instantaneous.&lt;/p&gt;
+&lt;h3 id=&#34;sabotage-sabotageimagessabotagepng&#34;&gt;Sabotage &lt;img src=&#34;/Rising-Constellation-FAQ/images/sabotage.PNG&#34; alt=&#34;Sabotage&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;This ability allows erased agents to damage fleets. It compares the erased agent&amp;rsquo;s sabotage skill VS the protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; skill of the navarch controlling the target fleet. Upon success it will damage ships randomly in the fleet. The action is instantaneous.&lt;/p&gt;
+&lt;h3 id=&#34;removal-removalimagesremovalpng&#34;&gt;Removal &lt;img src=&#34;/Rising-Constellation-FAQ/images/removal.PNG&#34; alt=&#34;Removal&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;This ability allows the erased agent to assassinate an enemy governor or agent in the same system. It compares the erased agent&amp;rsquo;s removal skill against the enemy agent&amp;rsquo;s protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; skill. Upon success it will remove the agent. The action is instantaneous.&lt;/p&gt;
 &lt;p&gt;Note: When removing a navarch agent with a fleet, it will be replaced with a lv 1 navarch, and the fleet will remain intact&lt;/p&gt;
 &lt;!-- 
 This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier **craft beer**. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&#39;t heard of them copper mug, crucifix green juice vape *single-origin coffee* brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!
