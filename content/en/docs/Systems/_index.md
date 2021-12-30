@@ -18,8 +18,11 @@ Example below where the mobilized value is less than the total:<br/>
 ![Mobilized Population](/images/mobilized_population.PNG)
 
 ### System Population ![System Population](/images/system_population.png)
-How do populations within a system balance between planets?
+#### How do populations within a system balance between planets?
 does it every time you have a new pop it tries to even it between all the planets
+
+#### How do I increase my system's population?
+Population will automatically grow if there is additional housing, and stability is more than 0. If the distance between current and max population is large, and stability is high, you will see faster growth
 
 
 ### Colonizing
