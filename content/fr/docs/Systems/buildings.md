@@ -1,0 +1,59 @@
+---
+title: "Bâtiments"
+linkTitle: "Bâtiments"
+date: 2017-01-05
+description: >
+  Bâtiments
+---
+### Monolith - S'adapte-t-il à la population de la planète ou du système ?
+Il utilise l'ensemble de la population du système, vous pouvez le constater par l'icône qu'il utilise : ![Population du système](/images/system_population.png) plutôt que ![Population de la planète](/images/planet_population.PNG)
+
+### Coûts des bâtiments
+
+| Nom | Emplacement du bâtiment | Coût de production par niveau <br/> Coût de crédit par niveau |
+| --- | --- | --- |
+|Essaim de machines autoforeuses|Astéroïde ou Lune|300/1250/7500/15000/25000<br/>3900/8320/13520/19500/26000|
+|Conduits de raffinage|Astéroïde ou Lune|120/2000/20000/44000/80000<br/>2000/6400/10400/15000/20000|
+|Station d'expérimentation|Astéroïde ou Lune|150/1000/10000/22000/40000<br/>6000/12800/20800/30000/40000|
+|Arche commerciale|Astéroïde ou Lune|2500/10000/60000/120000/200000<br/>40000/40000/64000/104000/160000|
+|Terminus orbital|Astéroïde ou Lune|1600/6000/36000/72000/120000<br/>20000/32000/52000/75000/100000|
+|Constellation de leurres|Astéroïde ou Lune|100/250/1500/3000/5000<br/>3750/8000/13000/18750/25000|
+|Zero-G-Arena|Astéroïde ou Lune|800/3200/9600/25600/64000<br/>9900/21120/34320/49500/66000|
+|O.P.U.|Astéroïde ou Lune|200/1500/15000/33000/60000<br/>3300/7040/11440/16500/22000|
+|Ligne d'assemblage S-01|Astéroïde ou Lune|400/1600/4800/12800/32000<br/>10500/17500/28000/45500/70000|
+|Ligne d'assemblage S-02|Astéroïde ou Lune|800/3200/9600/25600/64000<br/>15000/25000/40000/65000/100000|
+|Space Dock|Astéroïde ou Lune|1500/6000/18000/48000/120000<br/>40000/62500/100000/16250/250000|
+|Superstructure d'assemblage|Astéroïde ou Lune|3000/12000/36000/96000/240000<br/>100000/107500/172000/279500/430000|
+|S.L.S.D. Réseau|Astéroïde ou Lune|360/1500/4500/12000/30000<br/>4950/10560/17160/24750/33000|
+|Mégapole|Habitable|120/1000/6000/12000/20000<br/>8400/17920/29120/42000/56000|
+|Quartier Résidentiel|Habitable|30/250/1500/3000/5000<br/>1950/4160/6760/9750/13000|
+|Villes-ruches|Habitable|300/1250/7500/15000/25000<br/>4500/9600/15600/22500/30000|
+|Archipel résidentiel|Habitable|450/3750/22500/45000/75000<br/>7500/16000/26000/37500/50000|
+|Pôle industriel|Habitable|500/2750/27500/60500/110000<br/>6000/12800/20800/30000/40000|
+|Lien Orbital|Habitable|4000/8000/48000/96000/160000<br/>70000/112000/182000/262500/350000|
+|Delta Polytech|Habitable|70/375/3750/8250/15000<br/>1500/3200/5200/7500/10000|
+|Accélérateur|Habitable|15000/43750/87500/175000/350000<br/>72000/90000/144000/234000/360000|
+|Citadelle|Habitable|120/500/5000/11000/20000<br/>1500/3200/5200/7500/10000|
+|Jardins flottants|Habitable|1200/4850/14550/38800/97000<br/>15000/32000/52000/75000/100000|
+|Réseau d'Îles Artificielles|Habitable|2200/9000/27000/72000/180000<br/>50000/62500/100000/16250/250000|
+|Artère commerciale|Habitable|200/1500/15000/33000/60000<br/>4000/12800/20800/30000/40000|
+|Reflect District|Habitable|20000/58125/116250/232500/465000<br/>140000/97500/156000/253500/390000|
+|Bouclier planétaire|Habitable|1000/4000/12000/32000/80000<br/>11250/24000/39000/56250/75000|
+|Échosystème préservé|Habitable|12000/35000/70000/140000/280000<br/>64000/87000/130500/188500/290000|
+|Orb-Intel|Habitable|7500/18750/37500/75000/150000<br/>18750/40000/65000/93750/125000|
+|Centre des congrès|Habitable|10000/2250/22500/49500/90000<br/>4800/10240/16640/24000/32000|
+|Centre central|Stérile|130/1100/6600/13200/22000<br/>9000/19200/31200/45000/60000|
+|Gamme d'excavatrices|Stérile|200/1000/6000/12000/20000<br/>1950/4160/6760/9750/13000|
+|Capsule Cities|Stérile|200/1000/6000/12000/20000<br/>3450/7360/11960/17250/23000|
+|Usine de métamatériaux|Stérile|30000/60000/120000/240000/480000<br/>180000/150000/240000/390000/600000|
+|Ascenseur spatial|Stérile|1500/6000/18000/48000/120000<br/>22500/48000/78000/112500/150000|
+|Station de recherche d'impact|Stérile|250/1750/17500/38500/70000<br/>3750/8000/13000/18750/25000|
+|Holodome|Stérile|2000/8100/24300/64800/162000<br/>3000/6400/10400/15000/20000|
+|Monolithe|Stérile|20000/58750/117500/235000/470000<br/>160000/105000/168000/273000/42000|
+|Omnimarché|Stérile|150/1125/11250/24750/45000<br/>8000/16000/26000/37500/50000|
+|Sport spatial industriel|Stérile|1400/5500/16500/44000/110000<br/>9000/19200/31200/45000/60000|
+|C.N.D.|Stérile|5000/15000/30000/60000/120000<br/>19500/41600/67600/97500/130000|
+|Tunnels d'interception|Stérile|800/3100/9300/24800/62000<br/>9750/20800/33800/48750/65000|
+|Circuit Hyperdrive|Stérile|600/2400/7200/19200/48000<br/>20250/43200/70200/101250/135000|
+|Académie militaire aérospatiale|Stérile|6000/17500/35000/70000/140000<br/>19500/41600/67600/97500/130000|
+|Systèmes proxy intégrés|Stérile|250/1875/18750/41250/75000<br/>4050/8640/14040/20250/27000|

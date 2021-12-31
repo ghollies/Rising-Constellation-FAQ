@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial Rising Constellation FAQ FR – Stratégies</title>
+    <link>/Rising-Constellation-FAQ/fr/docs/strategies/</link>
+    <description>Recent content in Stratégies on Unofficial Rising Constellation FAQ FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/Rising-Constellation-FAQ/fr/docs/strategies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Composition de la flotte</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/strategies/fleets/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/strategies/fleets/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;quels-navires-contre-quoi&#34;&gt;Quels navires contre quoi?&lt;/h3&gt;
+&lt;p&gt;Il y a encore beaucoup de place pour développer de nouvelles stratégies et de nouveaux pions pour les flottes, mais certains éléments de base concernant les navires qui contrent d&amp;rsquo;autres navires peuvent être déduits de l&amp;rsquo;examen de leurs statistiques et de la façon dont les mécanismes de combat fonctionnent :&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/interceptor.svg&#34;/&gt;
+ &lt;strong&gt;Intercepteurs&lt;/strong&gt; :
+Avec leur nombre élevé de vaisseaux et leurs dégâts globaux modérés, ils constituent un bon contrepoids aux artilleurs, qui ne peuvent tirer qu&amp;rsquo;une fois par attaque.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/gunner.svg&#34;/&gt;
+ &lt;strong&gt;Les canonniers&lt;/strong&gt; :
+Avec leurs dégâts explosifs élevés, ils sont efficaces contre les cibles à bouclier élevé et à faible Flack, comme les porte-drones et les frégates d&amp;rsquo;assaut.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/drone_carrier.svg&#34;/&gt;
+ &lt;strong&gt;Porteurs de drones&lt;/strong&gt; :
+Avec leurs HP élevés et leurs tirs multiples, ils sont bons pour éliminer les chasseurs de tous types.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Les corvettes se situent quelque part au milieu, les corvettes 2x ou 4x auront du mal à contrer n&amp;rsquo;importe quelle classe de frégate, mais les types plus axés sur le combat (corvettes légères et multi-tourelles) s&amp;rsquo;en sortiront bien lorsqu&amp;rsquo;elles atteindront le niveau 8x, au moins jusqu&amp;rsquo;à ce que les frégates atteignent leur niveau 4x. Elles peuvent cependant constituer un moyen de contrer rapidement les flottes de chasseurs.&lt;/p&gt;
+&lt;p&gt;Lorsque vous cherchez à contrer une flotte ennemie spécifique, pensez à mettre en place un &lt;a href=&#34;https://rising-constellation.com/portal/fight-simulator&#34;&gt;combat simulé&lt;/a&gt; et à jouer avec la conception de votre flotte en termes d&amp;rsquo;ordre/de disposition et de composition.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Ouvreurs hérités</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/strategies/legacy-start/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/strategies/legacy-start/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;legacy&#34;&gt;Legacy&lt;/h3&gt;
+&lt;p&gt;Il existe de nombreuses stratégies possibles, surtout lorsqu&amp;rsquo;il s&amp;rsquo;agit de se coordonner avec d&amp;rsquo;autres membres de votre faction.&lt;/p&gt;
+&lt;p&gt;La stratégie ci-dessous est une recommandation solide qui peut être modifiée, mais qui devrait vous donner une idée générale du point de départ.
+Crédit : &lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ouverture&#34;&gt;Ouverture&lt;/h4&gt;
+&lt;p&gt;Dans la plupart des cas, vous souhaitez coloniser 3 systèmes dès que possible.&lt;/p&gt;
+&lt;p&gt;Au début, construisez &lt;em&gt;Delta Polytech&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/university.svg&#34;/&gt;
+ sur votre première planète, achetez la technologie pour &lt;em&gt;Citadel&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/ideo.svg&#34;/&gt;
+ et construisez la &lt;em&gt;Citadel&lt;/em&gt; sur la planète également.&lt;/p&gt;
+&lt;p&gt;Achetez la première technologie en habitable, stérile, et astéroïde. Construisez &lt;em&gt;Megapolis&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ sur l&amp;rsquo;autre habitable et &lt;em&gt;Central Hub&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ sur le stérile.&lt;/p&gt;
+&lt;p&gt;Construisez &lt;em&gt;Delta Polytech&lt;/em&gt; et &lt;em&gt;Citadel&lt;/em&gt; sur la seconde habitable, et construisez 3 &lt;em&gt;Districts résidentiels&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/house.svg&#34;/&gt;
+ sur la première habitable pour une croissance plus rapide de la population.&lt;/p&gt;
+&lt;p&gt;Construisez le &lt;em&gt;Centre de recherche sur l&amp;rsquo;impact&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ sur la planète stérile, et construisez un &lt;em&gt;Conduit de raffinage&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/factory.svg&#34;/&gt;
+ sur chacun des 5 astéroïdes à potentiel industriel.&lt;/p&gt;
+&lt;p&gt;Attendez le brevet &lt;em&gt;Exobiologie&lt;/em&gt;, et construisez des &lt;em&gt;Stations d&amp;rsquo;expérimentation&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ sur chaque astéroïde sauf le 1 potentiel. Acheter le brevet pour l&amp;rsquo;astéroïde niveau 2, et améliorer les bâtiments de l&amp;rsquo;astéroïde.&lt;/p&gt;
+&lt;p&gt;Attendre la technologie du vaisseau de colonie. Acheter un navarch et un vaisseau de colonie. Recherchez des systèmes avec de nombreux emplacements habitables et un bon potentiel d&amp;rsquo;attrait, car le deuxième système doit se concentrer sur le crédit.&lt;/p&gt;
+&lt;p&gt;Recherchez le brevet &lt;em&gt;Terminal de publicité&lt;/em&gt; et remplacez les maisons de la planète d&amp;rsquo;origine par des &lt;em&gt;Archipels&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/double_house.svg&#34;/&gt;
+. . Recherchez le niveau d&amp;rsquo;habitabilité 2. Lorsque la colonisation est terminée, développez la deuxième colonie et rappelez le navarque.&lt;/p&gt;
+&lt;p&gt;Déployez le navarque dans le système d&amp;rsquo;origine une fois le cooldown terminé, et construisez le vaisseau de la colonie suivante. Vous devriez obtenir suffisamment d&amp;rsquo;idéologie pour le troisième système lorsque le deuxième vaisseau de colonie sera terminé et se déplacera vers sa destination.&lt;/p&gt;
+&lt;p&gt;Pour Lex, précipitez &lt;em&gt;Mass Media&lt;/em&gt; et ignorez tout le reste. Achetez des slots Lex pour vous assurer que toutes les lex sont appliquées. Après &lt;em&gt;Mass Media&lt;/em&gt;, achète &lt;em&gt;Propaganda&lt;/em&gt; pour maintenir la croissance de la population. Après cela, économise pour &lt;em&gt;Proto Empire&lt;/em&gt; et après cela &lt;em&gt;Administration étendue&lt;/em&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

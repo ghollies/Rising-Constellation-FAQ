@@ -1,0 +1,221 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial Rising Constellation FAQ FR – Notions</title>
+    <link>/Rising-Constellation-FAQ/fr/docs/concepts/</link>
+    <description>Recent content in Notions on Unofficial Rising Constellation FAQ FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/Rising-Constellation-FAQ/fr/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Winning the Game</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/concepts/victory/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/concepts/victory/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;victoire&#34;&gt;Victoire&lt;/h3&gt;
+&lt;h4 id=&#34;comment-une-équipe-peut-elle-gagner-&#34;&gt;Comment une équipe peut-elle gagner ?&lt;/h4&gt;
+&lt;p&gt;Il existe 3 chemins vers la victoire. Chaque chemin donne 2/3/5 étoiles en fonction des objectifs atteints. Le but du jeu est d&amp;rsquo;atteindre en premier la barre des 12 étoiles en équipe.&lt;/p&gt;
+&lt;h4 id=&#34;chemin-de-la-conquête&#34;&gt;Chemin de la conquête&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées par une faction qui contrôle un secteur. Chaque secteur vaut un certain nombre de points de secteur, et il existe des seuils pour le nombre de points de secteur nécessaires pour chacun des niveaux d&amp;rsquo;étoiles. Vous pouvez passer la souris sur un secteur pour voir le nombre de points qu&amp;rsquo;il vaut (dans le losange du milieu).&lt;/p&gt;
+&lt;p&gt;Exemple de progression d&amp;rsquo;une partie héritée avec 2 factions : &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de secteur&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ces chiffres seront différents en fonction de la disposition de la carte et du nombre de factions impliquées.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;voie-dinfluence&#34;&gt;Voie d&amp;rsquo;influence&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées en ayant de grandes populations dans les systèmes stellaires. Chaque système vaut un certain nombre de points de star system qui dépend de la population du système.&lt;/p&gt;
+&lt;h5 id=&#34;points-de-système-stellaire-par-population&#34;&gt;Points de système stellaire par population&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Population - Points de système stellaire&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;40&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;60&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;70&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;80&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;90&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;120&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;180&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Exemple d&amp;rsquo;une partie Legacy avec 2 factions, et 49 joueurs sur l&amp;rsquo;une des factions :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de secteur&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2042&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;4083&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ces chiffres dépendront du nombre de joueurs de la faction.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;le-chemin-des-ombres&#34;&gt;Le chemin des ombres&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées par les points de visibilité qui sont les 5 premiers points de visibilité sur les systèmes ennemis. Cela peut être fait par un agent Effacé en utilisant l&amp;rsquo;action &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt;. Il existe des seuils pour le nombre de points de visibilité nécessaires pour chacun des niveaux d&amp;rsquo;étoiles, et ils sont échelonnés en fonction du nombre de systèmes ennemis.
+Contrairement aux deux autres voies, cette valeur est cachée à l&amp;rsquo;ennemi.&lt;/p&gt;
+&lt;p&gt;Exemple d&amp;rsquo;une partie Legacy avec 2 factions au milieu de la partie :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de visibilité&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;415&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;669&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;752&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Combat de flotte</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/concepts/combat/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/concepts/combat/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;comment-samorce-le-combat&#34;&gt;Comment s&amp;rsquo;amorce le combat ?&lt;/h3&gt;
+&lt;p&gt;Lorsque deux agents &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; sont dans le même système, le combat peut commencer de l&amp;rsquo;une des trois manières suivantes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un joueur clique sur le Navarch ennemi tout en le sélectionnant et choisit de se battre.&lt;/li&gt;
+&lt;li&gt;Un Navarch réglé sur &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Stance agressive ou furieuse&lt;/a&gt; attaquera immédiatement les flottes ennemies dans leur système. Si plus d&amp;rsquo;une flotte dans un système est définie sur agressive ** une seule se battra ** et les autres ne feront que regarder
+&lt;/br&gt;&lt;strong&gt;REMARQUE&lt;/strong&gt; : Il existe actuellement un bogue empêchant que cela se produise si la flotte entre dans le système, il ne se déclenchera que lorsqu&amp;rsquo;une autre flotte entrera dans le système.&lt;/li&gt;
+&lt;li&gt;Un Navarch défini sur &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Position du défenseur&lt;/a&gt; commencera un combat si le système dans lequel il se trouve est attaqué (Pillage/Bombard/Colonisation). La position du défenseur permettra également au navarch de rejoindre un autre navarch de la même faction au combat contre l&amp;rsquo;ennemi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;comment-le-combat-est-il-résolu&#34;&gt;Comment le combat est-il résolu ?&lt;/h3&gt;
+&lt;p&gt;Le combat se déroule en rounds au cours de chaque round les phases suivantes ont lieu :&lt;/p&gt;
+&lt;h4 id=&#34;1-déploiement&#34;&gt;1. Déploiement&lt;/h4&gt;
+&lt;p&gt;L&amp;rsquo;escadron de la rangée correspondant au numéro du round est ajouté au champ de bataille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : Au premier tour de combat, l&amp;rsquo;escadron de la colonne L1 est déployé (dans ce cas, il s&amp;rsquo;agit de porte-drones).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Exemple de flotte 1&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;navarques-multiples-en-défense&#34;&gt;Navarques multiples en défense&lt;/h5&gt;
+&lt;p&gt;S&amp;rsquo;il y a plus d&amp;rsquo;une navarchie en défense dans le système, celles qui la soutiennent se joindront aux tours 3, 6 et 9&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : 3 navarques défendent un système (A,B,C), et un attaquant arrive (X). Par tour, ils rejoignent le combat :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A-L1 et X-L1&lt;/li&gt;
+&lt;li&gt;A-L2 et X-L2&lt;/li&gt;
+&lt;li&gt;A-L3 + B-L1 et X-L3&lt;/li&gt;
+&lt;li&gt;A-L4 + B-L2 et X-L4&lt;/li&gt;
+&lt;li&gt;A-L5 + B-L3 et X-L5&lt;/li&gt;
+&lt;li&gt;A-L6 + B-L4 et X-L6&lt;/li&gt;
+&lt;li&gt;B-L5&lt;/li&gt;
+&lt;li&gt;B-L6&lt;/li&gt;
+&lt;li&gt;C-L1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;2-lancer-le-dé-pour-linitiative&#34;&gt;2. Lancer le dé pour l&amp;rsquo;initiative&lt;/h4&gt;
+&lt;p&gt;Les navarques commandant les flottes comparent leurs niveaux et celui qui a le niveau le plus élevé gagnera plus souvent.&lt;/p&gt;
+&lt;h4 id=&#34;3-attaque&#34;&gt;3. Attaque&lt;/h4&gt;
+&lt;p&gt;Chaque escadron effectue à tour de rôle toutes ses attaques contre un escadron ennemi aléatoire sur le champ de bataille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : un escadron de 2 vaisseaux canonniers effectuera 2 attaques explosives, tandis qu&amp;rsquo;un escadron de 8 chasseurs légers effectuera 8 * (2 attaques énergétiques + 1 attaque explosive) pour un total de 24 attaques individuelles.&lt;/p&gt;
+&lt;p&gt;Tous les dégâts d&amp;rsquo;une attaque sont infligés à un vaisseau individuel, donc même si un Gunner attaque et touche un chasseur léger avec 25 points de vie, la plupart des 390 de son attaque sont gaspillés, car il ne retire qu&amp;rsquo;un seul vaisseau de l&amp;rsquo;escadron de chasseurs légers. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Statistiques des navires&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;moral&#34;&gt;Moral&lt;/h3&gt;
+&lt;p&gt;Chaque navire a une base de moral, augmentée par le niveau du navire.
+Les vaisseaux commencent à 20 de moral, et chaque niveau suivant vous donne 0,5% de plus qui s&amp;rsquo;applique également à toutes les autres statistiques du vaisseau.
+Pendant un combat, si le moral d&amp;rsquo;un escadron atteint 0, il fuit le combat. 
+Le moral se réinitialise à la fin de chaque combat, de sorte que l&amp;rsquo;escadron retrouve toujours son plein moral avant le combat suivant.&lt;/p&gt;
+&lt;h4 id=&#34;quest-ce-qui-cause-la-perte-de-moral-&#34;&gt;Qu&amp;rsquo;est-ce qui cause la perte de moral ?&lt;/h4&gt;
+&lt;p&gt;Le moral est abaissé par les événements suivants&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sur l&amp;rsquo;escadron : lorsqu&amp;rsquo;un vaisseau de l&amp;rsquo;escadron est détruit&lt;/li&gt;
+&lt;li&gt;sur la flotte entière : lorsqu&amp;rsquo;un escadron de la flotte est détruit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;quest-ce-qui-fait-que-les-escadrons-ne-répondent-plus-aux-ordres-et-fuient-au-combat-&#34;&gt;Qu&amp;rsquo;est-ce qui fait que les escadrons ne répondent plus aux ordres et fuient au combat ?&lt;/h4&gt;
+&lt;p&gt;Manque de moral&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

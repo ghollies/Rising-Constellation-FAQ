@@ -1,0 +1,375 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial Rising Constellation FAQ FR – Agents</title>
+    <link>/Rising-Constellation-FAQ/fr/docs/agents/</link>
+    <description>Recent content in Agents on Unofficial Rising Constellation FAQ FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/Rising-Constellation-FAQ/fr/docs/agents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Navarch</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/navarch/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/navarch/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;pillage-bombardementimagesbombingpng&#34;&gt;Pillage &lt;img src=&#34;/Rising-Constellation-FAQ/images/bombing.PNG&#34; alt=&#34;Bombardement&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Permet à un navarque de piller les ressources d&amp;rsquo;un système ou d&amp;rsquo;un dominion contrôlé par l&amp;rsquo;ennemi. Compare la puissance totale de bombardement du navarque à la défense du système. Augmentée par la compétence Conquête, et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Bombing&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;le-temps-de-pillage-dépend-il-de-la-puissance-de-bombardement-&#34;&gt;Le temps de pillage dépend-il de la puissance de bombardement ?&lt;/h4&gt;
+&lt;p&gt;Oui, cela dépend légèrement de la puissance de défense et de bombardement. Le temps de base pour un pillage est de 1h.&lt;/p&gt;
+&lt;h3 id=&#34;combien-vais-je-gagner-en-pillant-&#34;&gt;Combien vais-je gagner en pillant ?&lt;/h3&gt;
+&lt;p&gt;Un pillage donne 150 ticks de la production du système pour un niveau de succès normal, et 200 ticks pour un critique. Chaque pillage diminue le % de ressources pillées de 45% et se récupère au fil du temps de 0,25% par tic.&lt;/p&gt;
+&lt;h3 id=&#34;conquête-invasionimagesinvasionpng&#34;&gt;Conquête &lt;img src=&#34;/Rising-Constellation-FAQ/images/invasion.PNG&#34; alt=&#34;Invasion&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Permet à un navarque de convertir un système ou un dominion contrôlé par l&amp;rsquo;ennemi en un système directement sous son contrôle. Compare la puissance totale d&amp;rsquo;invasion du navarque à la défense du système. Augmenté par la compétence Conquête, et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Invasion&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;le-temps-de-conquête-dépend-il-de-la-puissance-dinvasion-&#34;&gt;Le temps de conquête dépend-il de la puissance d&amp;rsquo;invasion ?&lt;/h4&gt;
+&lt;p&gt;oui, cela dépend légèrement de la défense et de la puissance d&amp;rsquo;invasion&lt;/p&gt;
+&lt;h4 id=&#34;de-quelle-puissance-dinvasion-ai-je-besoin-&#34;&gt;De quelle puissance d&amp;rsquo;invasion ai-je besoin ?&lt;/h4&gt;
+&lt;p&gt;La puissance d&amp;rsquo;invasion est comparée à la défense du système&lt;/p&gt;
+&lt;h3 id=&#34;réparation-repairimagesrepairpng&#34;&gt;Réparation &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Répare la flotte sous le contrôle du navarche. Augmenté par la compétence Leadership et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;combien-de-temps-prennent-les-réparations-&#34;&gt;Combien de temps prennent les réparations ?&lt;/h4&gt;
+&lt;p&gt;Les réparations ne sont effectuées que lorsqu&amp;rsquo;une flotte ne se déplace pas ou ne participe pas à une action offensive. Les navires sont réparés en commençant par le navire dont le pourcentage de santé est le plus bas. Le taux de réparation est le suivant :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Score de réparation * 0,5 HP par tic&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : Un navarque avec 2 rangs de réparation, et qui a un transporteur de drones x2 dans sa flotte aura 
+(2 rangs * 4) + (4 points de la flotte) = 12 points de réparation. Réparant 6 HP par tic. Donc, dans l&amp;rsquo;héritage avec des ticks de 3 minutes, vous pouvez l&amp;rsquo;estimer à 120 HP par heure.&lt;/p&gt;
+&lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
+&lt;h3 id=&#34;défenseur&#34;&gt;Défenseur&lt;/h3&gt;
+&lt;p&gt;Se joindra à des combats et engagera des ennemis pour empêcher le pillage/le bombardement/la colonisation. Mais il n&amp;rsquo;engagera pas de combat avec les ennemis du même système.&lt;/p&gt;
+&lt;h3 id=&#34;déserteur&#34;&gt;Déserteur&lt;/h3&gt;
+&lt;p&gt;Tente de fuir le combat dès que possible.&lt;/p&gt;
+&lt;h3 id=&#34;prudent&#34;&gt;Prudent&lt;/h3&gt;
+&lt;p&gt;Ne se battra que s&amp;rsquo;il est directement attaqué&lt;/p&gt;
+&lt;h3 id=&#34;agressif&#34;&gt;Agressif&lt;/h3&gt;
+&lt;p&gt;Engagera automatiquement tout ennemi dans le même système&lt;/p&gt;
+&lt;h3 id=&#34;furie&#34;&gt;Furie&lt;/h3&gt;
+&lt;p&gt;Engagera automatiquement tout ennemi dans le même système
+Dans une implémentation future, engagera également les flottes non alliées.&lt;/p&gt;
+&lt;h3 id=&#34;que-se-passe-t-il-si-vous-rappelez-un-navarque-avec-une-flotte-&#34;&gt;Que se passe-t-il si vous rappelez un Navarque avec une flotte ?&lt;/h3&gt;
+&lt;p&gt;Le rappeler détruira la flotte.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Siderian</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/siderian/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/siderian/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;propagande-propagandeimagespropagandapng&#34;&gt;Propagande &lt;img src=&#34;/Rising-Constellation-FAQ/images/propaganda.PNG&#34; alt=&#34;Propagande&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité est utilisée pour prendre le contrôle d&amp;rsquo;un système contrôlé par une IA. Elle prend la compétence de propagande de l&amp;rsquo;agent et la compare à la stabilité actuelle du système. La tentative prend beaucoup de temps (~8 heures dans l&amp;rsquo;héritage). L&amp;rsquo;agent doit ensuite se reposer avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+&lt;h4 id=&#34;comment-puis-je-men-défendre-autrement-que-par-une-stabilité-élevée-&#34;&gt;Comment puis-je m&amp;rsquo;en défendre autrement que par une stabilité élevée ?&lt;/h4&gt;
+&lt;p&gt;Si vous remarquez le Siderian dans votre dominion et suspectez une tentative de propagande, vous pouvez transformer votre dominion en système, annulant ainsi l&amp;rsquo;action de l&amp;rsquo;agent.&lt;/p&gt;
+&lt;h3 id=&#34;déstabiliser-destabilizeimagesdestabilizationpng&#34;&gt;Déstabiliser &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité réduit la stabilité du système actuel. Utile pour mettre en place une action de propagande plus tard, ou pour réduire l&amp;rsquo;efficacité du système actuel. Prend un temps modéré (~2,5 heures en héritage). Nécessite que l&amp;rsquo;agent se repose ensuite avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+&lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité ne peut être utilisée que dans le même système qu&amp;rsquo;un agent ennemi qui est visible. Cette capacité compare la compétence de séduction de l&amp;rsquo;agent sidéral avec la Détermination &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_determination.png&#34; alt=&#34;Détermination&#34;&gt; de l&amp;rsquo;agent cible. En cas de succès, l&amp;rsquo;agent se convertira à votre camp ! Instantané. TODO/vérifier : Nécessite que l&amp;rsquo;agent se repose ensuite avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Erased</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/erased/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/erased/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;infiltration-infiltrationimagesinfiltrationpng&#34;&gt;Infiltration &lt;img src=&#34;/Rising-Constellation-FAQ/images/infiltration.PNG&#34; alt=&#34;Infiltration&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;infiltration prend entre 2 et 3 heures et compare les compétences d&amp;rsquo;infiltration de l&amp;rsquo;agent effacé à celles du système. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; et, en cas de succès, installe un logiciel malveillant, ou deux avec un succès critique, dans le système, augmentant ainsi la visibilité du système et contribuant à la &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/victory/#path-of-shadows#&#34;&gt;Voie de l&amp;rsquo;ombre&lt;/a&gt; victoire&lt;/p&gt;
+&lt;h4 id=&#34;comment-supprimer-un-logiciel-malveillant-dans-un-système-&#34;&gt;Comment supprimer un logiciel malveillant dans un système ?&lt;/h4&gt;
+&lt;p&gt;En augmentant votre &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersécurité&lt;/a&gt; dans le système.&lt;/p&gt;
+&lt;h4 id=&#34;puis-je-avoir-plus-de-4-logiciels-malveillants-dans-un-système-&#34;&gt;Puis-je avoir plus de 4 logiciels malveillants dans un système ?&lt;/h4&gt;
+&lt;p&gt;Oui, cela ne donnera pas de points pour les chemins fantômes mais cela permettra de garder la visibilité des 5 plus longtemps si la cybersécurité entre en jeu.&lt;/p&gt;
+&lt;h4 id=&#34;puis-je-effectuer-une-infiltration-sans-aucun-point-de-compétence-sur-mon-effacement-&#34;&gt;Puis-je effectuer une infiltration sans aucun point de compétence sur mon effacement ?&lt;/h4&gt;
+&lt;p&gt;Oui, mais avec une probabilité de succès plus faible.&lt;/p&gt;
+&lt;h3 id=&#34;sabotage-sabotageimagessabotagepng&#34;&gt;Sabotage &lt;img src=&#34;/Rising-Constellation-FAQ/images/sabotage.PNG&#34; alt=&#34;Sabotage&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité permet aux agents effacés d&amp;rsquo;endommager les flottes. Elle compare la compétence de sabotage de l&amp;rsquo;agent effacé VS la compétence de protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; du navarque contrôlant la flotte cible. En cas de succès, il endommage les vaisseaux de la flotte de façon aléatoire. L&amp;rsquo;action est instantanée.&lt;/p&gt;
+&lt;h3 id=&#34;effacement-effacementimagesremovalpng&#34;&gt;Effacement &lt;img src=&#34;/Rising-Constellation-FAQ/images/removal.PNG&#34; alt=&#34;Effacement&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité permet à l&amp;rsquo;agent effacé d&amp;rsquo;assassiner un gouverneur ou un agent ennemi dans le même système. Elle compare la compétence d&amp;rsquo;élimination de l&amp;rsquo;agent effacé avec la compétence de protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; de l&amp;rsquo;agent ennemi. En cas de succès, il supprime l&amp;rsquo;agent. L&amp;rsquo;action est instantanée.&lt;/p&gt;
+&lt;p&gt;Note : Si vous supprimez un agent navarque avec une flotte, il sera remplacé par un navarque de niveau 1, et la flotte restera intacte.&lt;/p&gt;
+&lt;!-- 
+This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier **craft beer**. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&#39;t heard of them copper mug, crucifix green juice vape *single-origin coffee* brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!
+
+Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.
+
+On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
+
+Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;B. **I love this life we live in**.
+
+
+## Second Header 2
+
+&gt; This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Header 3
+
+```
+This is a code block following a header.
+```
+
+Next level leggings before they sold out, PBR&amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan. 
+
+#### Header 4
+
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+
+##### Header 5
+
+1. This is an ordered list following a header.
+2. This is an ordered list following a header.
+3. This is an ordered list following a header.
+
+###### Header 6
+
+| What      | Follows         |
+|-----------|-----------------|
+| A table   | A header        |
+| A table   | A header        |
+| A table   | A header        |
+
+----------------
+
+There&#39;s a horizontal rule above and below this.
+
+----------------
+
+Here is an unordered list:
+
+* Liverpool F.C.
+* Chelsea F.C.
+* Manchester United F.C.
+
+And an ordered list:
+
+1. Michael Brecker
+2. Seamus Blake
+3. Branford Marsalis
+
+And an unordered task list:
+
+- [x] Create a Hugo theme
+- [x] Add task lists to it
+- [ ] Take a vacation
+
+And a &#34;mixed&#34; task list:
+
+- [ ] Pack bags
+- ?
+- [ ] Travel!
+
+And a nested list:
+
+* Jackson 5
+  * Michael
+  * Tito
+  * Jackie
+  * Marlon
+  * Jermaine
+* TMNT
+  * Leonardo
+  * Michelangelo
+  * Donatello
+  * Raphael
+
+Definition lists can be used with Markdown syntax. Definition headers are bold.
+
+Name
+: Godzilla
+
+Born
+: 1952
+
+Birthplace
+: Japan
+
+Color
+: Green
+
+
+----------------
+
+Tables should have bold headings and alternating shaded rows.
+
+| Artist            | Album           | Year |
+|-------------------|-----------------|------|
+| Michael Jackson   | Thriller        | 1982 |
+| Prince            | Purple Rain     | 1984 |
+| Beastie Boys      | License to Ill  | 1986 |
+
+If a table is too wide, it should scroll horizontally.
+
+| Artist            | Album           | Year | Label       | Awards   | Songs     |
+|-------------------|-----------------|------|-------------|----------|-----------|
+| Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin&#39; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
+| Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let&#39;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&#39;m a Star, Purple Rain |
+| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin &amp; Stealin, The New Style, She&#39;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
+
+----------------
+
+Code snippets like `var foo = &#34;bar&#34;;` can be shown inline.
+
+Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
+
+Code can also be shown in a block element.
+
+```
+foo := &#34;bar&#34;;
+bar := &#34;foo&#34;;
+```
+
+Code can also use syntax highlighting.
+
+```go
+func main() {
+  input := `var foo = &#34;bar&#34;;`
+
+  lexer := lexers.Get(&#34;javascript&#34;)
+  iterator, _ := lexer.Tokenise(nil, input)
+  style := styles.Get(&#34;github&#34;)
+  formatter := html.New(html.WithLineNumbers())
+
+  var buff bytes.Buffer
+  formatter.Format(&amp;buff, style, iterator)
+
+  fmt.Println(buff.String())
+}
+```
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+Inline code inside table cells should still be distinguishable.
+
+| Language    | Code               |
+|-------------|--------------------|
+| Javascript  | `var foo = &#34;bar&#34;;` |
+| Ruby        | `foo = &#34;bar&#34;{`      |
+
+----------------
+
+Small images should be shown at their actual size.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+Large images should always scale down and fit in the content container.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+_The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA._
+
+
+## Components
+
+### Alerts
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+
+
+    This is an alert.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
+
+    This is an alert with a title.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
+
+    This is an alert with a title and &lt;strong&gt;Markdown&lt;/strong&gt;.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-success&#34; role=&#34;alert&#34;&gt;
+
+
+    This is a successful alert.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+
+
+    This is a warning.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Warning&lt;/h4&gt;
+
+    This is a warning with a title.
+
+&lt;/div&gt;
+
+
+
+## Another Heading
+
+Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### This Document
+
+Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam *eripitur*? Sitim noceat signa *probat quidem*. Sua longis *fugatis* quidem genae.
+
+
+### Pixel Count
+
+Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.
+
+### Contact Info
+
+Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.
+
+
+### External Links
+
+Stumptown PBR&amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.
+
+
+
+```
+This is the final element on the page and there should be no margin below this.
+``` --&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

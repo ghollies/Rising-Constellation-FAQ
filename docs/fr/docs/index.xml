@@ -1,0 +1,999 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial Rising Constellation FAQ FR – FAQ non officielle</title>
+    <link>/Rising-Constellation-FAQ/fr/docs/</link>
+    <description>Recent content in FAQ non officielle on Unofficial Rising Constellation FAQ FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/Rising-Constellation-FAQ/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Winning the Game</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/concepts/victory/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/concepts/victory/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;victoire&#34;&gt;Victoire&lt;/h3&gt;
+&lt;h4 id=&#34;comment-une-équipe-peut-elle-gagner-&#34;&gt;Comment une équipe peut-elle gagner ?&lt;/h4&gt;
+&lt;p&gt;Il existe 3 chemins vers la victoire. Chaque chemin donne 2/3/5 étoiles en fonction des objectifs atteints. Le but du jeu est d&amp;rsquo;atteindre en premier la barre des 12 étoiles en équipe.&lt;/p&gt;
+&lt;h4 id=&#34;chemin-de-la-conquête&#34;&gt;Chemin de la conquête&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées par une faction qui contrôle un secteur. Chaque secteur vaut un certain nombre de points de secteur, et il existe des seuils pour le nombre de points de secteur nécessaires pour chacun des niveaux d&amp;rsquo;étoiles. Vous pouvez passer la souris sur un secteur pour voir le nombre de points qu&amp;rsquo;il vaut (dans le losange du milieu).&lt;/p&gt;
+&lt;p&gt;Exemple de progression d&amp;rsquo;une partie héritée avec 2 factions : &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de secteur&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ces chiffres seront différents en fonction de la disposition de la carte et du nombre de factions impliquées.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;voie-dinfluence&#34;&gt;Voie d&amp;rsquo;influence&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées en ayant de grandes populations dans les systèmes stellaires. Chaque système vaut un certain nombre de points de star system qui dépend de la population du système.&lt;/p&gt;
+&lt;h5 id=&#34;points-de-système-stellaire-par-population&#34;&gt;Points de système stellaire par population&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Population - Points de système stellaire&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;40&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;60&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;70&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;80&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;90&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;120&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;180&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Exemple d&amp;rsquo;une partie Legacy avec 2 factions, et 49 joueurs sur l&amp;rsquo;une des factions :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de secteur&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2042&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;4083&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ces chiffres dépendront du nombre de joueurs de la faction.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;le-chemin-des-ombres&#34;&gt;Le chemin des ombres&lt;/h4&gt;
+&lt;p&gt;Les étoiles sont gagnées par les points de visibilité qui sont les 5 premiers points de visibilité sur les systèmes ennemis. Cela peut être fait par un agent Effacé en utilisant l&amp;rsquo;action &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/erased/#infiltration&#34;&gt;Infiltration&lt;/a&gt;. Il existe des seuils pour le nombre de points de visibilité nécessaires pour chacun des niveaux d&amp;rsquo;étoiles, et ils sont échelonnés en fonction du nombre de systèmes ennemis.
+Contrairement aux deux autres voies, cette valeur est cachée à l&amp;rsquo;ennemi.&lt;/p&gt;
+&lt;p&gt;Exemple d&amp;rsquo;une partie Legacy avec 2 factions au milieu de la partie :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Étoiles&lt;/th&gt;
+&lt;th&gt;Points de visibilité&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;415&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;669&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;752&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Combat de flotte</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/concepts/combat/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/concepts/combat/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;comment-samorce-le-combat&#34;&gt;Comment s&amp;rsquo;amorce le combat ?&lt;/h3&gt;
+&lt;p&gt;Lorsque deux agents &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/&#34;&gt;Navarch&lt;/a&gt; sont dans le même système, le combat peut commencer de l&amp;rsquo;une des trois manières suivantes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un joueur clique sur le Navarch ennemi tout en le sélectionnant et choisit de se battre.&lt;/li&gt;
+&lt;li&gt;Un Navarch réglé sur &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#stance&#34;&gt;Stance agressive ou furieuse&lt;/a&gt; attaquera immédiatement les flottes ennemies dans leur système. Si plus d&amp;rsquo;une flotte dans un système est définie sur agressive ** une seule se battra ** et les autres ne feront que regarder
+&lt;/br&gt;&lt;strong&gt;REMARQUE&lt;/strong&gt; : Il existe actuellement un bogue empêchant que cela se produise si la flotte entre dans le système, il ne se déclenchera que lorsqu&amp;rsquo;une autre flotte entrera dans le système.&lt;/li&gt;
+&lt;li&gt;Un Navarch défini sur &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#defender&#34;&gt;Position du défenseur&lt;/a&gt; commencera un combat si le système dans lequel il se trouve est attaqué (Pillage/Bombard/Colonisation). La position du défenseur permettra également au navarch de rejoindre un autre navarch de la même faction au combat contre l&amp;rsquo;ennemi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;comment-le-combat-est-il-résolu&#34;&gt;Comment le combat est-il résolu ?&lt;/h3&gt;
+&lt;p&gt;Le combat se déroule en rounds au cours de chaque round les phases suivantes ont lieu :&lt;/p&gt;
+&lt;h4 id=&#34;1-déploiement&#34;&gt;1. Déploiement&lt;/h4&gt;
+&lt;p&gt;L&amp;rsquo;escadron de la rangée correspondant au numéro du round est ajouté au champ de bataille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : Au premier tour de combat, l&amp;rsquo;escadron de la colonne L1 est déployé (dans ce cas, il s&amp;rsquo;agit de porte-drones).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Rising-Constellation-FAQ/images/fleet_example_1.PNG&#34; alt=&#34;Exemple de flotte 1&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;navarques-multiples-en-défense&#34;&gt;Navarques multiples en défense&lt;/h5&gt;
+&lt;p&gt;S&amp;rsquo;il y a plus d&amp;rsquo;une navarchie en défense dans le système, celles qui la soutiennent se joindront aux tours 3, 6 et 9&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : 3 navarques défendent un système (A,B,C), et un attaquant arrive (X). Par tour, ils rejoignent le combat :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A-L1 et X-L1&lt;/li&gt;
+&lt;li&gt;A-L2 et X-L2&lt;/li&gt;
+&lt;li&gt;A-L3 + B-L1 et X-L3&lt;/li&gt;
+&lt;li&gt;A-L4 + B-L2 et X-L4&lt;/li&gt;
+&lt;li&gt;A-L5 + B-L3 et X-L5&lt;/li&gt;
+&lt;li&gt;A-L6 + B-L4 et X-L6&lt;/li&gt;
+&lt;li&gt;B-L5&lt;/li&gt;
+&lt;li&gt;B-L6&lt;/li&gt;
+&lt;li&gt;C-L1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;2-lancer-le-dé-pour-linitiative&#34;&gt;2. Lancer le dé pour l&amp;rsquo;initiative&lt;/h4&gt;
+&lt;p&gt;Les navarques commandant les flottes comparent leurs niveaux et celui qui a le niveau le plus élevé gagnera plus souvent.&lt;/p&gt;
+&lt;h4 id=&#34;3-attaque&#34;&gt;3. Attaque&lt;/h4&gt;
+&lt;p&gt;Chaque escadron effectue à tour de rôle toutes ses attaques contre un escadron ennemi aléatoire sur le champ de bataille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : un escadron de 2 vaisseaux canonniers effectuera 2 attaques explosives, tandis qu&amp;rsquo;un escadron de 8 chasseurs légers effectuera 8 * (2 attaques énergétiques + 1 attaque explosive) pour un total de 24 attaques individuelles.&lt;/p&gt;
+&lt;p&gt;Tous les dégâts d&amp;rsquo;une attaque sont infligés à un vaisseau individuel, donc même si un Gunner attaque et touche un chasseur léger avec 25 points de vie, la plupart des 390 de son attaque sont gaspillés, car il ne retire qu&amp;rsquo;un seul vaisseau de l&amp;rsquo;escadron de chasseurs légers. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/&#34;&gt;Statistiques des navires&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;moral&#34;&gt;Moral&lt;/h3&gt;
+&lt;p&gt;Chaque navire a une base de moral, augmentée par le niveau du navire.
+Les vaisseaux commencent à 20 de moral, et chaque niveau suivant vous donne 0,5% de plus qui s&amp;rsquo;applique également à toutes les autres statistiques du vaisseau.
+Pendant un combat, si le moral d&amp;rsquo;un escadron atteint 0, il fuit le combat. 
+Le moral se réinitialise à la fin de chaque combat, de sorte que l&amp;rsquo;escadron retrouve toujours son plein moral avant le combat suivant.&lt;/p&gt;
+&lt;h4 id=&#34;quest-ce-qui-cause-la-perte-de-moral-&#34;&gt;Qu&amp;rsquo;est-ce qui cause la perte de moral ?&lt;/h4&gt;
+&lt;p&gt;Le moral est abaissé par les événements suivants&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sur l&amp;rsquo;escadron : lorsqu&amp;rsquo;un vaisseau de l&amp;rsquo;escadron est détruit&lt;/li&gt;
+&lt;li&gt;sur la flotte entière : lorsqu&amp;rsquo;un escadron de la flotte est détruit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;quest-ce-qui-fait-que-les-escadrons-ne-répondent-plus-aux-ordres-et-fuient-au-combat-&#34;&gt;Qu&amp;rsquo;est-ce qui fait que les escadrons ne répondent plus aux ordres et fuient au combat ?&lt;/h4&gt;
+&lt;p&gt;Manque de moral&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Composition de la flotte</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/strategies/fleets/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/strategies/fleets/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;quels-navires-contre-quoi&#34;&gt;Quels navires contre quoi?&lt;/h3&gt;
+&lt;p&gt;Il y a encore beaucoup de place pour développer de nouvelles stratégies et de nouveaux pions pour les flottes, mais certains éléments de base concernant les navires qui contrent d&amp;rsquo;autres navires peuvent être déduits de l&amp;rsquo;examen de leurs statistiques et de la façon dont les mécanismes de combat fonctionnent :&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/interceptor.svg&#34;/&gt;
+ &lt;strong&gt;Intercepteurs&lt;/strong&gt; :
+Avec leur nombre élevé de vaisseaux et leurs dégâts globaux modérés, ils constituent un bon contrepoids aux artilleurs, qui ne peuvent tirer qu&amp;rsquo;une fois par attaque.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/gunner.svg&#34;/&gt;
+ &lt;strong&gt;Les canonniers&lt;/strong&gt; :
+Avec leurs dégâts explosifs élevés, ils sont efficaces contre les cibles à bouclier élevé et à faible Flack, comme les porte-drones et les frégates d&amp;rsquo;assaut.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/ships/drone_carrier.svg&#34;/&gt;
+ &lt;strong&gt;Porteurs de drones&lt;/strong&gt; :
+Avec leurs HP élevés et leurs tirs multiples, ils sont bons pour éliminer les chasseurs de tous types.
+&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Les corvettes se situent quelque part au milieu, les corvettes 2x ou 4x auront du mal à contrer n&amp;rsquo;importe quelle classe de frégate, mais les types plus axés sur le combat (corvettes légères et multi-tourelles) s&amp;rsquo;en sortiront bien lorsqu&amp;rsquo;elles atteindront le niveau 8x, au moins jusqu&amp;rsquo;à ce que les frégates atteignent leur niveau 4x. Elles peuvent cependant constituer un moyen de contrer rapidement les flottes de chasseurs.&lt;/p&gt;
+&lt;p&gt;Lorsque vous cherchez à contrer une flotte ennemie spécifique, pensez à mettre en place un &lt;a href=&#34;https://rising-constellation.com/portal/fight-simulator&#34;&gt;combat simulé&lt;/a&gt; et à jouer avec la conception de votre flotte en termes d&amp;rsquo;ordre/de disposition et de composition.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Navarch</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/navarch/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/navarch/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;pillage-bombardementimagesbombingpng&#34;&gt;Pillage &lt;img src=&#34;/Rising-Constellation-FAQ/images/bombing.PNG&#34; alt=&#34;Bombardement&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Permet à un navarque de piller les ressources d&amp;rsquo;un système ou d&amp;rsquo;un dominion contrôlé par l&amp;rsquo;ennemi. Compare la puissance totale de bombardement du navarque à la défense du système. Augmentée par la compétence Conquête, et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Bombing&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;le-temps-de-pillage-dépend-il-de-la-puissance-de-bombardement-&#34;&gt;Le temps de pillage dépend-il de la puissance de bombardement ?&lt;/h4&gt;
+&lt;p&gt;Oui, cela dépend légèrement de la puissance de défense et de bombardement. Le temps de base pour un pillage est de 1h.&lt;/p&gt;
+&lt;h3 id=&#34;combien-vais-je-gagner-en-pillant-&#34;&gt;Combien vais-je gagner en pillant ?&lt;/h3&gt;
+&lt;p&gt;Un pillage donne 150 ticks de la production du système pour un niveau de succès normal, et 200 ticks pour un critique. Chaque pillage diminue le % de ressources pillées de 45% et se récupère au fil du temps de 0,25% par tic.&lt;/p&gt;
+&lt;h3 id=&#34;conquête-invasionimagesinvasionpng&#34;&gt;Conquête &lt;img src=&#34;/Rising-Constellation-FAQ/images/invasion.PNG&#34; alt=&#34;Invasion&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Permet à un navarque de convertir un système ou un dominion contrôlé par l&amp;rsquo;ennemi en un système directement sous son contrôle. Compare la puissance totale d&amp;rsquo;invasion du navarque à la défense du système. Augmenté par la compétence Conquête, et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Invasion&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;le-temps-de-conquête-dépend-il-de-la-puissance-dinvasion-&#34;&gt;Le temps de conquête dépend-il de la puissance d&amp;rsquo;invasion ?&lt;/h4&gt;
+&lt;p&gt;oui, cela dépend légèrement de la défense et de la puissance d&amp;rsquo;invasion&lt;/p&gt;
+&lt;h4 id=&#34;de-quelle-puissance-dinvasion-ai-je-besoin-&#34;&gt;De quelle puissance d&amp;rsquo;invasion ai-je besoin ?&lt;/h4&gt;
+&lt;p&gt;La puissance d&amp;rsquo;invasion est comparée à la défense du système&lt;/p&gt;
+&lt;h3 id=&#34;réparation-repairimagesrepairpng&#34;&gt;Réparation &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Répare la flotte sous le contrôle du navarche. Augmenté par la compétence Leadership et par la présence de certains types de vaisseaux dans la flotte. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;combien-de-temps-prennent-les-réparations-&#34;&gt;Combien de temps prennent les réparations ?&lt;/h4&gt;
+&lt;p&gt;Les réparations ne sont effectuées que lorsqu&amp;rsquo;une flotte ne se déplace pas ou ne participe pas à une action offensive. Les navires sont réparés en commençant par le navire dont le pourcentage de santé est le plus bas. Le taux de réparation est le suivant :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Score de réparation * 0,5 HP par tic&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemple&lt;/strong&gt; : Un navarque avec 2 rangs de réparation, et qui a un transporteur de drones x2 dans sa flotte aura 
+(2 rangs * 4) + (4 points de la flotte) = 12 points de réparation. Réparant 6 HP par tic. Donc, dans l&amp;rsquo;héritage avec des ticks de 3 minutes, vous pouvez l&amp;rsquo;estimer à 120 HP par heure.&lt;/p&gt;
+&lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
+&lt;h3 id=&#34;défenseur&#34;&gt;Défenseur&lt;/h3&gt;
+&lt;p&gt;Se joindra à des combats et engagera des ennemis pour empêcher le pillage/le bombardement/la colonisation. Mais il n&amp;rsquo;engagera pas de combat avec les ennemis du même système.&lt;/p&gt;
+&lt;h3 id=&#34;déserteur&#34;&gt;Déserteur&lt;/h3&gt;
+&lt;p&gt;Tente de fuir le combat dès que possible.&lt;/p&gt;
+&lt;h3 id=&#34;prudent&#34;&gt;Prudent&lt;/h3&gt;
+&lt;p&gt;Ne se battra que s&amp;rsquo;il est directement attaqué&lt;/p&gt;
+&lt;h3 id=&#34;agressif&#34;&gt;Agressif&lt;/h3&gt;
+&lt;p&gt;Engagera automatiquement tout ennemi dans le même système&lt;/p&gt;
+&lt;h3 id=&#34;furie&#34;&gt;Furie&lt;/h3&gt;
+&lt;p&gt;Engagera automatiquement tout ennemi dans le même système
+Dans une implémentation future, engagera également les flottes non alliées.&lt;/p&gt;
+&lt;h3 id=&#34;que-se-passe-t-il-si-vous-rappelez-un-navarque-avec-une-flotte-&#34;&gt;Que se passe-t-il si vous rappelez un Navarque avec une flotte ?&lt;/h3&gt;
+&lt;p&gt;Le rappeler détruira la flotte.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Ouvreurs hérités</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/strategies/legacy-start/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/strategies/legacy-start/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;legacy&#34;&gt;Legacy&lt;/h3&gt;
+&lt;p&gt;Il existe de nombreuses stratégies possibles, surtout lorsqu&amp;rsquo;il s&amp;rsquo;agit de se coordonner avec d&amp;rsquo;autres membres de votre faction.&lt;/p&gt;
+&lt;p&gt;La stratégie ci-dessous est une recommandation solide qui peut être modifiée, mais qui devrait vous donner une idée générale du point de départ.
+Crédit : &lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ouverture&#34;&gt;Ouverture&lt;/h4&gt;
+&lt;p&gt;Dans la plupart des cas, vous souhaitez coloniser 3 systèmes dès que possible.&lt;/p&gt;
+&lt;p&gt;Au début, construisez &lt;em&gt;Delta Polytech&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/university.svg&#34;/&gt;
+ sur votre première planète, achetez la technologie pour &lt;em&gt;Citadel&lt;/em&gt;&lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/ideo.svg&#34;/&gt;
+ et construisez la &lt;em&gt;Citadel&lt;/em&gt; sur la planète également.&lt;/p&gt;
+&lt;p&gt;Achetez la première technologie en habitable, stérile, et astéroïde. Construisez &lt;em&gt;Megapolis&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ sur l&amp;rsquo;autre habitable et &lt;em&gt;Central Hub&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/main_building.svg&#34;/&gt;
+ sur le stérile.&lt;/p&gt;
+&lt;p&gt;Construisez &lt;em&gt;Delta Polytech&lt;/em&gt; et &lt;em&gt;Citadel&lt;/em&gt; sur la seconde habitable, et construisez 3 &lt;em&gt;Districts résidentiels&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/house.svg&#34;/&gt;
+ sur la première habitable pour une croissance plus rapide de la population.&lt;/p&gt;
+&lt;p&gt;Construisez le &lt;em&gt;Centre de recherche sur l&amp;rsquo;impact&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ sur la planète stérile, et construisez un &lt;em&gt;Conduit de raffinage&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/factory.svg&#34;/&gt;
+ sur chacun des 5 astéroïdes à potentiel industriel.&lt;/p&gt;
+&lt;p&gt;Attendez le brevet &lt;em&gt;Exobiologie&lt;/em&gt;, et construisez des &lt;em&gt;Stations d&amp;rsquo;expérimentation&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/microscope.svg&#34;/&gt;
+ sur chaque astéroïde sauf le 1 potentiel. Acheter le brevet pour l&amp;rsquo;astéroïde niveau 2, et améliorer les bâtiments de l&amp;rsquo;astéroïde.&lt;/p&gt;
+&lt;p&gt;Attendre la technologie du vaisseau de colonie. Acheter un navarch et un vaisseau de colonie. Recherchez des systèmes avec de nombreux emplacements habitables et un bon potentiel d&amp;rsquo;attrait, car le deuxième système doit se concentrer sur le crédit.&lt;/p&gt;
+&lt;p&gt;Recherchez le brevet &lt;em&gt;Terminal de publicité&lt;/em&gt; et remplacez les maisons de la planète d&amp;rsquo;origine par des &lt;em&gt;Archipels&lt;/em&gt; &lt;img style=&#34;background:black&#34; src=&#34;/Rising-Constellation-FAQ/images/svg/buildings/double_house.svg&#34;/&gt;
+. . Recherchez le niveau d&amp;rsquo;habitabilité 2. Lorsque la colonisation est terminée, développez la deuxième colonie et rappelez le navarque.&lt;/p&gt;
+&lt;p&gt;Déployez le navarque dans le système d&amp;rsquo;origine une fois le cooldown terminé, et construisez le vaisseau de la colonie suivante. Vous devriez obtenir suffisamment d&amp;rsquo;idéologie pour le troisième système lorsque le deuxième vaisseau de colonie sera terminé et se déplacera vers sa destination.&lt;/p&gt;
+&lt;p&gt;Pour Lex, précipitez &lt;em&gt;Mass Media&lt;/em&gt; et ignorez tout le reste. Achetez des slots Lex pour vous assurer que toutes les lex sont appliquées. Après &lt;em&gt;Mass Media&lt;/em&gt;, achète &lt;em&gt;Propaganda&lt;/em&gt; pour maintenir la croissance de la population. Après cela, économise pour &lt;em&gt;Proto Empire&lt;/em&gt; et après cela &lt;em&gt;Administration étendue&lt;/em&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Stats</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/ships/stats/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/ships/stats/</guid>
+      <description>
+        
+        
+        &lt;!-- (&#34;.*\d+)\|(\d+.*&#34;) 
+$1\|$2
+--&gt;
+&lt;h3 id=&#34;que-signifient-les-statistiques-&#34;&gt;Que signifient les statistiques ?&lt;/h3&gt;
+&lt;h4 id=&#34;bouclier&#34;&gt;Bouclier&lt;/h4&gt;
+&lt;p&gt;Absorbe un pourcentage des attaques énergétiques entrantes.&lt;/p&gt;
+&lt;h4 id=&#34;flack&#34;&gt;Flack&lt;/h4&gt;
+&lt;p&gt;Chance d&amp;rsquo;éviter complètement l&amp;rsquo;attaque explosive entrante&lt;/p&gt;
+&lt;h3 id=&#34;quelles-sont-les-statistiques-de-base-de-tous-les-vaisseaux-&#34;&gt;Quelles sont les statistiques de base de tous les vaisseaux ?&lt;/h3&gt;
+&lt;p&gt;|Nom|Classe|Coût du crédit|Coût de la technologie|Production|Entretien|Coquille|Manoeuvrabilité|Bouclier|Flack|Attaque énergétique|Attaque explosive|Réparation|Invasion|Bombardement|
+|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;|- &amp;ndash;|&amp;mdash;|&amp;mdash;|
+|2 Scouts|combattant|900|0|120|1|12|90|0|0|[4]|[]|0|0|0|
+|4 Scouts|combattant|1800|0|232|2|12|90|0|0|[4]|[]|0|0|0|
+|8 Scouts|combattant|2900|0|472|4|12|90|0|0|[4]|[]|0|0|0|
+|16 Scouts|combattant|5800|0|944|8|12|90|0|0|[4]|[]|0|0|0|
+|2 chasseurs légers|combattant|1400|0|352|8|25|65|10|0|[9|9]|[3]|0|0|0|
+|4 chasseurs légers|combattant|2700|25|704|16|25|65|10|0|[9|9]|[3]|0|0|0|
+|8 chasseurs légers|combattant|4300|50|1408|32|25|65|10|0|[9|9]|[3]|0|0|0|
+|16 chasseurs légers|combattant|8600|100|2824|64|25|65|10|0|[9|9]|[3]|0|0|0|
+|2 chasseurs-bombardiers|combattant|1400|0|352|10|20|60|0|0|[]|[10]|0|0|1|
+|4 chasseurs-bombardiers|combattant|2700|25|704|20|20|60|0|0|[]|[10]|0|0|1|
+|8 chasseurs-bombardiers|chasseur|4300|50|1408|40|20|60|0|0|[]|[10]|0|0|1|
+|16 chasseurs-bombardiers|combattant|8600|100|2824|80|20|60|0|0|[]|[10]|0|0|1|
+|2 Intercepteurs|combattant|1400|0|352|8|25|75|0|0|[6|6|6|6]|[]|0|0|0|
+|4 Intercepteurs|combattant|2700|25|704|16|25|75|0|0|[6|6|6|6]|[]|0|0|0|
+|8 Intercepteurs|combattant|4300|50|1408|32|25|75|0|0|[6|6|6|6]|[]|0|0|0|
+|16 Intercepteurs|combattant|8600|100|2824|64|25|75|0|0|[6|6|6|6]|[]|0|0|0|
+|2 Corvettes légères|corvette|4300|80|1176|14|75|40|30|0|[19|19]|[12]|0|0|2|
+|4 Corvettes légères|corvette|8600|160|2352|28|75|40|30|0|[19|19]|[12]|0|0|2|
+|8 Corvettes légères|corvette|17300|320|4704|56|75|40|30|0|[19|19]|[12]|0|0|2|
+|2 corvettes lourdes|corvette|4300|100|1176|15|110|30|20|15|[]|[18]|0|0|3|
+|4 corvettes lourdes|corvette|8600|200|2352|30|110|30|20|15|[]|[18]|0|0|3|
+|8 corvettes lourdes|corvette|17300|400|4704|60|110|30|20|15|[]|[18]|0|0|3|
+|2 Corvettes multi-tourelles|corvette|8600|875|1426|30|335|20|10|7|[11|11|11|11|11|11]|[]|0|0 |0|
+|4 Corvettes multi-tourelles|corvette|17300|1750|2852|60|335|20|10|7|[11|11|11|11|11|11]|[]|0|0 |0|
+|8 Corvettes multi-tourelles|corvette|34600|3500|5704|120|335|20|10|7|[11|11|11|11|11|11]|[]|0|0 |0|
+|Navire de colonisation|transport|80000|3000|32000|100|400|0|10|10|[]|[]|0|0|0|
+|Transporteur|transport|18000|3000|6720|300|800|30|50|5|[3|3]|[]|5|25|0|
+|2 frégates d&amp;rsquo;assaut|frégate|9200|200|3920|40|200|20|60|10|[26|26]|[77]|0|2|0|
+|4 frégates d&amp;rsquo;assaut|frégate|22000|400|7840|80|200|20|60|10|[26|26]|[77]|0|2|0|
+|2 artilleurs|frégate|21600|3000|3920|60|320|10|40|25|[]|[390]|0||8|
+|4 artilleurs|frégate|43200|6000|7840|120|320|10|40|25|[]|[390]|0||8|
+|2 transporteurs de drones|frégate|21600|2500|5880|100|950|20|65|30|[8|8|8|8|8|8|8|8|8\ |8]|[]|2|0|2|
+|4 transporteurs de drones|frégate|43200|5000|11760|200|950|20|65|30|[8|8|8|8|8|8|8|8|8\ |8]|[]|2|0|2|
+|2 plates-formes de réparation|frégate|21600|2000|7840|100|1400|15|70|40|[]|[16]|30|1|0|
+|4 plates-formes de réparation|frégate|43200|4000|15680|200|1400|15|70|40|[]|[16]|30|1|0|
+|Destructeur|capital|103200|6000|16240|400|4000|0|65|40|[60|60|60|60]|[45|45|45|100]|15|10 |5|
+|Croisière|capital|128000|8000|19880|500|5000|0|50|70|[70|70]|[330]|15|15|40|
+|Coordinateur|capital|166800|10000|17456|600|6000|0|85|75|[]|[20|20|20]|40|30|0|&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Siderian</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/siderian/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/siderian/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;propagande-propagandeimagespropagandapng&#34;&gt;Propagande &lt;img src=&#34;/Rising-Constellation-FAQ/images/propaganda.PNG&#34; alt=&#34;Propagande&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité est utilisée pour prendre le contrôle d&amp;rsquo;un système contrôlé par une IA. Elle prend la compétence de propagande de l&amp;rsquo;agent et la compare à la stabilité actuelle du système. La tentative prend beaucoup de temps (~8 heures dans l&amp;rsquo;héritage). L&amp;rsquo;agent doit ensuite se reposer avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+&lt;h4 id=&#34;comment-puis-je-men-défendre-autrement-que-par-une-stabilité-élevée-&#34;&gt;Comment puis-je m&amp;rsquo;en défendre autrement que par une stabilité élevée ?&lt;/h4&gt;
+&lt;p&gt;Si vous remarquez le Siderian dans votre dominion et suspectez une tentative de propagande, vous pouvez transformer votre dominion en système, annulant ainsi l&amp;rsquo;action de l&amp;rsquo;agent.&lt;/p&gt;
+&lt;h3 id=&#34;déstabiliser-destabilizeimagesdestabilizationpng&#34;&gt;Déstabiliser &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité réduit la stabilité du système actuel. Utile pour mettre en place une action de propagande plus tard, ou pour réduire l&amp;rsquo;efficacité du système actuel. Prend un temps modéré (~2,5 heures en héritage). Nécessite que l&amp;rsquo;agent se repose ensuite avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+&lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité ne peut être utilisée que dans le même système qu&amp;rsquo;un agent ennemi qui est visible. Cette capacité compare la compétence de séduction de l&amp;rsquo;agent sidéral avec la Détermination &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_determination.png&#34; alt=&#34;Détermination&#34;&gt; de l&amp;rsquo;agent cible. En cas de succès, l&amp;rsquo;agent se convertira à votre camp ! Instantané. TODO/vérifier : Nécessite que l&amp;rsquo;agent se repose ensuite avant de pouvoir utiliser d&amp;rsquo;autres capacités.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Erased</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/agents/erased/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/agents/erased/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;capacités&#34;&gt;Capacités&lt;/h2&gt;
+&lt;h3 id=&#34;infiltration-infiltrationimagesinfiltrationpng&#34;&gt;Infiltration &lt;img src=&#34;/Rising-Constellation-FAQ/images/infiltration.PNG&#34; alt=&#34;Infiltration&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;infiltration prend entre 2 et 3 heures et compare les compétences d&amp;rsquo;infiltration de l&amp;rsquo;agent effacé à celles du système. &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/_index.md#intelligence&#34;&gt;intelligence&lt;/a&gt; et, en cas de succès, installe un logiciel malveillant, ou deux avec un succès critique, dans le système, augmentant ainsi la visibilité du système et contribuant à la &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/victory/#path-of-shadows#&#34;&gt;Voie de l&amp;rsquo;ombre&lt;/a&gt; victoire&lt;/p&gt;
+&lt;h4 id=&#34;comment-supprimer-un-logiciel-malveillant-dans-un-système-&#34;&gt;Comment supprimer un logiciel malveillant dans un système ?&lt;/h4&gt;
+&lt;p&gt;En augmentant votre &lt;a href=&#34;/Rising-Constellation-FAQ/docs/concepts/#what-exactly-does-cybersecurity-do-cybersecurityimagescybersecuritypng&#34;&gt;cybersécurité&lt;/a&gt; dans le système.&lt;/p&gt;
+&lt;h4 id=&#34;puis-je-avoir-plus-de-4-logiciels-malveillants-dans-un-système-&#34;&gt;Puis-je avoir plus de 4 logiciels malveillants dans un système ?&lt;/h4&gt;
+&lt;p&gt;Oui, cela ne donnera pas de points pour les chemins fantômes mais cela permettra de garder la visibilité des 5 plus longtemps si la cybersécurité entre en jeu.&lt;/p&gt;
+&lt;h4 id=&#34;puis-je-effectuer-une-infiltration-sans-aucun-point-de-compétence-sur-mon-effacement-&#34;&gt;Puis-je effectuer une infiltration sans aucun point de compétence sur mon effacement ?&lt;/h4&gt;
+&lt;p&gt;Oui, mais avec une probabilité de succès plus faible.&lt;/p&gt;
+&lt;h3 id=&#34;sabotage-sabotageimagessabotagepng&#34;&gt;Sabotage &lt;img src=&#34;/Rising-Constellation-FAQ/images/sabotage.PNG&#34; alt=&#34;Sabotage&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité permet aux agents effacés d&amp;rsquo;endommager les flottes. Elle compare la compétence de sabotage de l&amp;rsquo;agent effacé VS la compétence de protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; du navarque contrôlant la flotte cible. En cas de succès, il endommage les vaisseaux de la flotte de façon aléatoire. L&amp;rsquo;action est instantanée.&lt;/p&gt;
+&lt;h3 id=&#34;effacement-effacementimagesremovalpng&#34;&gt;Effacement &lt;img src=&#34;/Rising-Constellation-FAQ/images/removal.PNG&#34; alt=&#34;Effacement&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;Cette capacité permet à l&amp;rsquo;agent effacé d&amp;rsquo;assassiner un gouverneur ou un agent ennemi dans le même système. Elle compare la compétence d&amp;rsquo;élimination de l&amp;rsquo;agent effacé avec la compétence de protection &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_protection.png&#34; alt=&#34;protection&#34;&gt; de l&amp;rsquo;agent ennemi. En cas de succès, il supprime l&amp;rsquo;agent. L&amp;rsquo;action est instantanée.&lt;/p&gt;
+&lt;p&gt;Note : Si vous supprimez un agent navarque avec une flotte, il sera remplacé par un navarque de niveau 1, et la flotte restera intacte.&lt;/p&gt;
+&lt;!-- 
+This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier **craft beer**. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&#39;t heard of them copper mug, crucifix green juice vape *single-origin coffee* brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!
+
+Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.
+
+On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
+
+Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;B. **I love this life we live in**.
+
+
+## Second Header 2
+
+&gt; This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Header 3
+
+```
+This is a code block following a header.
+```
+
+Next level leggings before they sold out, PBR&amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan. 
+
+#### Header 4
+
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+
+##### Header 5
+
+1. This is an ordered list following a header.
+2. This is an ordered list following a header.
+3. This is an ordered list following a header.
+
+###### Header 6
+
+| What      | Follows         |
+|-----------|-----------------|
+| A table   | A header        |
+| A table   | A header        |
+| A table   | A header        |
+
+----------------
+
+There&#39;s a horizontal rule above and below this.
+
+----------------
+
+Here is an unordered list:
+
+* Liverpool F.C.
+* Chelsea F.C.
+* Manchester United F.C.
+
+And an ordered list:
+
+1. Michael Brecker
+2. Seamus Blake
+3. Branford Marsalis
+
+And an unordered task list:
+
+- [x] Create a Hugo theme
+- [x] Add task lists to it
+- [ ] Take a vacation
+
+And a &#34;mixed&#34; task list:
+
+- [ ] Pack bags
+- ?
+- [ ] Travel!
+
+And a nested list:
+
+* Jackson 5
+  * Michael
+  * Tito
+  * Jackie
+  * Marlon
+  * Jermaine
+* TMNT
+  * Leonardo
+  * Michelangelo
+  * Donatello
+  * Raphael
+
+Definition lists can be used with Markdown syntax. Definition headers are bold.
+
+Name
+: Godzilla
+
+Born
+: 1952
+
+Birthplace
+: Japan
+
+Color
+: Green
+
+
+----------------
+
+Tables should have bold headings and alternating shaded rows.
+
+| Artist            | Album           | Year |
+|-------------------|-----------------|------|
+| Michael Jackson   | Thriller        | 1982 |
+| Prince            | Purple Rain     | 1984 |
+| Beastie Boys      | License to Ill  | 1986 |
+
+If a table is too wide, it should scroll horizontally.
+
+| Artist            | Album           | Year | Label       | Awards   | Songs     |
+|-------------------|-----------------|------|-------------|----------|-----------|
+| Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin&#39; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
+| Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let&#39;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&#39;m a Star, Purple Rain |
+| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin &amp; Stealin, The New Style, She&#39;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
+
+----------------
+
+Code snippets like `var foo = &#34;bar&#34;;` can be shown inline.
+
+Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
+
+Code can also be shown in a block element.
+
+```
+foo := &#34;bar&#34;;
+bar := &#34;foo&#34;;
+```
+
+Code can also use syntax highlighting.
+
+```go
+func main() {
+  input := `var foo = &#34;bar&#34;;`
+
+  lexer := lexers.Get(&#34;javascript&#34;)
+  iterator, _ := lexer.Tokenise(nil, input)
+  style := styles.Get(&#34;github&#34;)
+  formatter := html.New(html.WithLineNumbers())
+
+  var buff bytes.Buffer
+  formatter.Format(&amp;buff, style, iterator)
+
+  fmt.Println(buff.String())
+}
+```
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+Inline code inside table cells should still be distinguishable.
+
+| Language    | Code               |
+|-------------|--------------------|
+| Javascript  | `var foo = &#34;bar&#34;;` |
+| Ruby        | `foo = &#34;bar&#34;{`      |
+
+----------------
+
+Small images should be shown at their actual size.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+Large images should always scale down and fit in the content container.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+_The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA._
+
+
+## Components
+
+### Alerts
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+
+
+    This is an alert.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
+
+    This is an alert with a title.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
+
+    This is an alert with a title and &lt;strong&gt;Markdown&lt;/strong&gt;.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-success&#34; role=&#34;alert&#34;&gt;
+
+
+    This is a successful alert.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+
+
+    This is a warning.
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Warning&lt;/h4&gt;
+
+    This is a warning with a title.
+
+&lt;/div&gt;
+
+
+
+## Another Heading
+
+Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### This Document
+
+Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam *eripitur*? Sitim noceat signa *probat quidem*. Sua longis *fugatis* quidem genae.
+
+
+### Pixel Count
+
+Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.
+
+### Contact Info
+
+Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.
+
+
+### External Links
+
+Stumptown PBR&amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.
+
+
+
+```
+This is the final element on the page and there should be no margin below this.
+``` --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Bâtiments</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/systems/buildings/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/systems/buildings/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;monolith---sadapte-t-il-à-la-population-de-la-planète-ou-du-système&#34;&gt;Monolith - S&amp;rsquo;adapte-t-il à la population de la planète ou du système ?&lt;/h3&gt;
+&lt;p&gt;Il utilise l&amp;rsquo;ensemble de la population du système, vous pouvez le constater par l&amp;rsquo;icône qu&amp;rsquo;il utilise : &lt;img src=&#34;/Rising-Constellation-FAQ/images/system_population.png&#34; alt=&#34;Population du système&#34;&gt; plutôt que &lt;img src=&#34;/Rising-Constellation-FAQ/images/planet_population.PNG&#34; alt=&#34;Population de la planète&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;coûts-des-bâtiments&#34;&gt;Coûts des bâtiments&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Nom&lt;/th&gt;
+&lt;th&gt;Emplacement du bâtiment&lt;/th&gt;
+&lt;th&gt;Coût de production par niveau &lt;br/&gt; Coût de crédit par niveau&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Essaim de machines autoforeuses&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;300/1250/7500/15000/25000&lt;br/&gt;3900/8320/13520/19500/26000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Conduits de raffinage&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;120/2000/20000/44000/80000&lt;br/&gt;2000/6400/10400/15000/20000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Station d&amp;rsquo;expérimentation&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;150/1000/10000/22000/40000&lt;br/&gt;6000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arche commerciale&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;2500/10000/60000/120000/200000&lt;br/&gt;40000/40000/64000/104000/160000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Terminus orbital&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;1600/6000/36000/72000/120000&lt;br/&gt;20000/32000/52000/75000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Constellation de leurres&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;100/250/1500/3000/5000&lt;br/&gt;3750/8000/13000/18750/25000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zero-G-Arena&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;800/3200/9600/25600/64000&lt;br/&gt;9900/21120/34320/49500/66000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;O.P.U.&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;200/1500/15000/33000/60000&lt;br/&gt;3300/7040/11440/16500/22000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ligne d&amp;rsquo;assemblage S-01&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;400/1600/4800/12800/32000&lt;br/&gt;10500/17500/28000/45500/70000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ligne d&amp;rsquo;assemblage S-02&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;800/3200/9600/25600/64000&lt;br/&gt;15000/25000/40000/65000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Space Dock&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;1500/6000/18000/48000/120000&lt;br/&gt;40000/62500/100000/16250/250000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Superstructure d&amp;rsquo;assemblage&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;3000/12000/36000/96000/240000&lt;br/&gt;100000/107500/172000/279500/430000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;S.L.S.D. Réseau&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;360/1500/4500/12000/30000&lt;br/&gt;4950/10560/17160/24750/33000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mégapole&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;120/1000/6000/12000/20000&lt;br/&gt;8400/17920/29120/42000/56000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quartier Résidentiel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;30/250/1500/3000/5000&lt;br/&gt;1950/4160/6760/9750/13000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Villes-ruches&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;300/1250/7500/15000/25000&lt;br/&gt;4500/9600/15600/22500/30000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Archipel résidentiel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;450/3750/22500/45000/75000&lt;br/&gt;7500/16000/26000/37500/50000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pôle industriel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;500/2750/27500/60500/110000&lt;br/&gt;6000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lien Orbital&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;4000/8000/48000/96000/160000&lt;br/&gt;70000/112000/182000/262500/350000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Delta Polytech&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;70/375/3750/8250/15000&lt;br/&gt;1500/3200/5200/7500/10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Accélérateur&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;15000/43750/87500/175000/350000&lt;br/&gt;72000/90000/144000/234000/360000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Citadelle&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;120/500/5000/11000/20000&lt;br/&gt;1500/3200/5200/7500/10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jardins flottants&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;1200/4850/14550/38800/97000&lt;br/&gt;15000/32000/52000/75000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Réseau d&amp;rsquo;Îles Artificielles&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;2200/9000/27000/72000/180000&lt;br/&gt;50000/62500/100000/16250/250000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Artère commerciale&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;200/1500/15000/33000/60000&lt;br/&gt;4000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reflect District&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;20000/58125/116250/232500/465000&lt;br/&gt;140000/97500/156000/253500/390000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bouclier planétaire&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;1000/4000/12000/32000/80000&lt;br/&gt;11250/24000/39000/56250/75000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Échosystème préservé&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;12000/35000/70000/140000/280000&lt;br/&gt;64000/87000/130500/188500/290000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Orb-Intel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;7500/18750/37500/75000/150000&lt;br/&gt;18750/40000/65000/93750/125000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Centre des congrès&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;10000/2250/22500/49500/90000&lt;br/&gt;4800/10240/16640/24000/32000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Centre central&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;130/1100/6600/13200/22000&lt;br/&gt;9000/19200/31200/45000/60000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gamme d&amp;rsquo;excavatrices&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;200/1000/6000/12000/20000&lt;br/&gt;1950/4160/6760/9750/13000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capsule Cities&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;200/1000/6000/12000/20000&lt;br/&gt;3450/7360/11960/17250/23000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Usine de métamatériaux&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;30000/60000/120000/240000/480000&lt;br/&gt;180000/150000/240000/390000/600000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ascenseur spatial&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;1500/6000/18000/48000/120000&lt;br/&gt;22500/48000/78000/112500/150000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Station de recherche d&amp;rsquo;impact&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;250/1750/17500/38500/70000&lt;br/&gt;3750/8000/13000/18750/25000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Holodome&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;2000/8100/24300/64800/162000&lt;br/&gt;3000/6400/10400/15000/20000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monolithe&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;20000/58750/117500/235000/470000&lt;br/&gt;160000/105000/168000/273000/42000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Omnimarché&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;150/1125/11250/24750/45000&lt;br/&gt;8000/16000/26000/37500/50000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sport spatial industriel&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;1400/5500/16500/44000/110000&lt;br/&gt;9000/19200/31200/45000/60000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C.N.D.&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;5000/15000/30000/60000/120000&lt;br/&gt;19500/41600/67600/97500/130000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tunnels d&amp;rsquo;interception&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;800/3100/9300/24800/62000&lt;br/&gt;9750/20800/33800/48750/65000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Circuit Hyperdrive&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;600/2400/7200/19200/48000&lt;br/&gt;20250/43200/70200/101250/135000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Académie militaire aérospatiale&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;6000/17500/35000/70000/140000&lt;br/&gt;19500/41600/67600/97500/130000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Systèmes proxy intégrés&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;250/1875/18750/41250/75000&lt;br/&gt;4050/8640/14040/20250/27000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dominions et systèmes autonomes</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/systems/dominions/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/systems/dominions/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;général&#34;&gt;Général&lt;/h2&gt;
+&lt;h3 id=&#34;les-systèmes-contrôlés-par-lia-construisent-ils-leurs-propres-bâtiments&#34;&gt;Les systèmes contrôlés par l&amp;rsquo;IA construisent-ils leurs propres bâtiments ?&lt;/h3&gt;
+&lt;p&gt;Ils construisent automatiquement des bâtiments au fil du temps, de manière très inefficace. Ils arrêtent de construire et de mettre à niveau lorsque tous leurs emplacements de construction sont pleins.&lt;/p&gt;
+&lt;h3 id=&#34;répareront-ils-les-bâtiments-détruits-&#34;&gt;Répareront-ils les bâtiments détruits ?&lt;/h3&gt;
+&lt;p&gt;Ils donneront la priorité à la réparation des bâtiments avant d&amp;rsquo;en construire de nouveaux et continueront à réparer même si tous leurs emplacements de construction sont pleins&lt;/p&gt;
+&lt;h3 id=&#34;comment-puis-je-prendre-le-contrôle-dun-dominion-ou-dun-système-autonome&#34;&gt;Comment puis-je prendre le contrôle d&amp;rsquo;un Dominion ou d&amp;rsquo;un système autonome ?&lt;/h3&gt;
+&lt;p&gt;Les gens peuvent les retourner dans leur faction de 2 manières :
+utiliser les Siderians pour les déstabiliser puis les faire de la propagande pour les transformer en dominions
+&lt;em&gt;OU&lt;/em&gt;
+Utilisez un navarque avec une flotte pour le conquérir en tant que système.
+Les deux nécessiteront un emplacement libre (soit en tant que dominion, soit en tant qu&amp;rsquo;emplacement système)&lt;/p&gt;
+&lt;h3 id=&#34;où-dois-je-prendre-un-dominion-&#34;&gt;Où dois-je prendre un Dominion ?&lt;/h3&gt;
+&lt;p&gt;Partout où votre faction pourrait utiliser un système supplémentaire contrôlé, ou un système qui, selon vous, serait utile du point de vue de la génération de ressources ou de la population. Libérer des systèmes dans les Dominions est un bon moyen de s&amp;rsquo;assurer qu&amp;rsquo;ils ont de bons revenus et une bonne population, libérant un emplacement système pour un emplacement potentiellement plus avancé.&lt;/p&gt;
+&lt;h3 id=&#34;puis-je-utiliser-un-vaisseau-de-colonie-pour-prendre-le-contrôle-dun-système-autonome-&#34;&gt;Puis-je utiliser un vaisseau de colonie pour prendre le contrôle d&amp;rsquo;un système autonome ?&lt;/h3&gt;
+&lt;p&gt;Non, seulement conquête ou propagande&lt;/p&gt;
+&lt;h3 id=&#34;dans-quels-secteurs-puis-je-prendre-le-contrôle-dun-système-contrôlé-par-lia&#34;&gt;Dans quels secteurs puis-je prendre le contrôle d&amp;rsquo;un système contrôlé par l&amp;rsquo;IA ?&lt;/h3&gt;
+&lt;p&gt;Vous ne pouvez prendre le contrôle de systèmes que dans des secteurs adjacents à celui que votre faction possède déjà, ou dans un secteur que votre faction possède.&lt;/p&gt;
+&lt;h3 id=&#34;systèmes-autonomes&#34;&gt;Systèmes autonomes&lt;/h3&gt;
+&lt;h4 id=&#34;sont-ils-cultivables&#34;&gt;Sont-ils cultivables ?&lt;/h4&gt;
+&lt;p&gt;oui, les piller est un bon moyen à la fois d&amp;rsquo;augmenter le niveau de vos agents et de gagner des ressources, réparer les bâtiments n&amp;rsquo;est pas trop difficile si quelqu&amp;rsquo;un s&amp;rsquo;en charge. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#pillage&#34;&gt;Pillage&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dominations&#34;&gt;Dominations&lt;/h3&gt;
+&lt;h4 id=&#34;quest-ce-que-jobtiens-pour-avoir-un-dominion&#34;&gt;Qu&amp;rsquo;est-ce que j&amp;rsquo;obtiens pour avoir un dominion ?&lt;/h4&gt;
+&lt;p&gt;Vous obtenez une base de 30% des ressources (crédit/technologie/idéologie) générées par le système, cela compte pour la propriété du secteur de votre faction, et sa population compte pour la victoire de Path of Influence. Vous pouvez afficher votre taux d&amp;rsquo;imposition actuel dans le panneau d&amp;rsquo;aperçu (bouton en bas à gauche), il peut être augmenté avec Lexes&lt;/p&gt;
+&lt;h4 id=&#34;si-je-mets-en-file-dattente-un-tas-de-mises-à-niveau-dans-un-système-et-que-je-le-bascule-ensuite-en-domaine-continue-t-il-sur-son-bon-chemin&#34;&gt;Si je mets en file d&amp;rsquo;attente un tas de mises à niveau dans un système et que je le bascule ensuite en domaine, continue-t-il sur son bon chemin ?&lt;/h4&gt;
+&lt;p&gt;Oui&lt;/p&gt;
+&lt;h4 id=&#34;si-je-développe-un-système-puis-le-bascule-sur-un-système-de-domaine-lia-reconstruit-elle-alors-tout-ou-reste-t-elle-optimisée-par-rapport-à-ce-que-jai-créé&#34;&gt;Si je développe un système puis le bascule sur un système de domaine, l&amp;rsquo;IA reconstruit-elle alors tout ou reste-t-elle optimisée par rapport à ce que j&amp;rsquo;ai créé ?&lt;/h4&gt;
+&lt;p&gt;IA ne peut pas détruire puis reconstruire, il restera donc optimisé. Cependant, il ne les améliorera pas complètement (s&amp;rsquo;arrête lorsque tous les emplacements sont occupés par un bâtiment)&lt;/p&gt;
+&lt;p&gt;Passer d&amp;rsquo;un système de domination à un système a un coût idéologique croissant de +5k à chaque fois que vous retournez un système. Il vaut parfois mieux abandonner le système et ensuite prendre le contrôle avec un sidéral, prend plus de temps mais n&amp;rsquo;a pas de coût croissant.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

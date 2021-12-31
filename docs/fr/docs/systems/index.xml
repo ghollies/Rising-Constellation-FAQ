@@ -1,0 +1,311 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unofficial Rising Constellation FAQ FR – Systèmes</title>
+    <link>/Rising-Constellation-FAQ/fr/docs/systems/</link>
+    <description>Recent content in Systèmes on Unofficial Rising Constellation FAQ FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/Rising-Constellation-FAQ/fr/docs/systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Bâtiments</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/systems/buildings/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/systems/buildings/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;monolith---sadapte-t-il-à-la-population-de-la-planète-ou-du-système&#34;&gt;Monolith - S&amp;rsquo;adapte-t-il à la population de la planète ou du système ?&lt;/h3&gt;
+&lt;p&gt;Il utilise l&amp;rsquo;ensemble de la population du système, vous pouvez le constater par l&amp;rsquo;icône qu&amp;rsquo;il utilise : &lt;img src=&#34;/Rising-Constellation-FAQ/images/system_population.png&#34; alt=&#34;Population du système&#34;&gt; plutôt que &lt;img src=&#34;/Rising-Constellation-FAQ/images/planet_population.PNG&#34; alt=&#34;Population de la planète&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;coûts-des-bâtiments&#34;&gt;Coûts des bâtiments&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Nom&lt;/th&gt;
+&lt;th&gt;Emplacement du bâtiment&lt;/th&gt;
+&lt;th&gt;Coût de production par niveau &lt;br/&gt; Coût de crédit par niveau&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Essaim de machines autoforeuses&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;300/1250/7500/15000/25000&lt;br/&gt;3900/8320/13520/19500/26000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Conduits de raffinage&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;120/2000/20000/44000/80000&lt;br/&gt;2000/6400/10400/15000/20000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Station d&amp;rsquo;expérimentation&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;150/1000/10000/22000/40000&lt;br/&gt;6000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arche commerciale&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;2500/10000/60000/120000/200000&lt;br/&gt;40000/40000/64000/104000/160000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Terminus orbital&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;1600/6000/36000/72000/120000&lt;br/&gt;20000/32000/52000/75000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Constellation de leurres&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;100/250/1500/3000/5000&lt;br/&gt;3750/8000/13000/18750/25000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zero-G-Arena&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;800/3200/9600/25600/64000&lt;br/&gt;9900/21120/34320/49500/66000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;O.P.U.&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;200/1500/15000/33000/60000&lt;br/&gt;3300/7040/11440/16500/22000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ligne d&amp;rsquo;assemblage S-01&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;400/1600/4800/12800/32000&lt;br/&gt;10500/17500/28000/45500/70000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ligne d&amp;rsquo;assemblage S-02&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;800/3200/9600/25600/64000&lt;br/&gt;15000/25000/40000/65000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Space Dock&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;1500/6000/18000/48000/120000&lt;br/&gt;40000/62500/100000/16250/250000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Superstructure d&amp;rsquo;assemblage&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;3000/12000/36000/96000/240000&lt;br/&gt;100000/107500/172000/279500/430000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;S.L.S.D. Réseau&lt;/td&gt;
+&lt;td&gt;Astéroïde ou Lune&lt;/td&gt;
+&lt;td&gt;360/1500/4500/12000/30000&lt;br/&gt;4950/10560/17160/24750/33000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mégapole&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;120/1000/6000/12000/20000&lt;br/&gt;8400/17920/29120/42000/56000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quartier Résidentiel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;30/250/1500/3000/5000&lt;br/&gt;1950/4160/6760/9750/13000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Villes-ruches&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;300/1250/7500/15000/25000&lt;br/&gt;4500/9600/15600/22500/30000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Archipel résidentiel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;450/3750/22500/45000/75000&lt;br/&gt;7500/16000/26000/37500/50000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pôle industriel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;500/2750/27500/60500/110000&lt;br/&gt;6000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lien Orbital&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;4000/8000/48000/96000/160000&lt;br/&gt;70000/112000/182000/262500/350000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Delta Polytech&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;70/375/3750/8250/15000&lt;br/&gt;1500/3200/5200/7500/10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Accélérateur&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;15000/43750/87500/175000/350000&lt;br/&gt;72000/90000/144000/234000/360000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Citadelle&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;120/500/5000/11000/20000&lt;br/&gt;1500/3200/5200/7500/10000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jardins flottants&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;1200/4850/14550/38800/97000&lt;br/&gt;15000/32000/52000/75000/100000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Réseau d&amp;rsquo;Îles Artificielles&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;2200/9000/27000/72000/180000&lt;br/&gt;50000/62500/100000/16250/250000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Artère commerciale&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;200/1500/15000/33000/60000&lt;br/&gt;4000/12800/20800/30000/40000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reflect District&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;20000/58125/116250/232500/465000&lt;br/&gt;140000/97500/156000/253500/390000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bouclier planétaire&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;1000/4000/12000/32000/80000&lt;br/&gt;11250/24000/39000/56250/75000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Échosystème préservé&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;12000/35000/70000/140000/280000&lt;br/&gt;64000/87000/130500/188500/290000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Orb-Intel&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;7500/18750/37500/75000/150000&lt;br/&gt;18750/40000/65000/93750/125000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Centre des congrès&lt;/td&gt;
+&lt;td&gt;Habitable&lt;/td&gt;
+&lt;td&gt;10000/2250/22500/49500/90000&lt;br/&gt;4800/10240/16640/24000/32000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Centre central&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;130/1100/6600/13200/22000&lt;br/&gt;9000/19200/31200/45000/60000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gamme d&amp;rsquo;excavatrices&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;200/1000/6000/12000/20000&lt;br/&gt;1950/4160/6760/9750/13000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capsule Cities&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;200/1000/6000/12000/20000&lt;br/&gt;3450/7360/11960/17250/23000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Usine de métamatériaux&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;30000/60000/120000/240000/480000&lt;br/&gt;180000/150000/240000/390000/600000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ascenseur spatial&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;1500/6000/18000/48000/120000&lt;br/&gt;22500/48000/78000/112500/150000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Station de recherche d&amp;rsquo;impact&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;250/1750/17500/38500/70000&lt;br/&gt;3750/8000/13000/18750/25000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Holodome&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;2000/8100/24300/64800/162000&lt;br/&gt;3000/6400/10400/15000/20000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monolithe&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;20000/58750/117500/235000/470000&lt;br/&gt;160000/105000/168000/273000/42000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Omnimarché&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;150/1125/11250/24750/45000&lt;br/&gt;8000/16000/26000/37500/50000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sport spatial industriel&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;1400/5500/16500/44000/110000&lt;br/&gt;9000/19200/31200/45000/60000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C.N.D.&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;5000/15000/30000/60000/120000&lt;br/&gt;19500/41600/67600/97500/130000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tunnels d&amp;rsquo;interception&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;800/3100/9300/24800/62000&lt;br/&gt;9750/20800/33800/48750/65000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Circuit Hyperdrive&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;600/2400/7200/19200/48000&lt;br/&gt;20250/43200/70200/101250/135000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Académie militaire aérospatiale&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;6000/17500/35000/70000/140000&lt;br/&gt;19500/41600/67600/97500/130000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Systèmes proxy intégrés&lt;/td&gt;
+&lt;td&gt;Stérile&lt;/td&gt;
+&lt;td&gt;250/1875/18750/41250/75000&lt;br/&gt;4050/8640/14040/20250/27000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dominions et systèmes autonomes</title>
+      <link>/Rising-Constellation-FAQ/fr/docs/systems/dominions/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/fr/docs/systems/dominions/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;général&#34;&gt;Général&lt;/h2&gt;
+&lt;h3 id=&#34;les-systèmes-contrôlés-par-lia-construisent-ils-leurs-propres-bâtiments&#34;&gt;Les systèmes contrôlés par l&amp;rsquo;IA construisent-ils leurs propres bâtiments ?&lt;/h3&gt;
+&lt;p&gt;Ils construisent automatiquement des bâtiments au fil du temps, de manière très inefficace. Ils arrêtent de construire et de mettre à niveau lorsque tous leurs emplacements de construction sont pleins.&lt;/p&gt;
+&lt;h3 id=&#34;répareront-ils-les-bâtiments-détruits-&#34;&gt;Répareront-ils les bâtiments détruits ?&lt;/h3&gt;
+&lt;p&gt;Ils donneront la priorité à la réparation des bâtiments avant d&amp;rsquo;en construire de nouveaux et continueront à réparer même si tous leurs emplacements de construction sont pleins&lt;/p&gt;
+&lt;h3 id=&#34;comment-puis-je-prendre-le-contrôle-dun-dominion-ou-dun-système-autonome&#34;&gt;Comment puis-je prendre le contrôle d&amp;rsquo;un Dominion ou d&amp;rsquo;un système autonome ?&lt;/h3&gt;
+&lt;p&gt;Les gens peuvent les retourner dans leur faction de 2 manières :
+utiliser les Siderians pour les déstabiliser puis les faire de la propagande pour les transformer en dominions
+&lt;em&gt;OU&lt;/em&gt;
+Utilisez un navarque avec une flotte pour le conquérir en tant que système.
+Les deux nécessiteront un emplacement libre (soit en tant que dominion, soit en tant qu&amp;rsquo;emplacement système)&lt;/p&gt;
+&lt;h3 id=&#34;où-dois-je-prendre-un-dominion-&#34;&gt;Où dois-je prendre un Dominion ?&lt;/h3&gt;
+&lt;p&gt;Partout où votre faction pourrait utiliser un système supplémentaire contrôlé, ou un système qui, selon vous, serait utile du point de vue de la génération de ressources ou de la population. Libérer des systèmes dans les Dominions est un bon moyen de s&amp;rsquo;assurer qu&amp;rsquo;ils ont de bons revenus et une bonne population, libérant un emplacement système pour un emplacement potentiellement plus avancé.&lt;/p&gt;
+&lt;h3 id=&#34;puis-je-utiliser-un-vaisseau-de-colonie-pour-prendre-le-contrôle-dun-système-autonome-&#34;&gt;Puis-je utiliser un vaisseau de colonie pour prendre le contrôle d&amp;rsquo;un système autonome ?&lt;/h3&gt;
+&lt;p&gt;Non, seulement conquête ou propagande&lt;/p&gt;
+&lt;h3 id=&#34;dans-quels-secteurs-puis-je-prendre-le-contrôle-dun-système-contrôlé-par-lia&#34;&gt;Dans quels secteurs puis-je prendre le contrôle d&amp;rsquo;un système contrôlé par l&amp;rsquo;IA ?&lt;/h3&gt;
+&lt;p&gt;Vous ne pouvez prendre le contrôle de systèmes que dans des secteurs adjacents à celui que votre faction possède déjà, ou dans un secteur que votre faction possède.&lt;/p&gt;
+&lt;h3 id=&#34;systèmes-autonomes&#34;&gt;Systèmes autonomes&lt;/h3&gt;
+&lt;h4 id=&#34;sont-ils-cultivables&#34;&gt;Sont-ils cultivables ?&lt;/h4&gt;
+&lt;p&gt;oui, les piller est un bon moyen à la fois d&amp;rsquo;augmenter le niveau de vos agents et de gagner des ressources, réparer les bâtiments n&amp;rsquo;est pas trop difficile si quelqu&amp;rsquo;un s&amp;rsquo;en charge. voir &lt;a href=&#34;/Rising-Constellation-FAQ/docs/agents/navarch/#pillage&#34;&gt;Pillage&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dominations&#34;&gt;Dominations&lt;/h3&gt;
+&lt;h4 id=&#34;quest-ce-que-jobtiens-pour-avoir-un-dominion&#34;&gt;Qu&amp;rsquo;est-ce que j&amp;rsquo;obtiens pour avoir un dominion ?&lt;/h4&gt;
+&lt;p&gt;Vous obtenez une base de 30% des ressources (crédit/technologie/idéologie) générées par le système, cela compte pour la propriété du secteur de votre faction, et sa population compte pour la victoire de Path of Influence. Vous pouvez afficher votre taux d&amp;rsquo;imposition actuel dans le panneau d&amp;rsquo;aperçu (bouton en bas à gauche), il peut être augmenté avec Lexes&lt;/p&gt;
+&lt;h4 id=&#34;si-je-mets-en-file-dattente-un-tas-de-mises-à-niveau-dans-un-système-et-que-je-le-bascule-ensuite-en-domaine-continue-t-il-sur-son-bon-chemin&#34;&gt;Si je mets en file d&amp;rsquo;attente un tas de mises à niveau dans un système et que je le bascule ensuite en domaine, continue-t-il sur son bon chemin ?&lt;/h4&gt;
+&lt;p&gt;Oui&lt;/p&gt;
+&lt;h4 id=&#34;si-je-développe-un-système-puis-le-bascule-sur-un-système-de-domaine-lia-reconstruit-elle-alors-tout-ou-reste-t-elle-optimisée-par-rapport-à-ce-que-jai-créé&#34;&gt;Si je développe un système puis le bascule sur un système de domaine, l&amp;rsquo;IA reconstruit-elle alors tout ou reste-t-elle optimisée par rapport à ce que j&amp;rsquo;ai créé ?&lt;/h4&gt;
+&lt;p&gt;IA ne peut pas détruire puis reconstruire, il restera donc optimisé. Cependant, il ne les améliorera pas complètement (s&amp;rsquo;arrête lorsque tous les emplacements sont occupés par un bâtiment)&lt;/p&gt;
+&lt;p&gt;Passer d&amp;rsquo;un système de domination à un système a un coût idéologique croissant de +5k à chaque fois que vous retournez un système. Il vaut parfois mieux abandonner le système et ensuite prendre le contrôle avec un sidéral, prend plus de temps mais n&amp;rsquo;a pas de coût croissant.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
