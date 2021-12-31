@@ -91,9 +91,9 @@ weight = 1
 #time_format_blog = "02.01.2006"
 
 [languages.fr]
-title = "Unofficial Rising Constellation FAQ FR"
-description = "A player maintained FAQ and documentation page for the game Rising Constellation FR"
-languageName ="French"
+title = "FAQ non officielle sur la Rising Constellation"
+description = "Un joueur a maintenu une page de FAQ et de documentation pour le jeu Rising Constellation"
+languageName ="Français"
 contentDir = "content/fr"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"

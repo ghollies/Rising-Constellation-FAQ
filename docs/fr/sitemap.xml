@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Rising-Constellation-FAQ/fr/docs/concepts/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Rising-Constellation-FAQ/docs/concepts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Rising-Constellation-FAQ/fr/docs/concepts/"
-                />
-  </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/concepts/victory/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +15,21 @@
                 href="/Rising-Constellation-FAQ/fr/docs/concepts/victory/"
                 />
   </url><url>
+    <loc>/Rising-Constellation-FAQ/fr/docs/concepts/</loc>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/Rising-Constellation-FAQ/docs/concepts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/Rising-Constellation-FAQ/fr/docs/concepts/"
+                />
+  </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/concepts/combat/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/strategies/fleets/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/agents/navarch/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/strategies/legacy-start/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/ships/stats/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/systems/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/ships/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +120,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/agents/siderian/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,7 +133,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/agents/erased/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -146,7 +146,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/agents/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,6 +159,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/tools/</loc>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -171,7 +172,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/strategies/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -184,6 +185,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/contribution-guidelines/</loc>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -196,7 +198,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -209,7 +211,7 @@
                 />
   </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/systems/buildings/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -221,21 +223,8 @@
                 href="/Rising-Constellation-FAQ/fr/docs/systems/buildings/"
                 />
   </url><url>
-    <loc>/Rising-Constellation-FAQ/fr/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Rising-Constellation-FAQ/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Rising-Constellation-FAQ/fr/"
-                />
-  </url><url>
     <loc>/Rising-Constellation-FAQ/fr/docs/systems/dominions/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,7 +248,21 @@
                 href="/Rising-Constellation-FAQ/fr/categories/"
                 />
   </url><url>
+    <loc>/Rising-Constellation-FAQ/fr/</loc>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/Rising-Constellation-FAQ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/Rising-Constellation-FAQ/fr/"
+                />
+  </url><url>
     <loc>/Rising-Constellation-FAQ/fr/search/</loc>
+    <lastmod>2021-12-31T11:45:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
