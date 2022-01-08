@@ -5,6 +5,20 @@ weight: 2
 description: >
   Agents which can Conquest, Pillage or Attack
 ---
+
+![Navarch](https://asylamba.com/public/media/files/sources/navarch-tetrarchy.png)
+(note some exact values in the image are out of date)
+
+## Classes
+| Name | Primary skill |
+| --- | --- |
+| Strategist | Leadership |
+| Butcher | Strike |
+| Conquerer | Conquest |
+| Shipowner | Production |
+| Sentinel | Defense |
+| Instructor | Training |
+
 ## Abilities
 ### Pillaging ![Bombing](/images/bombing.PNG)
 Allows a navarch to raid resources from an enemy controlled system or dominion. Compares the navarch's total bombing power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see [Ship Stats - Bombing](/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships) 

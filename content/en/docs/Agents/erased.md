@@ -6,6 +6,19 @@ description: >
  Agents which can Infiltrate, Remove or Sabotage 
 ---
 
+![Erased](https://asylamba.com/public/media/files/sources/erased-cardan.png)
+(note some exact values in the image are out of date)
+
+## Classes
+| Name | Primary skill |
+| --- | --- |
+| Hacker | Infiltration |
+| Bounty Hunter | Removal |
+| Saboteur | Sabotage |
+| Cerberus | Intelligence |
+| Analyst | Cybersecurity |
+| Broker | Finance |
+
 ## Abilities
 ### Infiltration ![Infiltration](/images/infiltration.PNG)
 Infiltration takes somewhere between 2-3 hours and compares the erased agent's infiltration skill against the system's [intelligence](/docs/concepts/_index.md#intelligence) and if successful installs 1 malware, or 2 with a critical success, in the system, increasing visibility on the system, and contributing to the [Path of Shadow](/docs/concepts/victory/#path-of-shadows#) victory
