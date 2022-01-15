@@ -1,6 +1,16 @@
 baseURL = "/Rising-Constellation-FAQ/"
 #baseURL = "/"
 
+
+
+# TODO
+# lopy start
+# building income
+# lex cost/calculator by input multiplier
+#
+#
+#
+
 title = "Unofficial Rising Constellation FAQ"
 # rm -rf docs/* && env HUGO_ENV="production" hugo && git add .
 
