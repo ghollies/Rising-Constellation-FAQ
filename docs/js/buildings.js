@@ -95,7 +95,7 @@ function getIcon(image){
   if(!imageFile.includes(".svg")){
       return imageFile
   }
-  return  `<img style="background:black" src="/images/svg/${imageFile}"/>`
+  return  `<img style="background:black" src="/Rising-Constellation-FAQ/images/svg/${imageFile}"/>`
 }
 var data1
 $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
