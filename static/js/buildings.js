@@ -89,7 +89,7 @@ iconMap = {
 }
 
 function getIcon(image){
-  console.log(image)
+//   console.log(image)
   imageFile= iconMap[image]
   
   if(!imageFile.includes(".svg")){
