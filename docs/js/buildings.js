@@ -98,7 +98,7 @@ function getIcon(image){
   return  `<img style="background:black" src="/images/svg/${imageFile}"/>`
 }
 var data1
-$.getJSON('/building-full.json', function(dataRaw) {
+$.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
     data = dataRaw.sort( (a,b) =>  a.Name < b.Name? -1:1);
     data1=data
     // console.log(data[0])
