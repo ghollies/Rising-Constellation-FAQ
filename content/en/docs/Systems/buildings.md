@@ -5,9 +5,162 @@ date: 2017-01-05
 description: >
   Buildings
 ---
+<script defer language="javascript" type="text/javascript"  src="/js/buildings.js"></script>
+<style>
+  [data-toggle="toggle"] {
+	display: none;
+}
+</style>
+
+### Habitable Planet Buildings
+<table id="habitable_table" style="width: !100%;  display: table; table-layout: auto">
+	<thead>
+		<tr>
+      <th>Name</th><th>lv 1</th><th>lv 2</th><th>lv 3</th><th>lv 4</th><th>lv 5</th>
+		</tr>
+	</thead>
+  </table>
+  
+  ### Barren Planet Buildings
+  <table id="barren_table" style="width: !100%;  display: table; table-layout: auto">
+	<thead>
+		<tr>
+      <th>Name</th><th>lv 1</th><th>lv 2</th><th>lv 3</th><th>lv 4</th><th>lv 5</th>
+		</tr>
+	</thead>
+  </table>
+
+  ### Orbital Buildings
+  <table id="orbital_table" style="width: !100%;  display: table; table-layout: auto">
+	<thead>
+		<tr>
+      <th>Name</th><th>lv 1</th><th>lv 2</th><th>lv 3</th><th>lv 4</th><th>lv 5</th>
+		</tr>
+	</thead>
+	<!-- <tbody>
+		<tbody class="labels">
+			<tr>
+				<td colspan="6" style="background-color: #b6eae4">
+					<label for="o1">Industrial Hub</label>
+					<input type="checkbox" name="o1" id="o1" data-toggle="toggle"/> 
+				</td>
+			</tr>
+		</tbody>
+	  <tbody class="hide" style="display: none">
+      <tr><td>Production cost</td><td>300</td><td>1250</td><td>7500</td><td>15000</td><td>25000</td></tr>
+      <tr><td>Credit cost</td><td>3900</td><td>8320</td><td>13520</td><td>19500</td><td>26000</td></tr>
+      <tr><td>Production * {{< svg "system_prod.svg" >}} </td><td>1</td><td>1.8</td><td>2.4</td><td>3.2</td><td>3.8</td></tr>
+      <tr><td>Credits * {{< svg "system_prod.svg" >}}</td><td>5</td><td>7.2</td><td>9.4</td><td>12.6</td><td>15.2</td></tr>
+      <tr><td>Stability * {{< svg "system_population.svg" >}}</td><td>-.1</td><td>-.2</td><td>-.3</td><td>-.3</td><td>-.4</td></tr>
+    </tbody>
+  </tbody>
+		<tbody class="labels">
+			<tr>
+				<td colspan="6" style="background-color: #b6eae4">
+					<label for="management">Management</label>
+					<input type="checkbox" name="management" id="management" data-toggle="toggle">
+				</td>
+			</tr>
+		</tbody>
+		<tbody class="hide">
+			<tr>
+				<td>Australia</td>
+				<td>$7,685.00</td>
+				<td>$3,544.00</td>
+				<td>$5,834.00</td>
+				<td>$10,583.00</td>
+        <td>$10,583.00</td>
+			</tr>
+			<tr>
+				<td>Central America</td>
+				<td>$7,685.00</td>
+				<td>$3,544.00</td>
+				<td>$5,834.00</td>
+				<td>$10,583.00</td>
+        				<td>$10,583.00</td>
+			</tr>
+			<tr>
+				<td>Europe</td>
+				<td>$7,685.00</td>
+				<td>$3,544.00</td>
+				<td>$5,834.00</td>
+				<td>$10,583.00</td>
+        				<td>$10,583.00</td>
+			</tr>
+			<tr>
+				<td>Middle East</td>
+				<td>$7,685.00</td>
+				<td>$3,544.00</td>
+				<td>$5,834.00</td>
+				<td>$10,583.00</td>
+        				<td>$10,583.00</td>
+			</tr>
+		</tbody>		
+	</tbody> -->
+</table>
+<!-- 
+<table>
+<thead>
+<tr>
+<th>Industrial Hub</th>
+<th>lv 1</th><th>lv 2</th><th>lv 3</th><th>lv 4</th><th>lv 5</th> -->
+
+<!-- <th>Production cost by level <br> Credit Cost by level</th> -->
+<!-- </tr>
+</thead>
+<input type="checkbox" name="management" id="management" data-toggle="toggle">
+
+<tbody id = "container" class="hide"> -->
+<!-- <tr>
+<td>Industrial Hub</td>
+</tr> -->
+<!-- 
+<tr>
+<td>Production cost</td><td>300</td><td>1250</td><td>7500</td><td>15000</td><td>25000</td>
+</tr>
+<tr>
+<td>Credit cost</td><td>3900</td><td>8320</td><td>13520</td><td>19500</td><td>26000</td>
+</tr>
+<tr>
+<td>Production * {{< svg "system_prod.svg" >}} </td><td>1</td><td>1.8</td><td>2.4</td><td>3.2</td><td>3.8</td>
+</tr>
+<tr>
+<td>Credits * {{< svg "system_prod.svg" >}}</td><td>5</td><td>7.2</td><td>9.4</td><td>12.6</td><td>15.2</td>
+</tr>
+<tr>
+<td>Stability * {{< svg "system_population.svg" >}}</td><td>-.1</td><td>-.2</td><td>-.3</td><td>-.3</td><td>-.4</td>
+</tr>
+</tbody>
+</table> -->
+
+<!-- 
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Building Location</th>
+<th>Production cost by level <br> Credit Cost by level</th>
+</tr>
+</thead>
+<tbody id = "container">
+<tr>
+<td>Swarm of Self-Drilling Machines</td>
+<td>Asteroid or Moon</td>
+<td>300/1250/7500/15000/25000<br>3900/8320/13520/19500/26000</td>
+</tr>
+<tr>
+<td>Refining Ducts</td>
+<td>Asteroid or Moon</td>
+<td>120/2000/20000/44000/80000<br>2000/6400/10400/15000/20000</td>
+</tr>
+
+</tbody>
+</table> -->
+
+
 ### Monolith - Does it scale based on planet or system population?
 It uses the entire system population, you can tell by the icon it uses: ![System Population](/images/system_population.png) rather than ![Planet Population](/images/planet_population.PNG)
-
+<!-- 
 ### Buildings Costs
 
 | Name | Building Location | Production cost by level <br/> Credit Cost by level |
@@ -56,4 +209,4 @@ It uses the entire system population, you can tell by the icon it uses: ![System
 |Interception Tunnels|Sterile|800/3100/9300/24800/62000<br/>9750/20800/33800/48750/65000|
 |Hyperdrive Circuit|Sterile|600/2400/7200/19200/48000<br/>20250/43200/70200/101250/135000|
 |Aerospace Military Academy|Sterile|6000/17500/35000/70000/140000<br/>19500/41600/67600/97500/130000|
-|Integrated Proxy Systems|Sterile|250/1875/18750/41250/75000<br/>4050/8640/14040/20250/27000|
+|Integrated Proxy Systems|Sterile|250/1875/18750/41250/75000<br/>4050/8640/14040/20250/27000| -->
