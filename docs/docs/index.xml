@@ -1545,6 +1545,7 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
 	display: none;
 }
 &lt;/style&gt;
+&lt;p&gt;Information accurate as of: 1/15/2022 for Legacy games&lt;/p&gt;
 &lt;h3 id=&#34;habitable-planet-buildings&#34;&gt;Habitable Planet Buildings&lt;/h3&gt;
 &lt;table id=&#34;habitable_table&#34; style=&#34;width: !100%;  display: table; table-layout: auto&#34;&gt;
 	&lt;thead&gt;
