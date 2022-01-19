@@ -8,13 +8,16 @@ var fns = {
     g2:[12.5,25,40,65,100],
 
     l2:[0,25,50,75,100], // linear
-
- // need to derive
     l0:[0,25,50,75,100] , // same linear
+
     f2:[15,30,45,65,100], // derived using Experiment Station
     e2:[20,32,52,75,100], // derived from Swarm of Self-Drilling Machines
-    s2:[33,60,80,90,100], // from Refining Ducts
+    s2:[33,60,80,90,100], // from Refining Ducts, note must use min value, rather than 33% since both credit and prod use this function, but no single % works for both
 }
+// Notes from Novae:
+// regarding functions, the letter determine the function, and the number (0 or 2 here) is the decimal displayed ingame. So e0 and e2 is the same functions, but e2 will display 2 digit after the decimal point.
+// and indeed some min values were modified and do not fit the functions. This is to have a better control on early game speed.
+// So : functions as you described them here above are correct, always use the min value for the first level, then use the function, based on the max for next levels
 
 
 // 10500	77000
