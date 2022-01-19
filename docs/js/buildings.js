@@ -98,10 +98,13 @@ function getIcon(image){
   if(!imageFile.includes(".svg")){
       return imageFile
   }
+//   return  `<img style="background:black" src="/images/svg/${imageFile}"/>`
   return  `<img style="background:black" src="/Rising-Constellation-FAQ/images/svg/${imageFile}"/>`
+
 }
 var data1
 $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
+// $.getJSON('/building-full.json', function(dataRaw) {
     data = dataRaw.sort( (a,b) =>  a.Name < b.Name? -1:1);
     data1=data
     // console.log(data[0])
@@ -216,8 +219,8 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
         <tbody>
         <tbody class="labels">
             <tr>
-                <td colspan="6" style="background-color: #${ mod == 0 ? "96c7f0" : "bee3f6"}">
-                    <label style="font-weight: bold" for="o${i}">${data[i].Name}</label>
+                <td colspan="6" style="font-weight: bold; background-color: #${ mod == 0 ? "96c7f0" : "bee3f6"}">
+                    <label style="display: block" for="o${i}">${data[i].Name}<span class="plusminuso${i}" style="float: right; font-size: 1.4em">+</span></label>
                     <input type="checkbox" name="o${i}" id="o${i}" data-toggle="toggle"/> 
                 </td>
             </tr>
@@ -237,6 +240,13 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
 
     $('[data-toggle="toggle"]').change(function(){
 		$(this).parents().next('.hide').toggle();
+        if($(".plusminus" + $(this).attr("id")).text() == "+"){
+            $(".plusminus" + $(this).attr("id")).text('-');
+        } else {
+            $(".plusminus" + $(this).attr("id")).text('+');  
+        }
+        
+
 	});
 });
 
