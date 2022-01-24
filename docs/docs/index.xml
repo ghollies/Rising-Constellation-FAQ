@@ -390,12 +390,12 @@ on the sterile.&lt;/p&gt;
 &lt;h4 id=&#34;how-much-invasion-power-do-i-need&#34;&gt;How much invasion power do I need?&lt;/h4&gt;
 &lt;p&gt;Invasion power is compared to system defense&lt;/p&gt;
 &lt;h3 id=&#34;repair-repairimagesrepairpng&#34;&gt;Repair &lt;img src=&#34;/Rising-Constellation-FAQ/images/repair.PNG&#34; alt=&#34;Repair&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Repairs the fleet under the navarch&amp;rsquo;s control. The Navarch gives 5 points of repair to the fleet for each skill rank. Increased by the Leadership skill, and by having certain types of ships in the fleet. see &lt;a href=&#34;/Rising-Constellation-FAQ/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships&#34;&gt;Ship Stats - Repair&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;how-long-do-repairs-take&#34;&gt;How long do repairs take?&lt;/h4&gt;
 &lt;p&gt;Repairs will only happen while a fleet is not moving or engaging in an offensive action. Ships will be repaired starting with the ship at lowest % health first. The rate of repair is:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Repair Score * .5 HP per tick.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A navarch with 2 ranks of repair, and has a drone carrier x2 in their fleet will have 
-(2 ranks * 4) + (4 score from fleet) = 12 repair score. Repairing 6 HP per tick. So in legacy with 3 minute ticks you can estimate it at 120 HP per hour.&lt;/p&gt;
+(2 ranks * 5) + (4 score from fleet) = 12 repair score. Repairing 6 HP per tick. So in legacy with 3 minute ticks you can estimate it at 120 HP per hour.&lt;/p&gt;
 &lt;h2 id=&#34;stance&#34;&gt;Stance&lt;/h2&gt;
 &lt;h3 id=&#34;defender&#34;&gt;Defender&lt;/h3&gt;
 &lt;p&gt;Will join into fights, and engage enemies to prevent pillaging/bombarding/colonization. But will not otherwise start a fight with enemies in the same system&lt;/p&gt;
@@ -1106,6 +1106,32 @@ $1\|$2
     </item>
     
     <item>
+      <title>Docs: Market</title>
+      <link>/Rising-Constellation-FAQ/docs/concepts/market/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/concepts/market/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;market&#34;&gt;Market&lt;/h3&gt;
+&lt;p&gt;IN PROGRESS&lt;/p&gt;
+&lt;!-- 
+stuff
+
+
+New inter-faction market available;
+You can sell lots of technology points, lots of ideology points, agents in the deck and agents deployed at rest;
+The sales are done against credits;
+You can make targeted offers to a player (or a group of players);
+We can make targeted offers to a faction (or a group of faction);
+A tax is levied on each transaction;
+The old faction market is no longer available. --&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Siderian</title>
       <link>/Rising-Constellation-FAQ/docs/agents/siderian/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
@@ -1159,7 +1185,7 @@ $1\|$2
 &lt;h3 id=&#34;destabilize-destabilizeimagesdestabilizationpng&#34;&gt;Destabilize &lt;img src=&#34;/Rising-Constellation-FAQ/images/destabilization.PNG&#34; alt=&#34;Destabilize&#34;&gt;&lt;/h3&gt;
 &lt;p&gt;This ability reduces the stability of the current system. Useful for setting up a propaganda action later, or reducing the efficiency of the current system. Takes a moderate amount of time (~2.5 hours in legacy). Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 &lt;h3 id=&#34;seduce-seduceimagesseductionpng&#34;&gt;Seduce &lt;img src=&#34;/Rising-Constellation-FAQ/images/seduction.PNG&#34; alt=&#34;Seduce&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;This ability can only be used when in the same system as an enemy agent who is visible. This ability compares the siderian agent&amp;rsquo;s seduction skill against the target agent&amp;rsquo;s Determination &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_determination.png&#34; alt=&#34;Determination&#34;&gt;. If successful, will convert the agent to your side! Instantaneous. Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
+&lt;p&gt;This ability can only be used when in the same system as an enemy agent who is visible. Seduction skill gives 13 seduction per rank. This ability compares the siderian agent&amp;rsquo;s seduction skill against the target agent&amp;rsquo;s Determination &lt;img src=&#34;/Rising-Constellation-FAQ/images/agent_determination.png&#34; alt=&#34;Determination&#34;&gt;. If successful, will convert the agent to your side! Instantaneous. Requires the agent to rest afterwards before they can use any other abilities.&lt;/p&gt;
 
       </description>
     </item>

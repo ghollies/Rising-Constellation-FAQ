@@ -216,5 +216,31 @@ Morale resets at the end of each combat, so squadron are always back at full mor
       </description>
     </item>
     
+    <item>
+      <title>Docs: Market</title>
+      <link>/Rising-Constellation-FAQ/docs/concepts/market/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/concepts/market/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;market&#34;&gt;Market&lt;/h3&gt;
+&lt;p&gt;IN PROGRESS&lt;/p&gt;
+&lt;!-- 
+stuff
+
+
+New inter-faction market available;
+You can sell lots of technology points, lots of ideology points, agents in the deck and agents deployed at rest;
+The sales are done against credits;
+You can make targeted offers to a player (or a group of players);
+We can make targeted offers to a faction (or a group of faction);
+A tax is levied on each transaction;
+The old faction market is no longer available. --&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

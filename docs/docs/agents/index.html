@@ -110,7 +110,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.ffb89e8f621cd1d02cac446a13f28b3a.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.956d8acfeba9343aa59f936b8051cc72.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -132,7 +132,7 @@ if (!doNotTrack) {
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.ffb89e8f621cd1d02cac446a13f28b3a.json"
+  data-offline-search-index-json-src="/Rising-Constellation-FAQ/offline-search-index.956d8acfeba9343aa59f936b8051cc72.json"
   data-offline-search-base-href="/Rising-Constellation-FAQ/"
   data-offline-search-max-results="10"
 >
@@ -164,6 +164,8 @@ if (!doNotTrack) {
   <a href="/Rising-Constellation-FAQ/docs/concepts/victory/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-docsconceptsvictory"><span class="">Winning the Game</span></a>
 </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-docsconceptscombat-li">
   <a href="/Rising-Constellation-FAQ/docs/concepts/combat/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-docsconceptscombat"><span class="">Fleet Combat</span></a>
+</li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-docsconceptsmarket-li">
+  <a href="/Rising-Constellation-FAQ/docs/concepts/market/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-docsconceptsmarket"><span class="">Market</span></a>
 </li>
   </ul>
 </li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-docsfactions-li">
@@ -238,19 +240,15 @@ if (!doNotTrack) {
         <li><a href="#how-do-they-gain-experience">How do they gain experience?</a></li>
         <li><a href="#what-do-they-gain-when-they-level">What do they gain when they level?</a></li>
         <li><a href="#how-much-do-skills-like-knowledge-wisdom-and-finance-increase-resource-generation-in-the-system">How much do skills like knowledge wisdom and finance increase resource generation in the system?</a></li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>
-      <ul>
+        <li><a href="#do-i-need-skill-points-in-order-to-perform-the-corresponding-action">Do I need skill points in order to perform the corresponding action?</a></li>
         <li><a href="#does-an-agents-favorite-faction-affect-anything">Does an agent&rsquo;s &ldquo;favorite faction&rdquo; affect anything?</a></li>
         <li><a href="#if-you-have-a-governor-in-a-captured-system-do-they-die">If you have a governor in a captured system do they die?</a></li>
         <li><a href="#which-actions-are-instantaneous-vs-which-ones-take-time">Which actions are instantaneous, vs which ones take time?</a></li>
+        <li><a href="#how-is-maintenance-cost-calculated">How is maintenance cost calculated?</a></li>
+        <li><a href="#how-many-agents-can-i-have-in-my-deck-undeployed">How many agents can I have in my Deck (Undeployed)?</a></li>
       </ul>
     </li>
-    <li><a href="#market">Market</a>
+    <li><a href="#agent-market">Agent Market</a>
       <ul>
         <li><a href="#is-the-agent-market-the-same-for-everyone">Is the agent market the same for everyone?</a></li>
       </ul>
@@ -329,9 +327,9 @@ if (!doNotTrack) {
 		
 	</header>
 	<h3 id="how-do-they-gain-experience">How do they gain experience?</h3>
-<p>Missions:
-8 to 12 per mission depending on success but if unsuccessful can still earn 2-4 points
-Governor: 1xp per hour</p>
+<p>Missions: 10 per mission on success, but if unsuccessful can still earn 2-4 points</br>
+Governor: 1xp per hour</br>
+Exploring systems: 2 xp per hour</p>
 <h3 id="what-do-they-gain-when-they-level">What do they gain when they level?</h3>
 <p>One skill point, for descriptions of each skill see:
 <a href="https://asylamba.com/public/media/files/sources/siderian-myrmezir.png">Siderian</a>
@@ -340,7 +338,7 @@ Governor: 1xp per hour</p>
 <p>Each agent has a preferred skill and a second preferred. It has 47% chance to get a point in his first skill, 29% in the second skill and 6% in each other skills.</p>
 <h3 id="how-much-do-skills-like-knowledge-wisdom-and-finance-increase-resource-generation-in-the-system">How much do skills like knowledge wisdom and finance increase resource generation in the system?</h3>
 <p>5% multiplier for each rank</p>
-<h1 id="do-i-need-skill-points-in-order-to-perform-the-corresponding-action">Do I need skill points in order to perform the corresponding action?</h1>
+<h3 id="do-i-need-skill-points-in-order-to-perform-the-corresponding-action">Do I need skill points in order to perform the corresponding action?</h3>
 <p>Usually, yes. All of the Siderian skills and all of the Erased skills (other than infiltration), require a skill point to be able to perform the action. Navarch agents dont need the skill point if the fleet their commanding has the appropriate attributes (bombing or invasion power)</p>
 <h3 id="does-an-agents-favorite-faction-affect-anything">Does an agent&rsquo;s &ldquo;favorite faction&rdquo; affect anything?</h3>
 <p>not yet.. we want to use it to make easier seduction in certain case, but not implemented yet
@@ -349,7 +347,11 @@ Governor</p>
 <p>Goes back to your agent deck</p>
 <h3 id="which-actions-are-instantaneous-vs-which-ones-take-time">Which actions are instantaneous, vs which ones take time?</h3>
 <p>instantaneous actions are : fights / sabotage / assassination / seduction</p>
-<h2 id="market">Market</h2>
+<h3 id="how-is-maintenance-cost-calculated">How is maintenance cost calculated?</h3>
+<p>Agents upkeep is 10 per level</p>
+<h3 id="how-many-agents-can-i-have-in-my-deck-undeployed">How many agents can I have in my Deck (Undeployed)?</h3>
+<p>You can now have 15 agents in deck</p>
+<h2 id="agent-market">Agent Market</h2>
 <h3 id="is-the-agent-market-the-same-for-everyone">Is the agent market the same for everyone?</h3>
 <p>Yes, shared among all players in the game.</p>
 

@@ -9,9 +9,9 @@ description: >
 ---
 
 ### How do they gain experience?
-Missions:
-8 to 12 per mission depending on success but if unsuccessful can still earn 2-4 points
-Governor: 1xp per hour
+Missions: 10 per mission on success, but if unsuccessful can still earn 2-4 points</br>
+Governor: 1xp per hour</br>
+Exploring systems: 2 xp per hour
 
 ### What do they gain when they level?
 One skill point, for descriptions of each skill see:
@@ -24,7 +24,7 @@ Each agent has a preferred skill and a second preferred. It has 47% chance to ge
 ### How much do skills like knowledge wisdom and finance increase resource generation in the system?
 5% multiplier for each rank
 
-# Do I need skill points in order to perform the corresponding action?
+### Do I need skill points in order to perform the corresponding action?
 Usually, yes. All of the Siderian skills and all of the Erased skills (other than infiltration), require a skill point to be able to perform the action. Navarch agents dont need the skill point if the fleet their commanding has the appropriate attributes (bombing or invasion power)
 
 ### Does an agent's "favorite faction" affect anything?
@@ -37,6 +37,12 @@ Goes back to your agent deck
 ### Which actions are instantaneous, vs which ones take time?
 instantaneous actions are : fights / sabotage / assassination / seduction
 
-## Market
+### How is maintenance cost calculated?
+Agents upkeep is 10 per level
+
+### How many agents can I have in my Deck (Undeployed)?
+You can now have 15 agents in deck
+
+## Agent Market
 ### Is the agent market the same for everyone?
 Yes, shared among all players in the game.
