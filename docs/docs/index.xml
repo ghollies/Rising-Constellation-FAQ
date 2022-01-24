@@ -432,6 +432,7 @@ $1\|$2
 &lt;h4 id=&#34;flack&#34;&gt;Flack&lt;/h4&gt;
 &lt;p&gt;Chance to fully avoid the incoming explosive attack&lt;/p&gt;
 &lt;h3 id=&#34;what-are-the-base-stats-of-all-of-the-ships&#34;&gt;What are the base stats of all of the ships?&lt;/h3&gt;
+&lt;p&gt;As of 1/15/2022&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -449,7 +450,7 @@ $1\|$2
 &lt;th&gt;Explosive Attack&lt;/th&gt;
 &lt;th&gt;Repair&lt;/th&gt;
 &lt;th&gt;Invasion&lt;/th&gt;
-&lt;th&gt;Bombing&lt;/th&gt;
+&lt;th&gt;Bombing per ship&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -737,7 +738,7 @@ $1\|$2
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;[19|19]&lt;/td&gt;
-&lt;td&gt;[12]&lt;/td&gt;
+&lt;td&gt;[6|6]&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
@@ -754,7 +755,7 @@ $1\|$2
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;[19|19]&lt;/td&gt;
-&lt;td&gt;[12]&lt;/td&gt;
+&lt;td&gt;[6|6]&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
@@ -771,7 +772,7 @@ $1\|$2
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;[19|19]&lt;/td&gt;
-&lt;td&gt;[12]&lt;/td&gt;
+&lt;td&gt;[6|6]&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
@@ -881,10 +882,10 @@ $1\|$2
 &lt;tr&gt;
 &lt;td&gt;Colonisation Ship&lt;/td&gt;
 &lt;td&gt;transport&lt;/td&gt;
-&lt;td&gt;80000&lt;/td&gt;
-&lt;td&gt;3000&lt;/td&gt;
+&lt;td&gt;60000&lt;/td&gt;
+&lt;td&gt;15000&lt;/td&gt;
 &lt;td&gt;32000&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;400&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
@@ -955,8 +956,8 @@ $1\|$2
 &lt;td&gt;60&lt;/td&gt;
 &lt;td&gt;320&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[390]&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
@@ -972,8 +973,8 @@ $1\|$2
 &lt;td&gt;120&lt;/td&gt;
 &lt;td&gt;320&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;35&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[390]&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
@@ -1018,48 +1019,48 @@ $1\|$2
 &lt;td&gt;2 Repair Platforms&lt;/td&gt;
 &lt;td&gt;frigate&lt;/td&gt;
 &lt;td&gt;21600&lt;/td&gt;
-&lt;td&gt;2000&lt;/td&gt;
-&lt;td&gt;7840&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
-&lt;td&gt;1400&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;3000&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;td&gt;1500&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;70&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[16]&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4 Repair Platforms&lt;/td&gt;
 &lt;td&gt;frigate&lt;/td&gt;
 &lt;td&gt;43200&lt;/td&gt;
-&lt;td&gt;4000&lt;/td&gt;
-&lt;td&gt;15680&lt;/td&gt;
-&lt;td&gt;200&lt;/td&gt;
-&lt;td&gt;1400&lt;/td&gt;
+&lt;td&gt;1000&lt;/td&gt;
+&lt;td&gt;6000&lt;/td&gt;
+&lt;td&gt;150&lt;/td&gt;
+&lt;td&gt;1500&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;70&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[16]&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Destroyer&lt;/td&gt;
 &lt;td&gt;capital&lt;/td&gt;
 &lt;td&gt;103200&lt;/td&gt;
-&lt;td&gt;6000&lt;/td&gt;
+&lt;td&gt;12000&lt;/td&gt;
 &lt;td&gt;16240&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
+&lt;td&gt;800&lt;/td&gt;
 &lt;td&gt;4000&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;65&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;[60|60|60|60]&lt;/td&gt;
+&lt;td&gt;[60|60|60|60|60]&lt;/td&gt;
 &lt;td&gt;[45|45|45|100]&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;10&lt;/td&gt;
@@ -1069,15 +1070,15 @@ $1\|$2
 &lt;td&gt;Cruiser&lt;/td&gt;
 &lt;td&gt;capital&lt;/td&gt;
 &lt;td&gt;128000&lt;/td&gt;
-&lt;td&gt;8000&lt;/td&gt;
+&lt;td&gt;16000&lt;/td&gt;
 &lt;td&gt;19880&lt;/td&gt;
-&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1000&lt;/td&gt;
 &lt;td&gt;5000&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;50&lt;/td&gt;
 &lt;td&gt;70&lt;/td&gt;
-&lt;td&gt;[70|70]&lt;/td&gt;
-&lt;td&gt;[330]&lt;/td&gt;
+&lt;td&gt;[70|70|70]&lt;/td&gt;
+&lt;td&gt;[330|30|30]&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;15&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
@@ -1086,21 +1087,60 @@ $1\|$2
 &lt;td&gt;Coordinator&lt;/td&gt;
 &lt;td&gt;capital&lt;/td&gt;
 &lt;td&gt;166800&lt;/td&gt;
-&lt;td&gt;10000&lt;/td&gt;
+&lt;td&gt;20000&lt;/td&gt;
 &lt;td&gt;17456&lt;/td&gt;
-&lt;td&gt;600&lt;/td&gt;
+&lt;td&gt;1000&lt;/td&gt;
 &lt;td&gt;6000&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;td&gt;85&lt;/td&gt;
 &lt;td&gt;75&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
-&lt;td&gt;[20|20|20]&lt;/td&gt;
+&lt;td&gt;[20|20|20|20]&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
 &lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;!-- OLD --&gt;
+&lt;!-- |2 Scouts|fighter|900|0|120|1|12|90|0|0|[4]|[]|0|0|0|
+|4 Scouts|fighter|1800|0|232|2|12|90|0|0|[4]|[]|0|0|0|
+|8 Scouts|fighter|2900|0|472|4|12|90|0|0|[4]|[]|0|0|0|
+|16 Scouts|fighter|5800|0|944|8|12|90|0|0|[4]|[]|0|0|0|
+|2 Light Fighters|fighter|1400|0|352|8|25|65|10|0|[9\|9]|[3]|0|0|0|
+|4 Light Fighters|fighter|2700|25|704|16|25|65|10|0|[9\|9]|[3]|0|0|0|
+|8 Light Fighters|fighter|4300|50|1408|32|25|65|10|0|[9\|9]|[3]|0|0|0|
+|16 Light Fighters|fighter|8600|100|2824|64|25|65|10|0|[9\|9]|[3]|0|0|0|
+|2 Figheter-Bombers|fighter|1400|0|352|10|20|60|0|0|[]|[10]|0|0|1|
+|4 Figheter-Bombers|fighter|2700|25|704|20|20|60|0|0|[]|[10]|0|0|1|
+|8 Figheter-Bombers|fighter|4300|50|1408|40|20|60|0|0|[]|[10]|0|0|1|
+|16 Figheter-Bombers|fighter|8600|100|2824|80|20|60|0|0|[]|[10]|0|0|1|
+|2 Interceptors|fighter|1400|0|352|8|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
+|4 Interceptors|fighter|2700|25|704|16|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
+|8 Interceptors|fighter|4300|50|1408|32|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
+|16 Interceptors|fighter|8600|100|2824|64|25|75|0|0|[6\|6\|6\|6]|[]|0|0|0|
+|2 Light Corvettes|corvette|4300|80|1176|14|75|40|30|0|[19\|19]|[12]|0|0|2|
+|4 Light Corvettes|corvette|8600|160|2352|28|75|40|30|0|[19\|19]|[12]|0|0|2|
+|8 Light Corvettes|corvette|17300|320|4704|56|75|40|30|0|[19\|19]|[12]|0|0|2|
+|2 Heavy Corvettes|corvette|4300|100|1176|15|110|30|20|15|[]|[18]|0|0|3|
+|4 Heavy Corvettes|corvette|8600|200|2352|30|110|30|20|15|[]|[18]|0|0|3|
+|8 Heavy Corvettes|corvette|17300|400|4704|60|110|30|20|15|[]|[18]|0|0|3|
+|2 Multi-Turret Corvettes|corvette|8600|875|1426|30|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|4 Multi-Turret Corvettes|corvette|17300|1750|2852|60|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|8 Multi-Turret Corvettes|corvette|34600|3500|5704|120|335|20|10|7|[11\|11\|11\|11\|11\|11]|[]|0|0|0|
+|Colonisation Ship|transport|80000|3000|32000|100|400|0|10|10|[]|[]|0|0|0|
+|Carrier|transport|18000|3000|6720|300|800|30|50|5|[3\|3]|[]|5|25|0|
+|2 Assault Frigates|frigate|9200|200|3920|40|200|20|60|10|[26\|26]|[77]|0|2|0|
+|4 Assault Frigates|frigate|22000|400|7840|80|200|20|60|10|[26\|26]|[77]|0|2|0|
+|2 Gunners|frigate|21600|3000|3920|60|320|10|40|25|[]|[390]|0||8|
+|4 Gunners|frigate|43200|6000|7840|120|320|10|40|25|[]|[390]|0||8|
+|2 Drone Carriers|frigate|21600|2500|5880|100|950|20|65|30|[8\|8\|8\|8\|8\|8\|8\|8\|8\|8]|[]|2|0|2|
+|4 Drone Carriers|frigate|43200|5000|11760|200|950|20|65|30|[8\|8\|8\|8\|8\|8\|8\|8\|8\|8]|[]|2|0|2|
+|2 Repair Platforms|frigate|21600|2000|7840|100|1400|15|70|40|[]|[16]|30|1|0|
+|4 Repair Platforms|frigate|43200|4000|15680|200|1400|15|70|40|[]|[16]|30|1|0|
+|Destroyer|capital|103200|6000|16240|400|4000|0|65|40|[60\|60\|60\|60]|[45\|45\|45\|100]|15|10|5|
+|Cruiser|capital|128000|8000|19880|500|5000|0|50|70|[70\|70]|[330]|15|15|40|
+|Coordinator|capital|166800|10000|17456|600|6000|0|85|75|[]|[20\|20\|20]|40|30|0| --&gt;
 
       </description>
     </item>
