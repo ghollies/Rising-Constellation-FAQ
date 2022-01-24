@@ -3,13 +3,50 @@ title = "Rising Constellation FAQ"
 linkTitle = "Rising Constellation FAQ"
 
 +++
+<style>
+	*
+  {
+    background-image: url({{< baseurl "star-background.jpg" >}}) !important;
+  }
+</style>
+<script>
 
+// const RSS_URL = `https://store.steampowered.com/feeds/news/app/1393660`;
+
+// $.ajax(RSS_URL, {
+//   accepts: {
+//     xml: "application/rss+xml"
+//   },
+
+//   dataType: "xml",
+
+//   success: function(data) {
+//     $(data)
+//       .find("item")
+//       .each(function() {
+//         const el = $(this);
+
+//         const template = `
+//           <article>
+//             <h3>"${el.find("title").text()}</h3>
+//             <h4>${el
+//                 .find("description")
+//                 .text()}</h4>
+//           </article>
+//         `;
+
+//         document.body.insertAdjacentHTML("beforeend", template);
+//       });
+//   }
+// });
+</script>
 {{< blocks/cover title="Welcome to a fan made FAQ!" image_anchor="top" height="full" color="orange" >}}
 <div class="mx-auto">
 	<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
 		View the FAQ <i class="fas fa-arrow-alt-circle-right ml-2"></i>
 	</a>
 	<p class="lead mt-5">Work in progress!</p>
+	<!-- <div id="rssHere"></div> -->
 </div>
 {{< /blocks/cover >}}
 
