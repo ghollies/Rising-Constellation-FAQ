@@ -264,6 +264,8 @@ Morale resets at the end of each combat, so squadron are always back at full mor
 &lt;p&gt;It begins to reject all orders when on the market, but is still vulnerable to attack.&lt;/p&gt;
 &lt;h3 id=&#34;where-will-my-agent-appear&#34;&gt;Where will my agent appear?&lt;/h3&gt;
 &lt;p&gt;The agent will appear in your deck if being sold from the deck, or in the location they were put up for sale if they were deployed.&lt;/p&gt;
+&lt;h4 id=&#34;how-do-i-know-if-the-agent-i-am-buying-is-deployed-or-in-the-deck&#34;&gt;How do I know if the agent I am buying is deployed or in the deck?&lt;/h4&gt;
+&lt;p&gt;Erased and Siderian wil show their cover/rest meters if deployed, and a navarch will show their fleet.&lt;/p&gt;
 
       </description>
     </item>

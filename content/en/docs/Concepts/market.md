@@ -26,3 +26,5 @@ It begins to reject all orders when on the market, but is still vulnerable to at
 ### Where will my agent appear?
 The agent will appear in your deck if being sold from the deck, or in the location they were put up for sale if they were deployed.
 
+#### How do I know if the agent I am buying is deployed or in the deck?
+Erased and Siderian wil show their cover/rest meters if deployed, and a navarch will show their fleet.
