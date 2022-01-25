@@ -29,7 +29,9 @@ SLSD is like radar? It shows enemy fleet movement in range. Higher SLSD means th
 It makes actions performed by Erased and other agents more difficult
 
 ### What exactly does Cybersecurity do? {{< svg "cybersecurity.svg" >}}
-Inspects and removes enemy malware in the system, reducing enemy visibility. Each 100 points in cybersecurity removes malware at the rate of 1 per 12 hours. See [Infiltration](/docs/agents/erased/#infiltration) 
+Each system has a 20k gauge of cybersecurity. Each tick the cybersecurity score of a system fills in the gauge. When it reaches 20k it removes a random malware, from one faction only, reducing enemy visibility.</br>
+*Example*: In a Legacy game a system with 50 cybersecurity, will gain 1000 points/hours, so it will remove 1 malware, over 20 hours.</br>
+Also see [Infiltration](/docs/agents/erased/#infiltration) 
 
 
 ### Leaderboard  {{< svg "leaderboard.svg" >}}
