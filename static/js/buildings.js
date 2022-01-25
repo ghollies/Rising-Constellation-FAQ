@@ -111,14 +111,17 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
     i=0
     for (const i in data) {
         // console.log("building " + data[i].Name)
+        workforceLine = `<tr><td>Required Workers</td><td>${data[i]["workforce"]}</td><td></td><td></td><td></td><td></td></tr>`
+
         currentFn = data[i]["pf()"]
         prodCosts = fns[currentFn].map(item => {
             if(currentFn == "l2" || currentFn == "l0" ){
                 diff = data[i]["pmax"] - data[i]["pmin"]
                 ret = Number(data[i]["pmin"]) + (item * diff *.01)
-                return  ret.toFixed(0)
+                return  ret.toFixed(currentFn.slice(-1))
             }
-             return item * data[i].pmax * .01}
+             return (item * data[i].pmax * .01).toFixed(currentFn.slice(-1))
+            }
              )
         prodCosts[0]=Number(data[i].pmin)
 
@@ -127,9 +130,9 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
             if(currentFn == "l2" || currentFn == "l0" ){
                 diff = data[i]["cma"] - data[i]["cmin"]
                 ret = Number(data[i]["cmin"]) + (item * diff *.01)
-                return  ret.toFixed(0)
+                return  ret.toFixed(currentFn.slice(-1))
             }
-            return item * data[i].cma * .01
+            return (item * data[i].cma * .01).toFixed(currentFn.slice(-1))
         })
         creditCosts[0]=Number(data[i].cmin)
 
@@ -138,11 +141,11 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
             if(currentFn == "l2" || currentFn == "l0" ){
                 diff = data[i]["b1 max"] - data[i]["b1 min"]
                 ret = Number(data[i]["b1 min"]) + (item * diff *.01)
-                return  ret.toFixed(1)
+                return ret.toFixed(currentFn.slice(-1))
             }
-            return (item *Number( data[i]["b1 max"]) * .01).toFixed(1)
+            return (item *Number( data[i]["b1 max"]) * .01).toFixed(currentFn.slice(-1))
         })
-        b1[0] = data[i]["b1 min"]
+        b1[0] = Number(data[i]["b1 min"]).toFixed(currentFn.slice(-1))
         b1Line = `<tr><td>+${getIcon(data[i]["b1 output"])}  =  ${getIcon(data[i]["b1 input"])} * </td><td>${b1[0]}</td><td>${b1[1]}</td><td>${b1[2]}</td><td>${b1[3]}</td><td>${b1[4]}</td></tr>`
         currentFn = data[i]["b2 f()"]
         if(currentFn != ''){
@@ -154,11 +157,11 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
                     ret = Number(data[i]["b2 min"]) + (item * diff *.01)
                     // console.log("ret " + ret)
 
-                    return  ret.toFixed(1)
+                    return  ret.toFixed(currentFn.slice(-1))
                 }
-                return (item *Number( data[i]["b2 max"]) * .01).toFixed(1)
+                return (item *Number( data[i]["b2 max"]) * .01).toFixed(currentFn.slice(-1))
             })
-            b2[0] = data[i]["b2 min"]
+            b2[0] = Number(data[i]["b2 min"]).toFixed(currentFn.slice(-1))
             b2Line=`<tr><td>+${getIcon(data[i]["b2 output"])}  =  ${getIcon(data[i]["b2 input"])} * </td><td>${b2[0]}</td><td>${b2[1]}</td><td>${b2[2]}</td><td>${b2[3]}</td><td>${b2[4]}</td></tr>`
          } else {
              b2Line =""
@@ -173,11 +176,11 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
                     ret = Number(data[i]["b3 min"]) + (item * diff *.01)
                     // console.log("ret " + ret)
 
-                    return  ret.toFixed(1)
+                    return ret.toFixed(currentFn.slice(-1))
                 }
-                return (item *Number( data[i]["b3 max"]) * .01).toFixed(1)
+                return (item *Number( data[i]["b3 max"]) * .01).toFixed(currentFn.slice(-1))
             })
-            b3[0] = data[i]["b3 min"]
+            b3[0] = Number(data[i]["b3 min"]).toFixed(currentFn.slice(-1))
             b3Line = `<tr><td>+${getIcon(data[i]["b3 output"])}  =  ${getIcon(data[i]["b3 input"])} * </td><td>${b3[0]}</td><td>${b3[1]}</td><td>${b3[2]}</td><td>${b3[3]}</td><td>${b3[4]}</td></tr> `
         } else {
             b3Line = ""
@@ -193,11 +196,11 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
                     ret = Number(data[i]["b4 min"]) + (item * diff *.01)
                     // console.log("ret " + ret)
 
-                    return  ret.toFixed(1)
+                    return  ret.toFixed(currentFn.slice(-1))
                 }
-                return (item *Number( data[i]["b4 max"]) * .01).toFixed(1)
+                return (item *Number( data[i]["b4 max"]) * .01).toFixed(currentFn.slice(-1))
             })
-            b4[0] = data[i]["b4 min"]
+            b4[0] = Number(data[i]["b4 min"]).toFixed(currentFn.slice(-1))
             b4Line = `<tr><td>+${getIcon(data[i]["b4 output"])}  =  ${getIcon(data[i]["b4 input"])} * </td><td>${b4[0]}</td><td>${b4[1]}</td><td>${b4[2]}</td><td>${b4[3]}</td><td>${b4[4]}</td></tr> `
         } else {
             b4Line = ""
@@ -226,6 +229,7 @@ $.getJSON('/Rising-Constellation-FAQ/building-full.json', function(dataRaw) {
             </tr>
         </tbody>
     <tbody class="hide" style="display: none">
+    ${workforceLine}
     <tr><td>Production cost</td><td>${prodCosts[0]}</td><td>${prodCosts[1]}</td><td>${prodCosts[2]}</td><td>${prodCosts[3]}</td><td>${prodCosts[4]}</td></tr>
     <tr><td>Credit cost</td><td>${creditCosts[0]}</td><td>${creditCosts[1]}</td><td>${creditCosts[2]}</td><td>${creditCosts[3]}</td><td>${creditCosts[4]}</td></tr>
     ${b1Line}
