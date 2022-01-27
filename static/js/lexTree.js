@@ -7,7 +7,7 @@ var edgesInGraph = []
 
 for (const i in dataRaw) {
     console.log(dataRaw[i]) 
-    nodesInGraph.push({ data: {id: dataRaw[i]["key"]}})
+    nodesInGraph.push({ data: {id: dataRaw[i]["key"],name: dataRaw[i]["Name"]}})
     edgesInGraph.push( { data: { source: dataRaw[i]["ancestor"], target: dataRaw[i]["key"] } })
 
 }
@@ -23,15 +23,15 @@ var cy = window.cy = cytoscape({
         selector: 'node',
         css: {
             
-          'content': 'data(id)',
+          'content': 'data(name)',
           'text-valign': 'center',
           'text-halign': 'center',
-          'height': '6em',
-          'width': '6em',
-          'shape': "hexagon",
+          'height': '4em',
+          'width': '20em',
+          'shape': "ellipse",
           'border-color': 'black',
           'border-opacity': '1',
-          'border-width': '5px'
+          'border-width': '.5px'
         }
       },
       {
@@ -111,6 +111,10 @@ var cy = window.cy = cytoscape({
     //   padding: 5
     }
   });
+  cy.nodes().ungrabify()
+  cy.maxZoom( 1 )
+  // cy.minZoom( 5)
+
 function aaa(){
   console.log("before")
 //   window.addEventListener('DOMContentLoaded', function(){
