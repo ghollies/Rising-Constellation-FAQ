@@ -7,14 +7,29 @@ var edgesInGraph = []
 
 for (const i in dataRaw) {
     console.log(dataRaw[i]) 
-    nodesInGraph.push({ data: {id: dataRaw[i]["key"],name: dataRaw[i]["Name"]}})
+    nodesInGraph.push({
+      data: {
+        id: dataRaw[i]["key"],
+        name: dataRaw[i]["Name"],
+        cost: dataRaw[i]["cost"],
+        bonuses:[ 
+          dataRaw[i]["bonus1"],
+          dataRaw[i]["bonus2"],
+          dataRaw[i]["bonus3"],
+          dataRaw[i]["bonus4"],
+          dataRaw[i]["bonus5"],
+          dataRaw[i]["bonus6"]]
+        }})
     edgesInGraph.push( { data: { source: dataRaw[i]["ancestor"], target: dataRaw[i]["key"] } })
 
 }
+var numSelected = 0
 
 var cy = window.cy = cytoscape({
     container: document.getElementById('cy'),
-  
+    // zoom: 3,
+    wheelSensitivity : .2,
+
     boxSelectionEnabled: false,
     autounselectify: true,
   
@@ -26,10 +41,14 @@ var cy = window.cy = cytoscape({
           'content': 'data(name)',
           'text-valign': 'center',
           'text-halign': 'center',
-          'height': '4em',
-          'width': '20em',
+          'height': '7em',
+          'width': '7em',
+          'text-max-width': "10",
+          'text-wrap': 'wrap',
           'shape': "ellipse",
+          'background-color': 'lightgray',
           'border-color': 'black',
+
           'border-opacity': '1',
           'border-width': '.5px'
         }
@@ -65,45 +84,9 @@ var cy = window.cy = cytoscape({
   
     elements: {
               nodes: nodesInGraph,
-            //   [
-            //     { data: { id: 'n0' } },
-            //     { data: { id: 'n1' } },
-            //     { data: { id: 'n2' } },
-            //     { data: { id: 'n3' } },
-            //     { data: { id: 'n4' } },
-            //     { data: { id: 'n5' } },
-            //     { data: { id: 'n6' } },
-            //     { data: { id: 'n7' } },
-            //     { data: { id: 'n8' } },
-            //     { data: { id: 'n9' } },
-            //     { data: { id: 'n10' } },
-            //     { data: { id: 'n11' } },
-            //     { data: { id: 'n12' } },
-            //     { data: { id: 'n13' } },
-            //     { data: { id: 'n14' } },
-            //     { data: { id: 'n15' } },
-            //     { data: { id: 'n16' } }
-            //   ],
+           
               edges: edgesInGraph,
-            //    [
-            //     { data: { source: 'n0', target: 'n1' } },
-            //     { data: { source: 'n1', target: 'n2' } },
-            //     { data: { source: 'n1', target: 'n3' } },
-            //     { data: { source: 'n2', target: 'n7' } },
-            //     { data: { source: 'n2', target: 'n11' } },
-            //     { data: { source: 'n2', target: 'n16' } },
-            //     { data: { source: 'n3', target: 'n4' } },
-            //     { data: { source: 'n3', target: 'n16' } },
-            //     { data: { source: 'n4', target: 'n5' } },
-            //     { data: { source: 'n4', target: 'n6' } },
-            //     { data: { source: 'n6', target: 'n8' } },
-            //     { data: { source: 'n8', target: 'n9' } },
-            //     { data: { source: 'n8', target: 'n10' } },
-            //     { data: { source: 'n11', target: 'n12' } },
-            //     { data: { source: 'n12', target: 'n13' } },
-            //     { data: { source: 'n13', target: 'n14' } },
-            //     { data: { source: 'n13', target: 'n15' } },
-            //   ]
+           
             },
   
     layout: {
@@ -113,80 +96,79 @@ var cy = window.cy = cytoscape({
   });
   cy.nodes().ungrabify()
   cy.maxZoom( 1 )
-  // cy.minZoom( 5)
+  cy.minZoom( .4)
 
-function aaa(){
-  console.log("before")
-//   window.addEventListener('DOMContentLoaded', function(){
-    console.log("after")
-    var cy = window.cy = cytoscape({
-      container: document.getElementById('cy'),
+  var hoverElement = document.createElement('div');
 
-      boxSelectionEnabled: false,
-      autounselectify: true,
+  cy.on('click', 'node', function(event) {
+    var node = event.target;
+    if(node.data("selected")){
+      node.style({
+        'background-color': 'lightgray',
+        'border-color': 'black',
+      });
+      node.data("selected", false)
+      numSelected--
+    } else {
+      node.style({
+        'background-color': 'lightblue',
+        'border-color': 'green'
+      });
+      node.data("selected", true)
+      numSelected++
+    }
+  });
+  
+  
 
-      layout: {
-        name: 'dagre'
-      },
+  cy.on('mouseout', 'node', function(event) {
+    // console.log(event)
+    hoverElement.remove()
+  });
+  
+  cy.on('mouseover', 'node', function(event) {
+    var node = event.target;
 
-      style: [
-        {
-          selector: 'node',
-          style: {
-            'background-color': '#11479e'
-          }
-        },
+    node.popper({
+      content: () => {
+        hoverElement.remove()
+        hoverElement = document.createElement('div');
+        hoverElement.style.backgroundColor = "black"
+        hoverElement.style.color = "white"
+        hoverElement.style.zIndex = "99999"
 
-        {
-          selector: 'edge',
-          style: {
-            'width': 4,
-            'target-arrow-shape': 'triangle',
-            'line-color': '#9dbaea',
-            'target-arrow-color': '#9dbaea',
-            'curve-style': 'bezier'
+       $(hoverElement).append(`
+        <h1>${node.data("name")}</h1>
+        <h4>Base Cost: ${node.data("cost")}</h1>
+        <h4>Current Cost: ${node.data("cost") * ((100 + (numSelected * 50)) * .01)}</h1>
+
+        `)
+        for (const i in node.data("bonuses")) {
+          if(node.data("bonuses")[i] != ""){
+            $(hoverElement).append(`<h4>${node.data("bonuses")[i]}</h4>`)
           }
         }
-      ],
-
-      elements: {
-        nodes: [
-          { data: { id: 'n0' } },
-          { data: { id: 'n1' } },
-          { data: { id: 'n2' } },
-          { data: { id: 'n3' } },
-          { data: { id: 'n4' } },
-          { data: { id: 'n5' } },
-          { data: { id: 'n6' } },
-          { data: { id: 'n7' } },
-          { data: { id: 'n8' } },
-          { data: { id: 'n9' } },
-          { data: { id: 'n10' } },
-          { data: { id: 'n11' } },
-          { data: { id: 'n12' } },
-          { data: { id: 'n13' } },
-          { data: { id: 'n14' } },
-          { data: { id: 'n15' } },
-          { data: { id: 'n16' } }
-        ],
-        edges: [
-          { data: { source: 'n0', target: 'n1' } },
-          { data: { source: 'n1', target: 'n2' } },
-          { data: { source: 'n1', target: 'n3' } },
-          { data: { source: 'n4', target: 'n5' } },
-          { data: { source: 'n4', target: 'n6' } },
-          { data: { source: 'n6', target: 'n7' } },
-          { data: { source: 'n6', target: 'n8' } },
-          { data: { source: 'n8', target: 'n9' } },
-          { data: { source: 'n8', target: 'n10' } },
-          { data: { source: 'n11', target: 'n12' } },
-          { data: { source: 'n12', target: 'n13' } },
-          { data: { source: 'n13', target: 'n14' } },
-          { data: { source: 'n13', target: 'n15' } },
-        ]
-      }
+        document.body.appendChild(hoverElement);
+    
+        return hoverElement;
+      },
+      popper: {} // my popper options here
     });
-  }
+});
+
+  // let popper1 = cy.nodes()[0].popper({
+  //   content: () => {
+  //     let div = document.createElement('div');
+  
+  //     div.innerHTML = 'Popper content';
+  
+  //     document.body.appendChild(div);
+  
+  //     return div;
+  //   },
+  //   popper: {} // my popper options here
+  // });
+
   $("#cy").css("position","relative")
   console.log("ending")
 });
