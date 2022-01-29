@@ -37,5 +37,7 @@ description: >
       } */
     </style>
 
+<div id="multiplier">Multiplier: 100%</div>
+<div id="spent"></div>
 <div id="cy"></div>
 </div>

@@ -1,3 +1,63 @@
+
+iconMap = {
+  ":sys_technology":"tech_resource.svg",
+  ":sys_ideology":"ideo_resource.svg",
+  ":sys_credit":"credit.svg",
+  ":sys_production" : "production.svg",
+  ":sys_habitation" : "housing_resource.svg",
+  ":sys_mobility" : "mobility.svg",
+  ":sys_happiness" : "stability.svg",
+  ":sys_defense": "defense.svg",
+  ":sys_pop": "system_population.svg",
+  ":body_tec":"system_tech.svg",
+  ":body_act":"system_appeal.svg",
+  ":body_pop":"population.svg",
+  ":body_ind":"system_prod.svg",
+  ":sys_ci":"intelligence.svg",
+  ":sys_fighter_lvl" : "Fighter Experience",
+  ":sys_corvette_lvl" : "Corvette Experience",
+  ":sys_frigate_lvl" : "Frigate Experience",
+  ":sys_capital_lvl" : "Capital Ship Experience",
+  ":sys_remove_contact": "cybersecurity.svg",
+  ":sys_radar" : "slsd.svg",
+  ":direct":"",
+  ":add":"  ",
+  ":mul":" * ",
+
+  ":player_spy":" Erased Slots",
+  ":player_admiral":" Navarch Slots",
+  ":player_speaker":" Siderian Slot",
+  ":player_system":" System Slot",
+  ":player_dominion":" Dominion Slot",
+  ":dominion_rate":" Dominion Income Rate",
+
+
+  ":player_credit":"credit.svg",
+
+  ":player_ideology":"ideo_resource.svg",
+  ":player_technology":"tech_resource.svg",
+  ":spy_assassination" :"agents/removal.svg",
+  ":spy_infiltrate" :"agents/infiltrate.svg",
+  ":spy_sabotage" :"Erased Sabotage Skill",
+  ":army_maintenance":" Fleet Maintenance Cost",
+  ":army_raid":"agents/bombing.svg",
+  ":speaker_make_dominion":" Siderian Propaganda Skill", 
+  ":speaker_encourage_hate":" Siderian Destabilization Skill", 
+  }
+function getEle(ele){
+  var eleVal = iconMap[ele]
+  if(eleVal != undefined && eleVal.includes(".svg")){
+    return  `<img style="background:black" src="/Rising-Constellation-FAQ/images/svg/${eleVal}"/>`
+  }
+//   return  `<img style="background:black" src="/images/svg/${imageFile}"/>`
+return (eleVal == undefined ? ele : eleVal)
+
+}
+function convertBonus(bonusLine){
+  var bonusElements = bonusLine.split(",");
+  return getEle(bonusElements[3]) + " + ( " + getEle(bonusElements[0]) + getEle(bonusElements[2]) + getEle(bonusElements[1]) + ")"
+}
+
 $.getJSON('/Rising-Constellation-FAQ/lexes-115.json', function(dataRaw) {
 var nodesInGraph = []
             //     { data: { id: 'n0' } },
@@ -29,6 +89,7 @@ var cy = window.cy = cytoscape({
     container: document.getElementById('cy'),
     // zoom: 3,
     wheelSensitivity : .2,
+    pan: { x: 0, y: 10000 },
 
     boxSelectionEnabled: false,
     autounselectify: true,
@@ -84,9 +145,7 @@ var cy = window.cy = cytoscape({
   
     elements: {
               nodes: nodesInGraph,
-           
               edges: edgesInGraph,
-           
             },
   
     layout: {
@@ -109,6 +168,7 @@ var cy = window.cy = cytoscape({
       });
       node.data("selected", false)
       numSelected--
+      $("#multiplier").text("Multiplier: "+ (100+(numSelected*50)) + "%")
     } else {
       node.style({
         'background-color': 'lightblue',
@@ -116,6 +176,7 @@ var cy = window.cy = cytoscape({
       });
       node.data("selected", true)
       numSelected++
+      $("#multiplier").text("Multiplier: "+ (100+(numSelected*50)) + "%")
     }
   });
   
@@ -141,11 +202,11 @@ var cy = window.cy = cytoscape({
         <h1>${node.data("name")}</h1>
         <h4>Base Cost: ${node.data("cost")}</h1>
         <h4>Current Cost: ${node.data("cost") * ((100 + (numSelected * 50)) * .01)}</h1>
-
         `)
         for (const i in node.data("bonuses")) {
           if(node.data("bonuses")[i] != ""){
-            $(hoverElement).append(`<h4>${node.data("bonuses")[i]}</h4>`)
+            $(hoverElement).append(`<h4>${convertBonus(node.data("bonuses")[i])}</h4>`)
+            // $(hoverElement).append(`<h4>${node.data("bonuses")[i]}</h4>`)
           }
         }
         document.body.appendChild(hoverElement);
