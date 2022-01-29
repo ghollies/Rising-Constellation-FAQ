@@ -2,12 +2,7 @@ baseURL = "/Rising-Constellation-FAQ/"
 #baseURL = "/"
 # hugo server -b "http://localhost:1313/Rising-Constellation-FAQ/" -D
 
-
-
 # TODO
-# building income
-# lex cost/calculator by input multiplier
-#
 #
 #
 
