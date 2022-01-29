@@ -9,7 +9,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "0",
-		"comment": ""
+		"comment": "",
+		"Name": "Hologaphic Storage System"
 	},
 	{
 		"key": ":infra_open_1",
@@ -21,7 +22,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "1",
-		"comment": ""
+		"comment": "",
+		"Name": "Urbanization"
 	},
 	{
 		"key": ":open_industries",
@@ -33,7 +35,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Cookie-Cutter Cities"
 	},
 	{
 		"key": ":open_research",
@@ -45,7 +48,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Z-Poly Coils"
 	},
 	{
 		"key": ":open_intel",
@@ -57,7 +61,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "6",
-		"comment": ""
+		"comment": "",
+		"Name": "Drone Swarms"
 	},
 	{
 		"key": ":infra_open_2",
@@ -69,7 +74,8 @@
 		"info": ":infra_open_2",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Urbanization II"
 	},
 	{
 		"key": ":open_ideo",
@@ -81,7 +87,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Floating Gardens"
 	},
 	{
 		"key": ":infra_open_3",
@@ -93,7 +100,8 @@
 		"info": ":infra_open_3",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Urbanization III"
 	},
 	{
 		"key": ":open_defense",
@@ -105,7 +113,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Extended Magnetic Generators"
 	},
 	{
 		"key": ":infra_open_4",
@@ -117,7 +126,8 @@
 		"info": ":infra_open_4",
 		"": "",
 		"tier": "6",
-		"comment": ""
+		"comment": "",
+		"Name": "Urbanization IV"
 	},
 	{
 		"key": ":infra_open_5",
@@ -129,7 +139,8 @@
 		"info": ":infra_open_5",
 		"": "",
 		"tier": "7",
-		"comment": ""
+		"comment": "",
+		"Name": "Urbanization V"
 	},
 	{
 		"key": ":open_credit",
@@ -141,7 +152,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Publicity Terminals"
 	},
 	{
 		"key": ":open_island",
@@ -153,7 +165,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Floating Cities"
 	},
 	{
 		"key": ":open_lift",
@@ -165,7 +178,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Nanotubes"
 	},
 	{
 		"key": ":open_happiness",
@@ -177,7 +191,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Climate Control"
 	},
 	{
 		"key": ":open_mobility",
@@ -189,7 +204,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Luxury Architecture"
 	},
 	{
 		"key": ":infra_dome_1",
@@ -201,7 +217,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "1",
-		"comment": ""
+		"comment": "",
+		"Name": "Controled Environment"
 	},
 	{
 		"key": ":dome_pop",
@@ -213,7 +230,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Pressurized Cities"
 	},
 	{
 		"key": ":dome_happiness",
@@ -225,7 +243,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Holograms"
 	},
 	{
 		"key": ":dome_ideo",
@@ -237,7 +256,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Monumental Architecture"
 	},
 	{
 		"key": ":infra_dome_2",
@@ -249,7 +269,8 @@
 		"info": ":infra_dome_2",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Controled Environment II"
 	},
 	{
 		"key": ":dome_defense_1",
@@ -261,7 +282,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Autonomous Drills"
 	},
 	{
 		"key": ":infra_dome_3",
@@ -273,7 +295,8 @@
 		"info": ":infra_dome_3",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Controled Environment III"
 	},
 	{
 		"key": ":dome_defense_2",
@@ -285,7 +308,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Quantum Cryptography"
 	},
 	{
 		"key": ":infra_dome_4",
@@ -297,7 +321,8 @@
 		"info": ":infra_dome_4",
 		"": "",
 		"tier": "6",
-		"comment": ""
+		"comment": "",
+		"Name": "Controled Environment IV"
 	},
 	{
 		"key": ":infra_dome_5",
@@ -309,7 +334,8 @@
 		"info": ":infra_dome_5",
 		"": "",
 		"tier": "7",
-		"comment": ""
+		"comment": "",
+		"Name": "Controled Environment V"
 	},
 	{
 		"key": ":dome_mobility",
@@ -321,7 +347,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Magnetic Cranes"
 	},
 	{
 		"key": ":dome_academy",
@@ -333,7 +360,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Neural Derivations"
 	},
 	{
 		"key": ":dome_industries",
@@ -345,7 +373,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Advanced Catalysis"
 	},
 	{
 		"key": ":orbital_credit",
@@ -357,7 +386,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "1",
-		"comment": ""
+		"comment": "",
+		"Name": "Magnetic Pipelines"
 	},
 	{
 		"key": ":orbital_defense",
@@ -369,7 +399,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Signature Reduction"
 	},
 	{
 		"key": ":orbital_prod",
@@ -381,7 +412,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Crystal Shell"
 	},
 	{
 		"key": ":orbital_radar",
@@ -393,7 +425,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "S.L.S.D. Captors"
 	},
 	{
 		"key": ":infra_orbital_2",
@@ -405,7 +438,8 @@
 		"info": ":infra_orbital_2",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Pressurized Environments II"
 	},
 	{
 		"key": ":infra_orbital_3",
@@ -417,7 +451,8 @@
 		"info": ":infra_orbital_3",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Pressurized Environments III"
 	},
 	{
 		"key": ":infra_orbital_4",
@@ -429,7 +464,8 @@
 		"info": ":infra_orbital_4",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Pressurized Environments IV"
 	},
 	{
 		"key": ":infra_orbital_5",
@@ -441,7 +477,8 @@
 		"info": ":infra_orbital_5",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Pressurized Environments V"
 	},
 	{
 		"key": ":orbital_research",
@@ -453,7 +490,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Exobiology"
 	},
 	{
 		"key": ":orbital_happiness",
@@ -465,7 +503,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Gravity Generator"
 	},
 	{
 		"key": ":orbital_mobility",
@@ -477,7 +516,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Secured Habitations"
 	},
 	{
 		"key": ":shipyard_1",
@@ -489,7 +529,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "1",
-		"comment": ""
+		"comment": "",
+		"Name": "Assembly Lines"
 	},
 	{
 		"key": ":fighter_2",
@@ -501,7 +542,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Light Fuselage"
 	},
 	{
 		"key": ":fighter_4",
@@ -513,7 +555,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Compact Turrets"
 	},
 	{
 		"key": ":fighter_3",
@@ -525,7 +568,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Reinforced Fuselage"
 	},
 	{
 		"key": ":merge_fighter_1",
@@ -537,7 +581,8 @@
 		"info": ":merge_fighter_1",
 		"": "",
 		"tier": "2",
-		"comment": ""
+		"comment": "",
+		"Name": "Fighter Formation I"
 	},
 	{
 		"key": ":shipyard_2",
@@ -549,7 +594,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "3",
-		"comment": ""
+		"comment": "",
+		"Name": "Precision Cranes "
 	},
 	{
 		"key": ":merge_fighter_2",
@@ -561,7 +607,8 @@
 		"info": ":merge_fighter_2",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Fighter Formation II"
 	},
 	{
 		"key": ":merge_corvette_1",
@@ -573,7 +620,8 @@
 		"info": ":merge_corvette_1",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Corvette Formation I "
 	},
 	{
 		"key": ":shipyard_3",
@@ -585,7 +633,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "6",
-		"comment": ""
+		"comment": "",
+		"Name": "Orbital Holds"
 	},
 	{
 		"key": ":frigate_4",
@@ -597,7 +646,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "7",
-		"comment": ""
+		"comment": "",
+		"Name": "Repair Bay"
 	},
 	{
 		"key": ":frigate_3",
@@ -609,7 +659,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "8",
-		"comment": ""
+		"comment": "",
+		"Name": "Military Drones"
 	},
 	{
 		"key": ":transport_2",
@@ -621,7 +672,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "7",
-		"comment": ""
+		"comment": "",
+		"Name": "Carrier"
 	},
 	{
 		"key": ":frigate_2",
@@ -633,7 +685,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "8",
-		"comment": ""
+		"comment": "",
+		"Name": "Hypersonic Chargelauncher"
 	},
 	{
 		"key": ":merge_fighter_3",
@@ -645,7 +698,8 @@
 		"info": ":merge_fighter_3",
 		"": "",
 		"tier": "7",
-		"comment": ""
+		"comment": "",
+		"Name": "Fighter Formation III"
 	},
 	{
 		"key": ":merge_corvette_2",
@@ -657,7 +711,8 @@
 		"info": ":merge_corvette_2",
 		"": "",
 		"tier": "8",
-		"comment": ""
+		"comment": "",
+		"Name": "Corvette Formation II"
 	},
 	{
 		"key": ":shipyard_4",
@@ -669,7 +724,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "9",
-		"comment": ""
+		"comment": "",
+		"Name": "Space Hyperstructures"
 	},
 	{
 		"key": ":capital_1",
@@ -681,7 +737,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "10",
-		"comment": ""
+		"comment": "",
+		"Name": "Armoring"
 	},
 	{
 		"key": ":capital_2",
@@ -693,7 +750,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "11",
-		"comment": ""
+		"comment": "",
+		"Name": "Advanced Armoring"
 	},
 	{
 		"key": ":merge_frigate_1",
@@ -705,7 +763,8 @@
 		"info": ":merge_frigate_1",
 		"": "",
 		"tier": "10",
-		"comment": ""
+		"comment": "",
+		"Name": "Frigate Formation I"
 	},
 	{
 		"key": ":capital_3",
@@ -717,7 +776,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "10",
-		"comment": ""
+		"comment": "",
+		"Name": "Multifunctional Nodes"
 	},
 	{
 		"key": ":corvette_1",
@@ -729,7 +789,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Light Nodal Fuselage"
 	},
 	{
 		"key": ":corvette_2",
@@ -741,7 +802,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "4",
-		"comment": ""
+		"comment": "",
+		"Name": "Nodal Fuselage"
 	},
 	{
 		"key": ":corvette_3",
@@ -753,7 +815,8 @@
 		"info": "nil",
 		"": "",
 		"tier": "5",
-		"comment": ""
+		"comment": "",
+		"Name": "Auto-Aim"
 	},
 	{
 		"key": ":transport_1",
@@ -765,6 +828,7 @@
 		"info": "nil",
 		"": "",
 		"tier": "1",
-		"comment": ""
+		"comment": "",
+		"Name": "Hypersleep Chamber"
 	}
 ]

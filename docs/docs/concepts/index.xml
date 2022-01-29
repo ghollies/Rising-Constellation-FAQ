@@ -355,6 +355,8 @@ Morale resets at the end of each combat, so squadron are always back at full mor
         font-size: 1em;
       } */
     &lt;/style&gt;
+&lt;div id=&#34;multiplier&#34;&gt;Cost Multiplier: 100%&lt;/div&gt;
+&lt;div id=&#34;spent&#34;&gt;Total Spent: 0&lt;/div&gt;
 &lt;div id=&#34;cy&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 

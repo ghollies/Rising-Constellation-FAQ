@@ -36,6 +36,7 @@ description: >
         font-size: 1em;
       } */
     </style>
-
+<div id="multiplier">Cost Multiplier: 100%</div>
+<div id="spent">Total Spent: 0</div>
 <div id="cy"></div>
 </div>
