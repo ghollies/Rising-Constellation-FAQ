@@ -1218,7 +1218,6 @@ $1\|$2
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/popper.js@1.14.5/dist/umd/popper.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/cytoscape-popper@1.0.2/cytoscape-popper.min.js&#34;&gt;&lt;/script&gt;
 &lt;script defer language=&#34;javascript&#34; type=&#34;text/javascript&#34; src=&#34;/Rising-Constellation-FAQ/js/lexTree.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;details-coming-soon&#34;&gt;Details Coming soon!&lt;/h3&gt;
 &lt;div&gt;
     &lt;style&gt;
       /* body {
@@ -1238,8 +1237,8 @@ $1\|$2
         font-size: 1em;
       } */
     &lt;/style&gt;
-&lt;div id=&#34;multiplier&#34;&gt;Multiplier: 100%&lt;/div&gt;
-&lt;div id=&#34;spent&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;multiplier&#34;&gt;Cost Multiplier: 100%&lt;/div&gt;
+&lt;div id=&#34;spent&#34;&gt;Total Spent: 0&lt;/div&gt;
 &lt;div id=&#34;cy&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 

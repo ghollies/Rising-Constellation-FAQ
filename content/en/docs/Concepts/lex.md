@@ -15,8 +15,6 @@ description: >
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.5/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/cytoscape-popper@1.0.2/cytoscape-popper.min.js"></script>
 <script defer language="javascript" type="text/javascript" src="/js/lexTree.js"></script>
-
-### Details Coming soon!
 <div>
     <style>
       /* body {
@@ -37,7 +35,7 @@ description: >
       } */
     </style>
 
-<div id="multiplier">Multiplier: 100%</div>
-<div id="spent"></div>
+<div id="multiplier">Cost Multiplier: 100%</div>
+<div id="spent">Total Spent: 0</div>
 <div id="cy"></div>
 </div>

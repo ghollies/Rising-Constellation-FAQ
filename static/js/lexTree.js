@@ -44,6 +44,9 @@ iconMap = {
   ":speaker_make_dominion":" Siderian Propaganda Skill", 
   ":speaker_encourage_hate":" Siderian Destabilization Skill", 
   }
+function getCurrentCost(node, numSelected){
+  return node.data("cost") * ((100 + (numSelected * 50)) * .01)
+}
 function getEle(ele){
   var eleVal = iconMap[ele]
   if(eleVal != undefined && eleVal.includes(".svg")){
@@ -57,7 +60,24 @@ function convertBonus(bonusLine){
   var bonusElements = bonusLine.split(",");
   return getEle(bonusElements[3]) + " + ( " + getEle(bonusElements[0]) + getEle(bonusElements[2]) + getEle(bonusElements[1]) + ")"
 }
+function validateClick(node){
+  if(node.data("selected")){
+    for (child in node.outgoers().targets()) { 
+      if(node.outgoers().targets()[child].data != undefined && node.outgoers().targets()[child].data("selected")){
+        return false
+      }
+    }  
+  } else {
+    console.log(node.parent())
+    for (parent in node.incomers().sources()) {
+      if(node.incomers().sources()[parent].data != undefined && !node.incomers().sources()[parent].data("selected")){
+        return false
+      }
+    }
 
+  }
+  return true;
+}
 $.getJSON('/Rising-Constellation-FAQ/lexes-115.json', function(dataRaw) {
 var nodesInGraph = []
             //     { data: { id: 'n0' } },
@@ -161,22 +181,30 @@ var cy = window.cy = cytoscape({
 
   cy.on('click', 'node', function(event) {
     var node = event.target;
+    if ( !validateClick(node)){
+      return;
+    }
     if(node.data("selected")){
       node.style({
         'background-color': 'lightgray',
         'border-color': 'black',
       });
       node.data("selected", false)
+      currentSpent=Number($("#spent").text().split(": ")[1])
+      $("#spent").text("Total Spent: " + (currentSpent - node.data("purchaseCost")))
       numSelected--
-      $("#multiplier").text("Multiplier: "+ (100+(numSelected*50)) + "%")
+      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*50)) + "%")
     } else {
       node.style({
         'background-color': 'lightblue',
         'border-color': 'green'
       });
       node.data("selected", true)
+      currentSpent=Number($("#spent").text().split(": ")[1])
+      node.data("purchaseCost", getCurrentCost(node, numSelected))
+      $("#spent").text("Total Spent: " + (currentSpent + getCurrentCost(node, numSelected)))
       numSelected++
-      $("#multiplier").text("Multiplier: "+ (100+(numSelected*50)) + "%")
+      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*50)) + "%")
     }
   });
   
@@ -200,9 +228,15 @@ var cy = window.cy = cytoscape({
 
        $(hoverElement).append(`
         <h1>${node.data("name")}</h1>
-        <h4>Base Cost: ${node.data("cost")}</h1>
-        <h4>Current Cost: ${node.data("cost") * ((100 + (numSelected * 50)) * .01)}</h1>
+        <h4>Base Cost: ${node.data("cost")}</h1>`)
+        if(node.data("selected")){
+          $(hoverElement).append(`
+        <h4>Purchased for: ${node.data("purchaseCost")}</h1>
         `)
+        } else{
+          $(hoverElement).append(`
+        <h4>Current Cost: ${getCurrentCost(node, numSelected)}</h1>`)
+        }
         for (const i in node.data("bonuses")) {
           if(node.data("bonuses")[i] != ""){
             $(hoverElement).append(`<h4>${convertBonus(node.data("bonuses")[i])}</h4>`)
