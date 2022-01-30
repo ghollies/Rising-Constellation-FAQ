@@ -415,6 +415,27 @@ In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Docs: Simple Credit Calculator</title>
+      <link>/Rising-Constellation-FAQ/docs/tools/simple_credit/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/tools/simple_credit/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;calculating-credit-for-a-system&#34;&gt;Calculating Credit for a system&lt;/h3&gt;
+&lt;script defer language=&#34;javascript&#34; type=&#34;text/javascript&#34;  src=&#34;/Rising-Constellation-FAQ/js/credits.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://code.highcharts.com/highcharts.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;label&gt; Number of planetary slots &lt;input id=&#34;slots_input&#34; inputmode=&#34;numeric&#34;&gt;&lt;/label&gt;&lt;/br&gt;
+&lt;label&gt; Appeal of planet &lt;input id=&#34;appeal_input&#34; inputmode=&#34;numeric&#34;&gt;&lt;/label&gt;&lt;/br&gt;
+&lt;label&gt; level of buildings &lt;input id=&#34;level_input&#34; inputmode=&#34;numeric&#34;&gt;&lt;/label&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div id = &#34;container&#34; style = &#34;width: 550px; height: 400px; margin: 0 auto&#34;&gt;&lt;/div&gt;
+&lt;p&gt;Thanks to Joeliuscaesar for the idea!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Stats</title>
       <link>/Rising-Constellation-FAQ/docs/ships/stats/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
@@ -1141,6 +1162,20 @@ $1\|$2
 |Destroyer|capital|103200|6000|16240|400|4000|0|65|40|[60\|60\|60\|60]|[45\|45\|45\|100]|15|10|5|
 |Cruiser|capital|128000|8000|19880|500|5000|0|50|70|[70\|70]|[330]|15|15|40|
 |Coordinator|capital|166800|10000|17456|600|6000|0|85|75|[]|[20\|20\|20]|40|30|0| --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System Planner</title>
+      <link>/Rising-Constellation-FAQ/docs/tools/system_planner/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/Rising-Constellation-FAQ/docs/tools/system_planner/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Created by  Jean Michel (Audali)&lt;/p&gt;
 
       </description>
     </item>

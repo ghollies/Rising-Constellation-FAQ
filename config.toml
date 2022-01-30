@@ -103,6 +103,10 @@ contentDir = "content/fr"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
+[[menu.main]]
+    name = "System Planner"
+    weight = 50
+    url = "https://github.com/google/docsy/"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
