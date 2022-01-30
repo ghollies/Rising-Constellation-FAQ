@@ -414,7 +414,7 @@
 	  "b1 f()": "f2",
 	  "b2 input": ":body_tec",
 	  "b2 output": ":sys_technology",
-	  "b2 min": 2.1,
+	  "b2 min": 3,
 	  "b2 max": 30,
 	  "b2 f()": "g2",
 	  "b3 input": "",
