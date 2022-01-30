@@ -12,7 +12,7 @@ description: >
 }
 </style>
 
-Information accurate as of: 1/15/2022 for Legacy games
+Information accurate as of: 1/13/2022 Legacy 6
 
 ### Habitable Planet Buildings
 <table id="habitable_table" style="width: !100%;  display: table; table-layout: auto">

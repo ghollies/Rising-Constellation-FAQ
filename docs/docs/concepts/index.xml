@@ -279,7 +279,9 @@ Morale resets at the end of each combat, so squadron are always back at full mor
       <description>
         
         
-        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.17/cytoscape.min.js&#34;&gt;   &lt;/script&gt;
+        &lt;h3 id=&#34;how-lexes-work&#34;&gt;How Lexes Work&lt;/h3&gt;
+&lt;p&gt;You can purchase Lexes, also known as policies, by spending Ideology. You must select and apply the different policies before they take affect. Additional policy slots cost an ever increasing amount, up to 100k Ideology.&lt;/p&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.17/cytoscape.min.js&#34;&gt;   &lt;/script&gt;
 &lt;script src=&#34;https://unpkg.com/dagre@0.7.4/dist/dagre.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/cytoscape/cytoscape.js-dagre/1.5.0/cytoscape-dagre.js&#34;&gt;&lt;/script&gt;
 &lt;!-- &lt;script defer language=&#34;javascript&#34; type=&#34;text/javascript&#34;  src=&#34;https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.20.0/cytoscape.umd.js&#34;&gt;&lt;/script&gt;
