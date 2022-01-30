@@ -5,6 +5,9 @@ weight: 4
 description: >
   What Policies exist?
 ---
+### How Lexes Work
+You can purchase Lexes, also known as policies, by spending Ideology. You must select and apply the different policies before they take affect. Additional policy slots cost an ever increasing amount, up to 100k Ideology.
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.17/cytoscape.min.js">   </script>
 <script src="https://unpkg.com/dagre@0.7.4/dist/dagre.js"></script>
 <script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-dagre/1.5.0/cytoscape-dagre.js"></script>
