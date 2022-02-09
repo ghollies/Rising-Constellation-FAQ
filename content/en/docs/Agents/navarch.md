@@ -25,7 +25,11 @@ Allows a navarch to raid resources from an enemy controlled system or dominion. 
 #### Does the time to pillage depend on bombing power?
 yes slightly depends on defense and bombing power. The base time length for a pillage is 1h
 ### How much will I get from pillaging?
-One pillage gives 150 ticks of the production of the system for a normal level of success, and 200 ticks for a critical. Each pillage lowers % of resources raided by 45% and it recovers over time by .25% per tick 
+One pillage gives 150 ticks of the production of the system for a normal level of success, and 200 ticks for a critical. Each pillage lowers % of resources raided by 45% and it recovers over time by .25% per tick
+### Will my fleet take damage from bombing a system?
+Yes the fleet will take damage based on the total amount of defense the system has. On a failure, the damage is increased.
+### What is the difference between Bombard and Pillage actions?
+Both rely upon the bombing power of the fleet, however a bombard will destroy more buildings and kill more people, but without providing resources to the attacker.
 
 ### Conquest ![Invasion](/images/invasion.PNG)
 Allows a navarch to convert an enemy controlled system or dominion into a system directly under your control. Compares the navarch's total invasion power against the defense of the system. Increased by Conquest skill, and by having certain types of ships in the fleet. see [Ship Stats - Invasion](/docs/ships/stats/#what-are-the-base-stats-of-all-of-the-ships) 
