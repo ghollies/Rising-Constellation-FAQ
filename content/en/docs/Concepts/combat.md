@@ -38,7 +38,7 @@ If there are more than one defending navarchs in the system, the supporting ones
 9. C-L1
 
 #### 2. Roll for initiative
-The navarchs commanding the fleets compare their levels and the higher level one will win more often.
+The navarchs commanding the fleets roll off, using their  navarch levels as a modifier so that the higher level one will win more often.
 
 #### 3. Attack
 Each squadron takes turns making all of its attacks against a random enemy squadron on the battlefield.

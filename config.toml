@@ -7,7 +7,7 @@ baseURL = "/Rising-Constellation-FAQ/"
 #
 
 title = "Unofficial Rising Constellation FAQ"
-# rm -rf docs/* && env HUGO_ENV="production" hugo && git add . && git commit -m "
+# rm -rf docs/* && env HUGO_ENV="production" hugo && git add . && git commit -m "add damage for bombing"
 
 enableRobotsTXT = true
 

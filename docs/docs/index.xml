@@ -194,7 +194,7 @@ Unlike the other two paths, this value is hidden from the enemy.&lt;/p&gt;
 &lt;li&gt;C-L1&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;2-roll-for-initiative&#34;&gt;2. Roll for initiative&lt;/h4&gt;
-&lt;p&gt;The navarchs commanding the fleets compare their levels and the higher level one will win more often.&lt;/p&gt;
+&lt;p&gt;The navarchs commanding the fleets roll off, using their  navarch levels as a modifier so that the higher level one will win more often.&lt;/p&gt;
 &lt;h4 id=&#34;3-attack&#34;&gt;3. Attack&lt;/h4&gt;
 &lt;p&gt;Each squadron takes turns making all of its attacks against a random enemy squadron on the battlefield.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: a squadron of 2 Gunner ships would make 2 explosive attacks, where a squadron of 8 Light Fighters would make 8 * (2 energy attacks + 1 explosive attack) for a total of 24 individual attacks.&lt;/p&gt;
