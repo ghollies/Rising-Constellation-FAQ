@@ -27,7 +27,7 @@ XP is not flat by lvl but exponential, like agent xp
 energy attack is reduced by [shield](/docs/ships/stats/#shield), and explosive can be blocked by [flack](/docs/ships/stats/#flack)
 
 ### Can we donate ships?
-No, only resources
+You can exchange fleets and navarches on the [Market](/docs/concepts/market/)
 
 ### How do I build a fleet
 To build a fleet, you must first build the necessary buildings on a moon or asteroid of a system you control (not a dominion), and then deploy a navarch on that system. By selecting it, a small interface appears, displaying six lines of three boxes. You can then design your fleet by clicking on the empty boxes and building the desired ships.

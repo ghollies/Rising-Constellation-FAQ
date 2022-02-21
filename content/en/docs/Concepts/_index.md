@@ -54,11 +54,6 @@ The number at the bottom of your screen next to each resource show the amount th
 <br/>Example where the player is earning 3441 credits, 205 tech and 363 ideology per 3 minutes <br/>
 ![resource bar](/images/resource_bar.PNG)
 
-#### Resource Tax on player trades
-How long does it take for tax to drop from 60 to 5
-not sure anymore..
-but like 2% per hour? 
-
 #### Is there a resource cap?
 No 
 
