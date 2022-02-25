@@ -448,8 +448,9 @@ In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
       <description>
         
         
-        &lt;!-- $1\|$2
-$1\|$2
+        &lt;!--
+&#34;(.*\d+)\|(\d+.*)&#34;
+&#34;$1\|$2&#34;
 --&gt;
 &lt;h3 id=&#34;what-do-the-stats-mean&#34;&gt;What do the stats mean?&lt;/h3&gt;
 &lt;h4 id=&#34;shield&#34;&gt;Shield&lt;/h4&gt;
@@ -928,14 +929,14 @@ $1\|$2
 &lt;td&gt;3000&lt;/td&gt;
 &lt;td&gt;6720&lt;/td&gt;
 &lt;td&gt;300&lt;/td&gt;
-&lt;td&gt;800&lt;/td&gt;
+&lt;td&gt;1500&lt;/td&gt;
 &lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;50&lt;/td&gt;
 &lt;td&gt;5&lt;/td&gt;
 &lt;td&gt;[3|3]&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1053,8 +1054,8 @@ $1\|$2
 &lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[16]&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1070,8 +1071,8 @@ $1\|$2
 &lt;td&gt;80&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;td&gt;[16]&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;75&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
