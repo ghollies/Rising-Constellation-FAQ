@@ -1,65 +1,65 @@
 key,ancestor,type,class,illustration,cost,info,,tier,comment,Name
 :citadel,nil,:building,:root,citadel.jpg,50,nil,,0,,Hologaphic Storage System
 :infra_open_1,:citadel,:building,:open,infra_open_1.jpg,50,nil,,1,,Urbanization
-:open_industries,:infra_open_1,:building,:open,open_industries.jpg,300,nil,,2,,Cookie-Cutter Cities
-:open_research,:open_industries,:building,:open,open_research.jpg,5800,nil,,4,,Z-Poly Coils
-:open_intel,:open_research,:building,:open,open_intel.jpg,6200,nil,,6,,Drone Swarms
-:infra_open_2,:infra_open_1,:building,:open,infra_open_1.jpg,50,:infra_open_2,,2,,Urbanization II
-:open_ideo,:infra_open_2,:building,:open,open_ideo.jpg,700,nil,,3,,Floating Gardens
-:infra_open_3,:open_ideo,:building,:open,infra_open_1.jpg,500,:infra_open_3,,4,,Urbanization III
-:open_defense,:infra_open_3,:building,:open,open_defense.jpg,1800,nil,,5,,Extended Magnetic Generators
-:infra_open_4,:open_defense,:building,:open,infra_open_1.jpg,1400,:infra_open_4,,6,,Urbanization IV
-:infra_open_5,:infra_open_4,:building,:open,infra_open_1.jpg,3000,:infra_open_5,,7,,Urbanization V
-:open_credit,:infra_open_1,:building,:open,open_credit.jpg,800,nil,,2,,Publicity Terminals
-:open_island,:open_credit,:building,:open,open_island.jpg,2400,nil,,2,,Floating Cities
-:open_lift,:open_island,:building,:open,open_lift.jpg,3600,nil,,4,,Nanotubes
-:open_happiness,:open_lift,:building,:open,open_happiness.jpg,4800,nil,,5,,Climate Control
-:open_mobility,:open_happiness,:building,:open,open_mobility.jpg,6000,nil,,5,,Luxury Architecture
+:open_industries,:infra_open_1,:building,:open,open_industries.jpg,1000,nil,,2,,Cookie-Cutter Cities
+:open_research,:open_industries,:building,:open,open_research.jpg,40000,nil,,5,,Z-Poly Coils
+:open_intel,:open_research,:building,:open,open_intel.jpg,30000,nil,,5,,Drone Swarms
+:infra_open_2,:infra_open_1,:building,:open,infra_open_1.jpg,400,:infra_open_2,,2,,Urbanization II
+:open_ideo,:infra_open_2,:building,:open,open_ideo.jpg,3000,nil,,4,,Floating Gardens
+:infra_open_3,:open_ideo,:building,:open,infra_open_1.jpg,2000,:infra_open_3,,3,,Urbanization III
+:open_defense,:infra_open_3,:building,:open,open_defense.jpg,4000,nil,,3,,Extended Magnetic Generators
+:infra_open_4,:open_defense,:building,:open,infra_open_1.jpg,8000,:infra_open_4,,4,,Urbanization IV
+:infra_open_5,:infra_open_4,:building,:open,infra_open_1.jpg,20000,:infra_open_5,,5,,Urbanization V
+:open_credit,:infra_open_1,:building,:open,open_credit.jpg,16000,nil,,2,,Publicity Terminals
+:open_island,:open_credit,:building,:open,open_island.jpg,40000,nil,,5,,Floating Cities
+:open_lift,:open_island,:building,:open,open_lift.jpg,30000,nil,,5,,Nanotubes
+:open_happiness,:open_lift,:building,:open,open_happiness.jpg,40000,nil,,5,,Climate Control
+:open_mobility,:open_happiness,:building,:open,open_mobility.jpg,120000,nil,,6,,Luxury Architecture
 :infra_dome_1,:citadel,:building,:dome,infra_dome_1.jpg,50,nil,,1,,Controled Environment
-:dome_pop,:infra_dome_1,:building,:dome,dome_pop.jpg,500,nil,,2,,Pressurized Cities
-:dome_happiness,:dome_pop,:building,:dome,dome_happiness.jpg,1800,nil,,3,,Holograms
-:dome_ideo,:dome_happiness,:building,:dome,dome_ideo.jpg,12000,nil,,5,,Monumental Architecture
-:infra_dome_2,:infra_dome_1,:building,:dome,infra_dome_1.jpg,100,:infra_dome_2,,2,,Controled Environment II
-:dome_defense_1,:infra_dome_2,:building,:dome,dome_defense_1.jpg,900,nil,,3,,Autonomous Drills
-:infra_dome_3,:dome_defense_1,:building,:dome,infra_dome_1.jpg,500,:infra_dome_3,,4,,Controled Environment III
-:dome_defense_2,:infra_dome_3,:building,:dome,dome_defense_2.jpg,1600,nil,,5,,Quantum Cryptography
-:infra_dome_4,:dome_defense_2,:building,:dome,infra_dome_1.jpg,1500,:infra_dome_4,,6,,Controled Environment IV
-:infra_dome_5,:infra_dome_4,:building,:dome,infra_dome_1.jpg,3500,:infra_dome_5,,7,,Controled Environment V
-:dome_mobility,:infra_dome_1,:building,:dome,dome_mobility.jpg,600,nil,,2,,Magnetic Cranes
-:dome_academy,:dome_mobility,:building,:dome,dome_academy.jpg,2100,nil,,3,,Neural Derivations
-:dome_industries,:dome_academy,:building,:dome,dome_industries.jpg,13000,nil,,5,,Advanced Catalysis
+:dome_pop,:infra_dome_1,:building,:dome,dome_pop.jpg,3000,nil,,3,,Pressurized Cities
+:dome_happiness,:dome_pop,:building,:dome,dome_happiness.jpg,12000,nil,,4,,Holograms
+:dome_ideo,:dome_happiness,:building,:dome,dome_ideo.jpg,150000,nil,,6,,Monumental Architecture
+:infra_dome_2,:infra_dome_1,:building,:dome,infra_dome_1.jpg,400,:infra_dome_2,,2,,Controled Environment II
+:dome_defense_1,:infra_dome_2,:building,:dome,dome_defense_1.jpg,3000,nil,,3,,Autonomous Drills
+:infra_dome_3,:dome_defense_1,:building,:dome,infra_dome_1.jpg,2000,:infra_dome_3,,3,,Controled Environment III
+:dome_defense_2,:infra_dome_3,:building,:dome,dome_defense_2.jpg,14000,nil,,4,,Quantum Cryptography
+:infra_dome_4,:dome_defense_2,:building,:dome,infra_dome_1.jpg,8000,:infra_dome_4,,4,,Controled Environment IV
+:infra_dome_5,:infra_dome_4,:building,:dome,infra_dome_1.jpg,20000,:infra_dome_5,,5,,Controled Environment V
+:dome_mobility,:infra_dome_1,:building,:dome,dome_mobility.jpg,2000,nil,,2,,Magnetic Cranes
+:dome_academy,:dome_mobility,:building,:dome,dome_academy.jpg,16000,nil,,4,,Neural Derivations
+:dome_industries,:dome_academy,:building,:dome,dome_industries.jpg,150000,nil,,6,,Advanced Catalysis
 :orbital_credit,:citadel,:building,:orbital,orbital_credit.jpg,50,nil,,1,,Magnetic Pipelines
-:orbital_defense,:orbital_credit,:building,:orbital,orbital_defense.jpg,300,nil,,2,,Signature Reduction
-:orbital_prod,:orbital_defense,:building,:orbital,orbital_prod.jpg,1100,nil,,3,,Crystal Shell
-:orbital_radar,:orbital_prod,:building,:orbital,orbital_radar.jpg,2500,nil,,4,,S.L.S.D. Captors
-:infra_orbital_2,:orbital_credit,:building,:orbital,infra_orbital.jpg,300,:infra_orbital_2,,2,,Pressurized Environments II
-:infra_orbital_3,:infra_orbital_2,:building,:orbital,infra_orbital.jpg,1000,:infra_orbital_3,,3,,Pressurized Environments III
-:infra_orbital_4,:infra_orbital_3,:building,:orbital,infra_orbital.jpg,1800,:infra_orbital_4,,4,,Pressurized Environments IV
-:infra_orbital_5,:infra_orbital_4,:building,:orbital,infra_orbital.jpg,3500,:infra_orbital_5,,5,,Pressurized Environments V
-:orbital_research,:orbital_credit,:building,:orbital,orbital_research.jpg,600,nil,,2,,Exobiology
-:orbital_happiness,:orbital_research,:building,:orbital,orbital_happiness.jpg,1500,nil,,3,,Gravity Generator
-:orbital_mobility,:orbital_happiness,:building,:orbital,orbital_mobility.jpg,5000,nil,,4,,Secured Habitations
-:shipyard_1,:citadel,:building,:ship,shipyard_1.jpg,350,nil,,1,,Assembly Lines
-:fighter_2,:shipyard_1,:ship,:ship,fighter_1.jpg,600,nil,,2,,Light Fuselage
-:fighter_4,:fighter_2,:ship,:ship,fighter_3.jpg,1300,nil,,3,,Compact Turrets
-:fighter_3,:shipyard_1,:ship,:ship,fighter_4.jpg,300,nil,,2,,Reinforced Fuselage
-:merge_fighter_1,:shipyard_1,:ship,:ship,merge_fighter_1.jpg,800,:merge_fighter_1,,2,,Fighter Formation I
-:shipyard_2,:merge_fighter_1,:building,:ship,shipyard_2.jpg,900,nil,,3,,Precision Cranes 
-:merge_fighter_2,:shipyard_2,:ship,:ship,merge_fighter_2.jpg,2500,:merge_fighter_2,,4,,Fighter Formation II
-:merge_corvette_1,:merge_fighter_2,:ship,:ship,merge_corvette_1.jpg,3000,:merge_corvette_1,,5,,Corvette Formation I 
-:shipyard_3,:merge_corvette_1,:building,:ship,shipyard_3.jpg,3500,nil,,6,,Orbital Holds
-:frigate_4,:shipyard_3,:ship,:ship,frigate_4.jpg,2800,nil,,7,,Repair Bay
-:frigate_3,:frigate_4,:ship,:ship,frigate_3.jpg,5000,nil,,8,,Military Drones
-:transport_2,:shipyard_3,:ship,:ship,transport_2.jpg,3500,nil,,7,,Carrier
-:frigate_2,:transport_2,:ship,:ship,frigate_2.jpg,5200,nil,,8,,Hypersonic Chargelauncher
-:merge_fighter_3,:shipyard_3,:ship,:ship,merge_fighter_3.jpg,6000,:merge_fighter_3,,7,,Fighter Formation III
-:merge_corvette_2,:merge_fighter_3,:ship,:ship,merge_corvette_2.jpg,7500,:merge_corvette_2,,8,,Corvette Formation II
-:shipyard_4,:merge_corvette_2,:building,:ship,shipyard_4.jpg,7500,nil,,9,,Space Hyperstructures
-:capital_1,:shipyard_4,:ship,:ship,capital_1.jpg,12500,nil,,10,,Armoring
-:capital_2,:capital_1,:ship,:ship,capital_2.jpg,15000,nil,,11,,Advanced Armoring
-:merge_frigate_1,:shipyard_4,:ship,:ship,merge_frigate_1.jpg,12000,:merge_frigate_1,,10,,Frigate Formation I
-:capital_3,:shipyard_4,:ship,:ship,capital_3.jpg,10000,nil,,10,,Multifunctional Nodes
-:corvette_1,:shipyard_2,:ship,:ship,corvette_1.jpg,2200,nil,,4,,Light Nodal Fuselage
-:corvette_2,:shipyard_2,:ship,:ship,corvette_2.jpg,2800,nil,,4,,Nodal Fuselage
-:corvette_3,:corvette_2,:ship,:ship,corvette_3.jpg,5600,nil,,5,,Auto-Aim
-:transport_1,:citadel,:ship,:ship,transport_1.jpg,50,nil,,1,,Hypersleep Chamber
+:orbital_defense,:orbital_credit,:building,:orbital,orbital_defense.jpg,200,nil,,2,,Signature Reduction
+:orbital_prod,:orbital_defense,:building,:orbital,orbital_prod.jpg,4000,nil,,3,,Crystal Shell
+:orbital_radar,:orbital_prod,:building,:orbital,orbital_radar.jpg,8000,nil,,4,,S.L.S.D. Captors
+:infra_orbital_2,:orbital_credit,:building,:orbital,infra_orbital.jpg,400,:infra_orbital_2,,2,,Pressurized Environments II
+:infra_orbital_3,:infra_orbital_2,:building,:orbital,infra_orbital.jpg,2000,:infra_orbital_3,,3,,Pressurized Environments III
+:infra_orbital_4,:infra_orbital_3,:building,:orbital,infra_orbital.jpg,8000,:infra_orbital_4,,4,,Pressurized Environments IV
+:infra_orbital_5,:infra_orbital_4,:building,:orbital,infra_orbital.jpg,20000,:infra_orbital_5,,5,,Pressurized Environments V
+:orbital_research,:orbital_credit,:building,:orbital,orbital_research.jpg,3000,nil,,2,,Exobiology
+:orbital_happiness,:orbital_research,:building,:orbital,orbital_happiness.jpg,14000,nil,,4,,Gravity Generator
+:orbital_mobility,:orbital_happiness,:building,:orbital,orbital_mobility.jpg,50000,nil,,5,,Secured Habitations
+:shipyard_1,:citadel,:building,:ship,shipyard_1.jpg,300,nil,,1,,Assembly Lines
+:fighter_2,:shipyard_1,:ship,:ship,fighter_1.jpg,800,nil,,1,,Light Fuselage
+:fighter_4,:fighter_2,:ship,:ship,fighter_3.jpg,6000,nil,,2,,Compact Turrets
+:fighter_3,:shipyard_1,:ship,:ship,fighter_4.jpg,800,nil,,1,,Reinforced Fuselage
+:merge_fighter_1,:shipyard_1,:ship,:ship,merge_fighter_1.jpg,10000,:merge_fighter_1,,2,,Fighter Formation I
+:shipyard_2,:merge_fighter_1,:building,:ship,shipyard_2.jpg,3000,nil,,2,,Precision Cranes 
+:merge_fighter_2,:shipyard_2,:ship,:ship,merge_fighter_2.jpg,40000,:merge_fighter_2,,3,,Fighter Formation II
+:merge_corvette_1,:merge_fighter_2,:ship,:ship,merge_corvette_1.jpg,5000,:merge_corvette_1,,3,,Corvette Formation I 
+:shipyard_3,:merge_corvette_1,:building,:ship,shipyard_3.jpg,10000,nil,,4,,Orbital Holds
+:frigate_4,:shipyard_3,:ship,:ship,frigate_4.jpg,50000,nil,,4,,Repair Bay
+:frigate_3,:frigate_4,:ship,:ship,frigate_3.jpg,70000,nil,,4,,Military Drones
+:transport_2,:shipyard_3,:ship,:ship,transport_2.jpg,60000,nil,,4,,Carrier
+:frigate_2,:transport_2,:ship,:ship,frigate_2.jpg,80000,nil,,4,,Hypersonic Chargelauncher
+:merge_fighter_3,:shipyard_3,:ship,:ship,merge_fighter_3.jpg,150000,:merge_fighter_3,,5,,Fighter Formation III
+:merge_corvette_2,:merge_fighter_3,:ship,:ship,merge_corvette_2.jpg,20000,:merge_corvette_2,,4,,Corvette Formation II
+:shipyard_4,:merge_corvette_2,:building,:ship,shipyard_4.jpg,50000,nil,,5,,Space Hyperstructures
+:capital_1,:shipyard_4,:ship,:ship,capital_1.jpg,300000,nil,,5,,Armoring
+:capital_2,:capital_1,:ship,:ship,capital_2.jpg,400000,nil,,5,,Advanced Armoring
+:merge_frigate_1,:shipyard_4,:ship,:ship,merge_frigate_1.jpg,50000,:merge_frigate_1,,5,,Frigate Formation I
+:capital_3,:shipyard_4,:ship,:ship,capital_3.jpg,300000,nil,,5,,Multifunctional Nodes
+:corvette_1,:shipyard_2,:ship,:ship,corvette_1.jpg,18000,nil,,3,,Light Nodal Fuselage
+:corvette_2,:shipyard_2,:ship,:ship,corvette_2.jpg,25000,nil,,3,,Nodal Fuselage
+:corvette_3,:corvette_2,:ship,:ship,corvette_3.jpg,25000,nil,,3,,Auto-Aim
+:transport_1,:citadel,:ship,:ship,transport_1.jpg,500,nil,,1,,Hypersleep Chamber
