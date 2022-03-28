@@ -193,7 +193,7 @@ var cy = window.cy = cytoscape({
       currentSpent=Number($("#spent").text().split(": ")[1])
       $("#spent").text("Total Spent: " + (currentSpent - node.data("purchaseCost")))
       numSelected--
-      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*50)) + "%")
+      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*5)) + "%")
     } else {
       node.style({
         'background-color': 'lightblue',
@@ -204,7 +204,7 @@ var cy = window.cy = cytoscape({
       node.data("purchaseCost", getCurrentCost(node, numSelected))
       $("#spent").text("Total Spent: " + (currentSpent + getCurrentCost(node, numSelected)))
       numSelected++
-      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*50)) + "%")
+      $("#multiplier").text("Cost Multiplier: "+ (100+(numSelected*5)) + "%")
     }
   });
   
