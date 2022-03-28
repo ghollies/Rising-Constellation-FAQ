@@ -458,7 +458,7 @@ In a future implementation, will also engage non-allied fleets.&lt;/p&gt;
 &lt;h4 id=&#34;flack&#34;&gt;Flack&lt;/h4&gt;
 &lt;p&gt;Chance to fully avoid the incoming explosive attack&lt;/p&gt;
 &lt;h3 id=&#34;what-are-the-base-stats-of-all-of-the-ships&#34;&gt;What are the base stats of all of the ships?&lt;/h3&gt;
-&lt;p&gt;As of 1/30/2022  Legacy 6&lt;/p&gt;
+&lt;p&gt;As of 3/26/2022  Legacy 8&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1298,6 +1298,7 @@ As of 1/15/2022
         
         &lt;h3 id=&#34;how-lexes-work&#34;&gt;How Lexes Work&lt;/h3&gt;
 &lt;p&gt;You can purchase Lexes, also known as policies, by spending Ideology. You must select and apply the different policies before they take affect. Additional policy slots cost an ever increasing amount, up to 100k Ideology.&lt;/p&gt;
+&lt;p&gt;As of 3/26/2022  Legacy 8&lt;/p&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.17/cytoscape.min.js&#34;&gt;   &lt;/script&gt;
 &lt;script src=&#34;https://unpkg.com/dagre@0.7.4/dist/dagre.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/cytoscape/cytoscape.js-dagre/1.5.0/cytoscape-dagre.js&#34;&gt;&lt;/script&gt;
@@ -1354,7 +1355,7 @@ As of 1/15/2022
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/popper.js@1.14.5/dist/umd/popper.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/cytoscape-popper@1.0.2/cytoscape-popper.min.js&#34;&gt;&lt;/script&gt;
 &lt;script defer language=&#34;javascript&#34; type=&#34;text/javascript&#34; src=&#34;/Rising-Constellation-FAQ/js/patentTree.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;details-coming-soon&#34;&gt;Details Coming soon!&lt;/h3&gt;
+&lt;p&gt;As of 3/26/2022  Legacy 8&lt;/p&gt;
 &lt;div&gt;
     &lt;style&gt;
       /* body {
@@ -1822,7 +1823,7 @@ Both of these will require an open slot (either as dominion, or system slot)&lt;
 	display: none;
 }
 &lt;/style&gt;
-&lt;p&gt;Information accurate as of: 1/13/2022 Legacy 6&lt;/p&gt;
+&lt;p&gt;As of 3/26/2022  Legacy 8&lt;/p&gt;
 &lt;h3 id=&#34;habitable-planet-buildings&#34;&gt;Habitable Planet Buildings&lt;/h3&gt;
 &lt;table id=&#34;habitable_table&#34; style=&#34;width: !100%;  display: table; table-layout: auto&#34;&gt;
 	&lt;thead&gt;

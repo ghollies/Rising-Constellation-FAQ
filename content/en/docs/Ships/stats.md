@@ -17,7 +17,7 @@ Absorbs a percent of incoming energy attacks
 Chance to fully avoid the incoming explosive attack
 
 ### What are the base stats of all of the ships?
-As of 1/30/2022  Legacy 6
+As of 3/26/2022  Legacy 8
 
 |Name|Class|Credit Cost|Tech Cost|Production|Maintenance|Hull|Maneuverability|Shield|Flack|Energy Attack|Explosive Attack|Repair|Invasion|Bombing per ship|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

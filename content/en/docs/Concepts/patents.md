@@ -16,7 +16,8 @@ description: >
 <script src="https://cdn.jsdelivr.net/npm/cytoscape-popper@1.0.2/cytoscape-popper.min.js"></script>
 <script defer language="javascript" type="text/javascript" src="/js/patentTree.js"></script>
 
-### Details Coming soon!
+As of 3/26/2022  Legacy 8
+
 <div>
     <style>
       /* body {
