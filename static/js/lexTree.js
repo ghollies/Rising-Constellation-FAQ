@@ -45,7 +45,7 @@ iconMap = {
   ":speaker_encourage_hate":" Siderian Destabilization Skill", 
   }
 function getCurrentCost(node, numSelected){
-  return node.data("cost") * ((100 + (numSelected * 50)) * .01)
+  return node.data("cost") * ((100 + (numSelected * 5)) * .01)
 }
 function getEle(ele){
   var eleVal = iconMap[ele]
