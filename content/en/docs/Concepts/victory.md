@@ -7,7 +7,9 @@ description: >
 ---
 ### Victory
 #### How does one team win? 
-There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals reached. The goal of the game is to hit the 12 stars mark first as a team.
+There are 3 paths to victory. Each path gives 2/3/5 stars depending on the goals reached. Stars from previous levels are accumulated and still count towards victory. The goal of the game is to hit the 14 stars mark first as a team.
+
+*Example*: A team could win with 5+3+2 stars from Path of Shadows, and 2 stars from Influence and Conquest. (10 + 2 + 2 = 14)
 
 #### Path of Conquest
 Stars are earned by a faction controlling a sector. Each sector is worth a certain number of Sector Points, and there are thresholds for how many sector points are needed for each of the star levels. You can hover over a sector to see the number of points it is worth (in the middle diamond).

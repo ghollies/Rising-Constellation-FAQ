@@ -603,7 +603,7 @@
 		"type": ":ship",
 		"class": ":ship",
 		"illustration": "merge_fighter_2.jpg",
-		"cost": "40000",
+		"cost": "60000",
 		"info": ":merge_fighter_2",
 		"": "",
 		"tier": "3",
